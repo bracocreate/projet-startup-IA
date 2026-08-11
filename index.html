@@ -1,0 +1,1113 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Business Plan SaaS IA Assurance - Version Premium</title>
+  <style>
+    :root {
+      --bg: #03050a;
+      --bg2: #070b12;
+      --surface: rgba(13, 17, 27, 0.72);
+      --surface-strong: rgba(18, 23, 36, 0.9);
+      --text: #f6f8ff;
+      --muted: #929caf;
+      --line: rgba(255, 255, 255, 0.09);
+      --cyan: #72f7e2;
+      --violet: #9b8cff;
+      --blue: #68a7ff;
+      --green: #66e3c4;
+      --red: #ff6b6b;
+      --orange: #ffa500;
+      --shadow: 0 30px 90px rgba(0, 0, 0, 0.42);
+    }
+    
+    * { box-sizing: border-box; }
+    
+    html {
+      scroll-behavior: smooth;
+      background: var(--bg);
+    }
+    
+    body {
+      margin: 0;
+      color: var(--text);
+      background:
+        radial-gradient(900px 500px at 12% -5%, rgba(114, 247, 226, 0.12), transparent 60%),
+        radial-gradient(850px 550px at 90% 2%, rgba(155, 140, 255, 0.13), transparent 62%),
+        radial-gradient(900px 600px at 50% 70%, rgba(104, 167, 255, 0.06), transparent 65%),
+        linear-gradient(180deg, #03050a 0%, #050811 50%, #03050a 100%);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.65;
+    }
+    
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: -1;
+      opacity: 0.22;
+      background-image: radial-gradient(rgba(255, 255, 255, 0.7) 0.5px, transparent 0.5px);
+      background-size: 5px 5px;
+      mask-image: linear-gradient(to bottom, black, transparent 80%);
+    }
+    
+    .container {
+      max-width: 1240px;
+      margin: auto;
+      padding: 0 22px;
+    }
+    
+    /* Header */
+    .header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(3, 5, 10, 0.58);
+      backdrop-filter: blur(22px) saturate(150%);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.07);
+    }
+    
+    .nav {
+      max-width: 1240px;
+      margin: auto;
+      padding: 12px 22px;
+      display: flex;
+      gap: 5px;
+      overflow: auto;
+      white-space: nowrap;
+      scrollbar-width: none;
+    }
+    
+    .nav::-webkit-scrollbar { display: none; }
+    
+    .nav a {
+      color: #7f8a9f;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: 600;
+      padding: 8px 11px;
+      border-radius: 10px;
+      transition: 0.2s;
+    }
+    
+    .nav a:hover {
+      color: #fff;
+      background: rgba(255, 255, 255, 0.06);
+    }
+    
+    /* Main Content */
+    main {
+      padding: 40px 0 100px;
+    }
+    
+    /* Hero Section */
+    .hero {
+      min-height: 650px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      position: relative;
+      padding: 80px 0 65px;
+    }
+    
+    .hero::before {
+      content: "";
+      position: absolute;
+      width: 520px;
+      height: 520px;
+      left: 30%;
+      top: 5%;
+      background: radial-gradient(circle, rgba(114, 247, 226, 0.09), rgba(155, 140, 255, 0.05) 35%, transparent 68%);
+      filter: blur(18px);
+      pointer-events: none;
+    }
+    
+    .eyebrow {
+      width: max-content;
+      color: #a8b3c7;
+      font-weight: 700;
+      letter-spacing: 0.16em;
+      font-size: 11px;
+      padding: 8px 12px;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.035);
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+    }
+    
+    h1 {
+      max-width: 1050px;
+      font-size: clamp(48px, 8vw, 94px);
+      line-height: 0.98;
+      letter-spacing: -0.065em;
+      margin: 22px 0 26px;
+      font-weight: 800;
+      position: relative;
+    }
+    
+    h1 span {
+      color: transparent;
+      background: linear-gradient(100deg, var(--cyan), #b6a8ff 58%, #77a8ff);
+      -webkit-background-clip: text;
+      background-clip: text;
+    }
+    
+    .lead {
+      max-width: 780px;
+      color: #aab4c5;
+      font-size: 19px;
+      line-height: 1.7;
+    }
+    
+    /* Metrics */
+    .metrics {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+      margin-top: 45px;
+    }
+    
+    .metrics > div {
+      position: relative;
+      overflow: hidden;
+      padding: 20px 18px;
+      background: linear-gradient(145deg, rgba(17, 23, 36, 0.8), rgba(8, 12, 20, 0.72));
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      box-shadow: inset 0 1px rgba(255, 255, 255, 0.05), 0 15px 50px rgba(0, 0, 0, 0.2);
+      transition: transform 0.25s, border-color 0.25s;
+    }
+    
+    .metrics > div:after {
+      content: "";
+      position: absolute;
+      width: 110px;
+      height: 110px;
+      right: -55px;
+      top: -55px;
+      background: radial-gradient(circle, rgba(114, 247, 226, 0.16), transparent 65%);
+    }
+    
+    .metrics > div:hover {
+      transform: translateY(-3px);
+      border-color: rgba(114, 247, 226, 0.2);
+    }
+    
+    .metrics b {
+      display: block;
+      font-size: 28px;
+      letter-spacing: -0.04em;
+      background: linear-gradient(100deg, #fff, var(--cyan));
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+    
+    .metrics span {
+      display: block;
+      color: #778398;
+      font-size: 12px;
+      margin-top: 4px;
+    }
+    
+    /* Sections */
+    .section {
+      margin: 100px 0;
+      position: relative;
+    }
+    
+    h2 {
+      position: relative;
+      font-size: 38px;
+      line-height: 1.1;
+      letter-spacing: -0.04em;
+      margin: 0 0 26px;
+      padding-top: 18px;
+    }
+    
+    h2:before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 52px;
+      height: 2px;
+      background: linear-gradient(90deg, var(--cyan), var(--violet));
+      border-radius: 9px;
+    }
+    
+    h3 {
+      font-size: 22px;
+      letter-spacing: -0.02em;
+      margin-top: 34px;
+      color: #e9edfa;
+    }
+    
+    p, li {
+      color: #a4afc0;
+      line-height: 1.7;
+    }
+    
+    strong {
+      color: #f4f7ff;
+    }
+    
+    /* Cards */
+    .card {
+      padding: 26px;
+      background: rgba(10, 14, 23, 0.7);
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      box-shadow: var(--shadow);
+      position: relative;
+      overflow: hidden;
+      margin: 20px 0;
+    }
+    
+    .card:before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, var(--cyan), transparent);
+      opacity: 0.45;
+    }
+    
+    .card h3 {
+      margin: 0 0 15px;
+      font-size: 18px;
+    }
+    
+    .card p {
+      margin: 0;
+      color: #858fa2;
+      font-size: 14px;
+    }
+    
+    /* Schema Container */
+    .schema-container {
+      background: rgba(10, 14, 23, 0.7);
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      padding: 30px;
+      margin: 30px 0;
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+    
+    .schema-container h3 {
+      margin: 0 0 20px;
+      color: #e9edfa;
+    }
+    
+    /* Tables */
+    .table-wrap {
+      overflow-x: auto;
+      margin: 24px 0 30px;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.2);
+    }
+    
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 700px;
+      background: rgba(8, 12, 20, 0.65);
+    }
+    
+    th, td {
+      padding: 15px 16px;
+      text-align: left;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.065);
+      vertical-align: top;
+    }
+    
+    th {
+      background: rgba(255, 255, 255, 0.035);
+      color: #e9eef9;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+    
+    td {
+      font-size: 13px;
+      color: #9ba7ba;
+    }
+    
+    tr:last-child td {
+      border-bottom: 0;
+    }
+    
+    /* Blockquotes */
+    blockquote {
+      border-left: 2px solid var(--cyan);
+      margin: 26px 0;
+      padding: 17px 20px;
+      background: linear-gradient(90deg, rgba(114, 247, 226, 0.07), transparent);
+      color: #dce9e6;
+      border-radius: 0 14px 14px 0;
+    }
+    
+    /* Lists */
+    ul, ol {
+      padding-left: 24px;
+    }
+    
+    li {
+      margin: 7px 0;
+    }
+    
+    /* Buttons */
+    .btn {
+      display: inline-block;
+      padding: 10px 20px;
+      background: linear-gradient(100deg, var(--cyan), var(--violet));
+      color: #03050a;
+      text-decoration: none;
+      font-weight: 700;
+      border-radius: 12px;
+      font-size: 14px;
+      transition: transform 0.2s, box-shadow 0.2s;
+      border: 0;
+      cursor: pointer;
+    }
+    
+    .btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 10px 30px rgba(114, 247, 226, 0.3);
+    }
+    
+    /* Alert Boxes */
+    .alert {
+      padding: 15px 20px;
+      border-radius: 12px;
+      margin: 20px 0;
+      border-left: 4px solid;
+      font-size: 14px;
+    }
+    
+    .alert-success {
+      background: rgba(102, 227, 196, 0.1);
+      border-color: var(--green);
+      color: #66e3c4;
+    }
+    
+    .alert-warning {
+      background: rgba(255, 165, 0, 0.1);
+      border-color: var(--orange);
+      color: #ffa500;
+    }
+    
+    .alert-danger {
+      background: rgba(255, 107, 107, 0.1);
+      border-color: var(--red);
+      color: #ff6b6b;
+    }
+    
+    /* Timeline */
+    .timeline {
+      position: relative;
+      padding-left: 30px;
+      margin: 30px 0;
+    }
+    
+    .timeline::before {
+      content: "";
+      position: absolute;
+      left: 10px;
+      top: 0;
+      bottom: 0;
+      width: 2px;
+      background: var(--line);
+    }
+    
+    .timeline-item {
+      position: relative;
+      padding: 15px 20px;
+      background: rgba(10, 14, 23, 0.7);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      margin: 15px 0;
+    }
+    
+    .timeline-item::before {
+      content: "";
+      position: absolute;
+      left: -35px;
+      top: 20px;
+      width: 12px;
+      height: 12px;
+      background: var(--cyan);
+      border-radius: 50%;
+      border: 2px solid var(--bg);
+    }
+    
+    .timeline-item h4 {
+      margin: 0 0 5px;
+      color: var(--text);
+      font-size: 16px;
+    }
+    
+    .timeline-item p {
+      margin: 0;
+      color: #a4afc0;
+      font-size: 13px;
+    }
+    
+    /* Grid Layouts */
+    .grid-2 {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+    }
+    
+    .grid-3 {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+    }
+    
+    /* Footer */
+    footer {
+      max-width: 1240px;
+      margin: auto;
+      padding: 30px 24px 55px;
+      color: #5d697d;
+      font-size: 11px;
+      border-top: 1px solid var(--line);
+    }
+    
+    /* Responsive */
+    @media (max-width: 850px) {
+      .metrics {
+        grid-template-columns: repeat(2, 1fr);
+      }
+      
+      .grid-3 {
+        grid-template-columns: 1fr;
+      }
+      
+      .hero {
+        min-height: auto;
+        padding: 70px 0 55px;
+      }
+    }
+    
+    @media (max-width: 560px) {
+      main {
+        padding: 20px 0 70px;
+      }
+      
+      .metrics {
+        grid-template-columns: 1fr 1fr;
+      }
+      
+      .metrics b {
+        font-size: 22px;
+      }
+      
+      h1 {
+        font-size: 46px;
+      }
+      
+      h2 {
+        font-size: 30px;
+        margin-top: 75px;
+      }
+      
+      .grid-2 {
+        grid-template-columns: 1fr;
+      }
+    }
+    
+    /* Print */
+    @media print {
+      body {
+        background: #fff;
+        color: #111;
+      }
+      
+      .header {
+        display: none;
+      }
+      
+      main {
+        max-width: none;
+      }
+      
+      p, li, td {
+        color: #222;
+      }
+      
+      h1 span, .metrics b {
+        color: #087c69;
+        -webkit-text-fill-color: #087c69;
+      }
+      
+      .schema-container, .card, .table-wrap {
+        box-shadow: none;
+        border: 1px solid #ddd;
+      }
+    }
+    
+    /* Animations */
+    .reveal {
+      opacity: 0;
+      transform: translateY(14px);
+      transition: opacity 0.7s ease, transform 0.7s ease;
+    }
+    
+    .reveal.visible {
+      opacity: 1;
+      transform: none;
+    }
+    
+    @media (prefers-reduced-motion: reduce) {
+      .reveal {
+        opacity: 1;
+        transform: none;
+        transition: none;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <header class="header">
+    <nav class="nav">
+      <a href="#hero">🎯 Résumé du Projet</a>
+      <a href="#equipe">👥 Rôles & Compétences</a>
+      <a href="#etapes">🚀 Étapes Immédiates</a>
+      <a href="#schema">📊 Schémas & Workflows</a>
+      <a href="#risques">⚠️ Risques & Solutions</a>
+      <a href="#modele">💰 Modèle Économique</a>
+      <a href="#outils">🔧 Stack Technique</a>
+      <a href="#conclusion">🎉 Conclusion</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    
+    <!-- Hero Section -->
+    <section id="hero" class="hero">
+      <div class="eyebrow">BUSINESS PLAN · SAAS IA ASSURANCE</div>
+      <h1>Construire un SaaS B2B d’automatisation IA<br><span>pour les courtiers d’assurance</span></h1>
+      <p class="lead">
+        Une stratégie ultra-lean avec une équipe de 3 associés et des IA pour valider en France, 
+        puis étendre à la Belgique et au Luxembourg. 
+        <strong>Objectif : 3-5 M€ d’ARR en 15-20 ans pour un exit à 20-40 M€.</strong>
+      </p>
+      
+      <div class="metrics">
+        <div>
+          <b>10–30 €</b>
+          <span>budget technique mensuel MVP</span>
+        </div>
+        <div>
+          <b>&lt; 500 €</b>
+          <span>objectif de dépense à 90 jours</span>
+        </div>
+        <div>
+          <b>1 000 €/mois</b>
+          <span>objectif moyen par client</span>
+        </div>
+        <div>
+          <b>3–5 M€</b>
+          <span>ARR cible à long terme</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Équipe Section -->
+    <section id="equipe" class="section">
+      <h2>👥 Rôles & Compétences de l’Équipe</h2>
+      
+      <div class="grid-3">
+        <div class="card">
+          <h3>🎯 Associé 1 : Métier / CEO</h3>
+          <p><strong>Profil :</strong> Gestionnaire vie groupe en assurance (Luxembourg)</p>
+          <p><strong>Rôle :</strong> Validation marché, vente, relation client.</p>
+          <p><strong>Compétences clés :</strong></p>
+          <ul>
+            <li>Connaissance des courtiers et de leurs douleurs (KYC, LCB-FT, paperasse).</li>
+            <li>Réseau professionnel dans l’assurance.</li>
+            <li>Expérience en conformité (ACPR, CSSF).</li>
+          </ul>
+          <p><strong>Outils IA :</strong> Claude (rédaction emails, analyse retours clients).</p>
+        </div>
+        
+        <div class="card">
+          <h3>📊 Associé 2 : Ops / COO</h3>
+          <p><strong>Profil :</strong> Comptable assistant</p>
+          <p><strong>Rôle :</strong> Automatisation des processus, gestion administrative.</p>
+          <p><strong>Compétences clés :</strong></p>
+          <ul>
+            <li>Gestion comptable et administrative.</li>
+            <li>Rigueur et organisation.</li>
+            <li>Capacité à documenter les processus.</li>
+          </ul>
+          <p><strong>Outils IA :</strong> n8n (workflows), Python (scripts d’automatisation).</p>
+        </div>
+        
+        <div class="card">
+          <h3>🤖 Associé 3 : IT / CTO</h3>
+          <p><strong>Profil :</strong> Diplômé en informatique + connaissances en robotique</p>
+          <p><strong>Rôle :</strong> Orchestration des IA, développement du produit.</p>
+          <p><strong>Compétences clés :</strong></p>
+          <ul>
+            <li>Maîtrise des outils de développement (Next.js, FastAPI, Supabase).</li>
+            <li>Expérience avec les LLM (Claude, Mistral, Ollama).</li>
+            <li>Capacité à diriger une équipe d’IA (prompt engineering).</li>
+          </ul>
+          <p><strong>Outils IA :</strong> Claude Code, Cursor, Ollama.</p>
+        </div>
+      </div>
+      
+      <div class="alert alert-success">
+        <strong>✅ Pourquoi cette équipe est parfaite ?</strong>
+        <p>Vos profils couvrent tous les besoins : <strong>métier</strong> (Associé 1), <strong>ops</strong> (Associé 2), et <strong>technique</strong> (Associé 3). 
+        Le seul défi est psychologique : accepter que l’IA fasse 80% du travail.</p>
+      </div>
+    </section>
+
+    <!-- Étapes Immédiates -->
+    <section id="etapes" class="section">
+      <h2>🚀 Étapes Immédiates (À Faire <strong>Cette Semaine</strong>)</h2>
+      
+      <div class="schema-container">
+        <h3>📅 Timeline des 90 Premiers Jours</h3>
+        <div class="timeline">
+          <div class="timeline-item">
+            <h4>Semaines 1-2 : Validation du Marché</h4>
+            <p><strong>Associé 1 :</strong> Contacter 20 courtiers français via LinkedIn (utiliser un script généré par Claude).</p>
+            <p><strong>Objectif :</strong> Obtenir 5 appels découverte → 3 "oui" pour tester le MVP.</p>
+            <p><strong>Coût :</strong> 0 €</p>
+          </div>
+          
+          <div class="timeline-item">
+            <h4>Semaines 3-4 : Prototypage du MVP</h4>
+            <p><strong>Associé 3 :</strong> Développer le MVP "Relance KYC" avec Claude Code + Supabase.</p>
+            <p><strong>Fonctionnalités :</strong> Upload de documents, classification automatique, extraction des données, génération de relances.</p>
+            <p><strong>Coût :</strong> 0-20 € (crédits API IA).</p>
+          </div>
+          
+          <div class="timeline-item">
+            <h4>Semaines 5-6 : Pilote Gratuit</h4>
+            <p><strong>Associé 1 :</strong> Trouver 1 courtier pour tester le MVP gratuitement en échange de feedback.</p>
+            <p><strong>Associé 2 :</strong> Documenter les processus et automatiser les ops (n8n).</p>
+            <p><strong>Coût :</strong> 0 €</p>
+          </div>
+          
+          <div class="timeline-item">
+            <h4>Semaines 7-8 : Itération & 1er Client Payant</h4>
+            <p><strong>Associé 3 :</strong> Itérer sur le MVP en fonction des retours.</p>
+            <p><strong>Associé 1 :</strong> Signer le 1er client payant (500-1 000 €/mois).</p>
+            <p><strong>Coût :</strong> 0 €</p>
+          </div>
+          
+          <div class="timeline-item">
+            <h4>Semaines 9-12 : Scaling Initial</h4>
+            <p><strong>Associé 1 :</strong> Signer 2-3 clients supplémentaires.</p>
+            <p><strong>Associé 3 :</strong> Ajouter des fonctionnalités (ex: gestion des avenants).</p>
+            <p><strong>Coût :</strong> 20-50 €/mois (API IA, hébergement).</p>
+          </div>
+        </div>
+      </div>
+      
+      <div class="alert alert-warning">
+        <strong>⚠️ Règle d’Or :</strong>
+        <p><strong>Ne pas coder avant d’avoir 3 "oui" verbaux de courtiers français.</strong> 
+        C’est la clé pour éviter de gaspiller du temps et de l’argent sur un produit que personne ne veut.</p>
+      </div>
+      
+      <div class="schema-container">
+        <h3>🎯 Actions Immédiates par Associé</h3>
+        <div class="grid-3">
+          <div class="card">
+            <h3>Associé 1 (Métier)</h3>
+            <p><strong>Cette semaine :</strong></p>
+            <ol>
+              <li>Créer un compte LinkedIn Premium (essai gratuit 1 mois).</li>
+              <li>Identifier 50 courtiers français (via <a href="https://www.orias.fr/recherche" style="color: var(--cyan);">ORIAS</a> ou LinkedIn).</li>
+              <li>Demander à Claude de générer un script d’appel (exemple : <code>"Bonjour [Prénom], je travaille sur une solution pour automatiser les relances KYC. 30 min pour un diagnostic gratuit ?"</code>).</li>
+              <li>Contacter 20 courtiers pour organiser des appels.</li>
+            </ol>
+            <p><strong>Outils :</strong> LinkedIn, Claude, Google Sheets.</p>
+          </div>
+          
+          <div class="card">
+            <h3>Associé 2 (Ops)</h3>
+            <p><strong>Cette semaine :</strong></p>
+            <ol>
+              <li>Créer un compte Notion pour documenter les processus.</li>
+              <li>Automatiser la compta personnelle avec n8n (ex: rappel des factures impayées).</li>
+              <li>Préparer un template de contrat SaaS (généré par IA).</li>
+            </ol>
+            <p><strong>Outils :</strong> Notion, n8n, Claude.</p>
+          </div>
+          
+          <div class="card">
+            <h3>Associé 3 (IT)</h3>
+            <p><strong>Cette semaine :</strong></p>
+            <ol>
+              <li>S’inscrire à Claude Code (20 €/mois) + GitHub (gratuit).</li>
+              <li>Tester Ollama (Mistral 7B) en local pour la classification de documents.</li>
+              <li>Préparer l’architecture technique (Next.js + FastAPI + Supabase).</li>
+            </ol>
+            <p><strong>Outils :</strong> Claude Code, Ollama, GitHub, Vercel, Supabase.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Risques Section -->
+    <section id="risques" class="section">
+      <h2>⚠️ Risques & Solutions</h2>
+      
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Risque</th>
+              <th>Impact</th>
+              <th>Solution</th>
+              <th>Responsable</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Biais Luxembourg</strong><br>Vouloir cibler le Luxembourg trop tôt.</td>
+              <td>Perte de temps/marché. Cycles de vente longs.</td>
+              <td><strong>Règle stricte :</strong> Pas de développement pour le Luxembourg avant 10 clients français.</td>
+              <td>Associé 1</td>
+            </tr>
+            <tr>
+              <td><strong>Sur-ingénierie</strong><br>L’Associé IT veut tout coder manuellement.</td>
+              <td>Lenteur, coûts élevés, pas scalable.</td>
+              <td><strong>Règle :</strong> 80% du code généré par IA. Revue humaine uniquement pour la logique métier.</td>
+              <td>Associé 3</td>
+            </tr>
+            <tr>
+              <td><strong>Manque de clients</strong><br>Difficulté à signer les 3 premiers clients.</td>
+              <td>Échec du projet avant même de commencer.</td>
+              <td><strong>Solution :</strong> Pivoter sur un autre workflow (ex: gestion des avenants) ou un autre marché (Belgique).</td>
+              <td>Associé 1</td>
+            </tr>
+            <tr>
+              <td><strong>Dépendance aux API IA</strong><br>Coûts qui explosent avec l’usage.</td>
+              <td>Budget technique insoutenable.</td>
+              <td><strong>Architecture :</strong> Modèles locaux (Ollama) pour 70% des tâches. API payantes uniquement pour les tâches critiques.</td>
+              <td>Associé 3</td>
+            </tr>
+            <tr>
+              <td><strong>Conformité française</strong><br>ACPR/ORIAS plus complexe que prévu.</td>
+              <td>Amende ou rejet par les courtiers.</td>
+              <td><strong>Solution :</strong> Travailler avec un avocat français freelance (1 000-2 000 €/an).</td>
+              <td>Associé 2</td>
+            </tr>
+            <tr>
+              <td><strong>Bottleneck technique</strong><br>L’Associé IT est le seul à comprendre le code.</td>
+              <td>Projet bloqué si l’Associé IT tombe malade.</td>
+              <td><strong>Solution :</strong> Documenter tout avec l’IA (runbooks, architecture decisions).</td>
+              <td>Associé 3</td>
+            </tr>
+            <tr>
+              <td><strong>Concurrence</strong><br>Autres SaaS ou agences proposent des solutions similaires.</td>
+              <td>Difficulté à se différencier.</td>
+              <td><strong>Solution :</strong> Miser sur la <strong>spécialisation</strong> (courtiers français) et le <strong>prix</strong> (10-30 €/mois vs. 500-1 000 € pour les concurrents).</td>
+              <td>Associé 1</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      
+      <div class="alert alert-danger">
+        <strong>🚨 Risques Critiques à Éviter Absolument</strong>
+        <ol>
+          <li><strong>Ne pas valider le marché avant de coder.</strong> C’est la cause n°1 d’échec des startups.</li>
+          <li><strong>Ne pas sous-estimer la conformité.</strong> Un problème avec l’ACPR peut tuer le projet.</li>
+          <li><strong>Ne pas dépendre d’un seul associé.</strong> Chaque rôle doit être redondant.</li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- Modèle Économique -->
+    <section id="modele" class="section">
+      <h2>💰 Modèle Économique</h2>
+      
+      <div class="grid-2">
+        <div class="schema-container">
+          <h3>📈 Projection Financière (12 Premiers Mois)</h3>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Mois</th>
+                  <th>Action</th>
+                  <th>Coût</th>
+                  <th>Revenus</th>
+                  <th>Trésorerie</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1-2</td>
+                  <td>Validation (20 entretiens)</td>
+                  <td>0 €</td>
+                  <td>0 €</td>
+                  <td>0 €</td>
+                </tr>
+                <tr>
+                  <td>3-4</td>
+                  <td>MVP "Relance KYC"</td>
+                  <td>20 €</td>
+                  <td>0 €</td>
+                  <td>-20 €</td>
+                </tr>
+                <tr>
+                  <td>5-6</td>
+                  <td>Pilote gratuit</td>
+                  <td>20 €</td>
+                  <td>0 €</td>
+                  <td>-40 €</td>
+                </tr>
+                <tr>
+                  <td>7-8</td>
+                  <td>1er client payant</td>
+                  <td>50 €</td>
+                  <td>1 000 €</td>
+                  <td>+910 €</td>
+                </tr>
+                <tr>
+                  <td>9-10</td>
+                  <td>2ème client</td>
+                  <td>50 €</td>
+                  <td>2 000 €</td>
+                  <td>+2 860 €</td>
+                </tr>
+                <tr>
+                  <td>11-12</td>
+                  <td>3ème client</td>
+                  <td>50 €</td>
+                  <td>3 000 €</td>
+                  <td>+5 810 €</td>
+                </tr>
+                <tr>
+                  <td><strong>Total</strong></td>
+                  <td></td>
+                  <td><strong>~200 €</strong></td>
+                  <td><strong>6 000 €</strong></td>
+                  <td><strong>+5 800 €</strong></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <p><strong>→ Viable dès le 7ème mois</strong> (si 1 client à 1 000 €/mois).</p>
+        </div>
+        
+        <div class="schema-container">
+          <h3>🎯 Valorisation à Long Terme</h3>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>ARR (Revenus Annuels Récurrents)</th>
+                  <th>Nombre de Clients</th>
+                  <th>Valorisation (Multiple ARR)</th>
+                  <th>Valorisation Estimée</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>500 k€</td>
+                  <td>10</td>
+                  <td>5-8x</td>
+                  <td>2,5-4 M€</td>
+                </tr>
+                <tr>
+                  <td>1 M€</td>
+                  <td>20</td>
+                  <td>8-10x</td>
+                  <td>8-10 M€</td>
+                </tr>
+                <tr>
+                  <td>3 M€</td>
+                  <td>60</td>
+                  <td>10-15x</td>
+                  <td>30-45 M€</td>
+                </tr>
+                <tr>
+                  <td>5 M€</td>
+                  <td>100</td>
+                  <td>15-20x</td>
+                  <td><strong>75-100 M€</strong></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <p><strong>Objectif crédible à 15 ans :</strong> 3-5 M€ d’ARR → Valorisation de <strong>20-40 M€</strong>.</p>
+        </div>
+      </div>
+      
+      <div class="alert alert-success">
+        <strong>💡 Pourquoi ce modèle est attractif ?</strong>
+        <ul>
+          <li><strong>Marges élevées :</strong> >80% de marge brute (coûts principaux = API IA + hébergement).</li>
+          <li><strong>Scalable :</strong> Chaque client supplémentaire coûte presque rien.</li>
+          <li><strong>Récurrent :</strong> Revenus mensuels prévisibles (abonnements SaaS).</li>
+          <li><strong>Exit possible :</strong> Rachat par un éditeur de logiciels d’assurance ou un fonds.</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Stack Technique -->
+    <section id="outils" class="section">
+      <h2>🔧 Stack Technique (MVP 0-6 Mois)</h2>
+      
+      <div class="schema-container">
+        <h3>🛠️ Outils par Couche (Budget : 10-30 €/mois)</h3>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Couche</th>
+                <th>Outil</th>
+                <th>Coût</th>
+                <th>Pourquoi ?</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><strong>Code & Dev</strong></td>
+                <td>Claude Code + Cursor (free tier) + Windsurf</td>
+                <td>0-20 €/mois</td>
+                <td>L’Associé IT devient un <strong>prompt engineer</strong> qui valide, corrige et assemble.</td>
+              </tr>
+              <tr>
+                <td><strong>Frontend</strong></td>
+                <td>Next.js + Vercel (hobby)</td>
+                <td>0 €</td>
+                <td>Hébergement gratuit, scaling automatique.</td>
+              </tr>
+              <tr>
+                <td><strong>Backend</strong></td>
+                <td>Python + FastAPI, hébergé sur Render ou Railway</td>
+                <td>0-5 €/mois</td>
+                <td>Render free tier suffit pour le MVP.</td>
+              </tr>
+              <tr>
+                <td><strong>Base de données</strong></td>
+                <td>Supabase (free tier)</td>
+                <td>0 €</td>
+                <td>PostgreSQL + auth + stockage + pgvector. Limite : 500 Mo, suffisant pour des pilotes.</td>
+              </tr>
+              <tr>
+                <td><strong>OCR / Documents</strong></td>
+                <td>Tesseract (local) + Mistral OCR API (free crédits)</td>
+                <td>0-5 €/mois</td>
+                <td>Ne payez pas Azure/AWS au début. Utilisez les crédits gratuits des APIs.</td>
+              </tr>
+              <tr>
+                <td><strong>LLM Router</strong></td>
+                <td>Ollama (local) + API Mistral/Claude via crédits</td>
+                <td>0-10 €/mois</td>
+                <td>Petits modèles en local (Mistral 7B, Llama 3.1) pour les tâches simples. API payantes uniquement pour les tâches complexes.</td>
+              </tr>
+              <tr>
+                <td><strong>Workflow / Automation</strong></td>
+                <td>n8n (self-hosted sur un vieux PC ou un VPS 3 €/mois)</td>
+                <td>0-3 €/mois</td>
+                <td>Ne payez pas Zapier. n8n self-hosted = illimité.</td>
+              </tr>
+              <tr>
+                <td><strong>Stockage documents</strong></td>
+                <td>Supabase Storage ou MinIO self-hosted</td>
+                <td>0 €</td>
+                <td>Chiffrez côté client.</td>
+              </tr>
+              <tr>
+                <td><strong>Communication</strong></td>
+                <td>Discord / Slack (gratuit) + Notion (gratuit)</td>
+                <td>0 €</td>
+                <td>Pas besoin de Salesforce.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- Conclusion -->
+    <section id="conclusion" class="section">
+      <h2>🎉 Conclusion & Prochaines Étapes</h2>
+      
+      <div class="grid-2">
+        <div class="card">
+          <h3>✅ Pourquoi ce projet va marcher ?</h3>
+          <ol>
+            <li><strong>Marché énorme :</strong> 15 000 courtiers en France, tous confrontés aux mêmes problèmes (KYC, LCB-FT, paperasse).</li>
+            <li><strong>Équipe complète :</strong> Métier (Associé 1), Ops (Associé 2), Technique (Associé 3).</li>
+            <li><strong>Coûts maîtrisés :</strong> Budget MVP < 500 €, coûts récurrents < 30 €/mois.</li>
+            <li><strong>Modèle scalable :</strong> SaaS récurrent avec des marges > 80%.</li>
+            <li><strong>Exit possible :</strong> Valorisation 20-40 M€ à 15-20 ans.</li>
+          </ol>
+        </div>
+        
+        <div class="card">
+          <h3>🚀 Prochaines Étapes (À Faire <strong>Maintenant</strong>)</h3>
+          <ol>
+            <li><strong>Associé 1 :</strong> Contacter 20 courtiers français <strong>cette semaine</strong> (LinkedIn + script Claude).</li>
+            <li><strong>Associé 3 :</strong> Préparer l’architecture technique (Next.js + FastAPI + Supabase) et tester Ollama.</li>
+            <li><strong>Associé 2 :</strong> Créer un Notion pour documenter les processus et automatiser les ops.</li>
+            <li><strong>Équipe :</strong> Réunion de lancement pour valider le workflow MVP (Relance KYC).</li>
+          </ol>
+          <p><strong>Objectif :</strong> Avoir 3 "oui" de courtiers français <strong>dans 2 semaines</strong>.</p>
+        </div>
+      </div>
+      
+      <div class="schema-container">
+        <h3>📌 Résumé en 3 Points</h3>
+        <blockquote>
+          <p><strong>1. Votre équipe est parfaite pour ce projet.</strong> Vous avez les compétences métier, ops et techniques nécessaires.</p>
+          <p><strong>2. Le business plan est réaliste.</strong> Budget serré, marché immense, modèle SaaS scalable.</p>
+          <p><strong>3. Commencez maintenant.</strong> Le plus grand risque n’est pas l’échec, mais <strong>ne jamais commencer</strong>.</p>
+        </blockquote>
+      </div>
+      
+      <div style="text-align: center; margin: 50px 0;">
+        <a href="#etapes" class="btn">🚀 Aller aux Étapes Immédiates</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    Document de présentation interne — Business Plan SaaS IA Assurance. Version Premium pour l'équipe. | 
+    Généré avec ✨ par Vibe.
+  </footer>
+
+  <!-- Intersection Observer for animations -->
+  <script>
+    document.documentElement.classList.add('js');
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(e => {
+        if (e.isIntersecting) {
+          e.target.classList.add('visible');
+          observer.unobserve(e.target);
+        }
+      });
+    }, { threshold: 0.08 });
+    
+    document.querySelectorAll('h2, .card, .schema-container, .table-wrap, .timeline-item, blockquote').forEach((el, i) => {
+      el.classList.add('reveal');
+      el.style.transitionDelay = (Math.min(i * 25, 180)) + 'ms';
+      observer.observe(el);
+    });
+  </script>
+</body>
+</html>
