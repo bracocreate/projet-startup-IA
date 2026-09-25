@@ -47,7 +47,8 @@ Les fondamentaux du CLAUDE.md sont respectés. Les ajouts sont signalés par ◆
 - ◆ Elle ne ment jamais au sens strict. Quand elle se trompe (les « pieds-de-mer » confondus avec les méduses), elle se trompe comme se tromperait Antoine, ou presque.
 - **Arc** : outil → collaboratrice → doublure → (lecture 2) narratrice.
 
-## Paul — le personnage de *La Laisse de mer* (roman d'Antoine)
+## Paul Guillou — le personnage de *La Laisse de mer* (roman d'Antoine)
+- ◆ (posé au ch. 3) 51 ans environ, vit depuis six ans dans la maison de sa mère morte, à Audierne, face à Poulgoazec. Premier livre : *L'Anse* (1re phrase : « La mer quittait l'anse comme on sort d'une chambre où quelqu'un dort », d'après lui). Un deuxième livre, « que les gens confondaient avec le précédent ». Tante Annick. Maëlle se marie le 14 juin à Douarnenez avec Thomas, kiné. Jérémie Le Bihan, 26 ans, Quimper : « je peux écrire comme vous » (112 pages jointes, jamais ouvertes).
 - Écrivain de 50 ans, en panne, installé dans une maison près d'Audierne. Il envisage de payer un jeune auteur pour écrire à sa place. ◆ Il a une fille, **Maëlle**, qui ne lui parle plus.
 - Troisième niveau d'abyme, **à utiliser avec parcimonie** : ch. 3, 9, 20, et en fragments ailleurs.
 - ◆ Paul évolue au fil des chapitres rédigés avec Palimpseste : il devient plus sympathique, plus lisse, puis il commence à faire ce qu'Antoine fera ensuite.

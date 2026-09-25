@@ -41,7 +41,9 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 17/10/2025, 11 h 15 | Hélène au téléphone. Antoine promet 80 pages pour le 11 décembre. | ch. 2 |
 | 18/10/2025, 1 h 12 → 3 h 40 | Inscription à l'essai « Plume » (fin : 31/10). 1re page « à la manière de *Mortes-eaux* ». Florilège + la phrase des bigorneaux (carnet n° 22, p. 13). Envoi de `mortes-eaux_p1-3.pdf`. 2e version : « La mer quittait la baie comme on sort d'une chambre… » (= l'erreur d'Antoine au ch. 1). | ch. 2 |
 | 18/10/2025, 10 h 52 | Lucie répond (« tu écris ? »). 93 marches. | ch. 2 |
-| Oct.-nov. 2025 | Premiers chapitres de *La Laisse de mer*, co-écrits. | ch. 3 |
+| 21/10/2025, 23 h 48 | Création de `laisse_de_mer_ch01.docx`. | ch. 3 |
+| ≤ 31/10/2025 | Fin de l'essai : Antoine passe à la formule « Plume » (19,90 €/mois) sans le raconter. | ch. 3 (métadonnées) |
+| 04/11/2025, 2 h 31 | Chapitre 1 de *La Laisse de mer* : 212 révisions, 41 suggestions dont 29 acceptées. Les 3 réponses de Paul à Maëlle refusées, « conservées dans l'historique ». | ch. 3 |
 | 15/11/2025 | Déjeuner à Rennes avec Lucie (Ty Gwenn). | ch. 4 |
 | Fin nov. 2025 | Passage à la formule « Auteur ». Numérisation des carnets 1-8 et 10-22 (le n° 9 manque). Accès aux mails, WhatsApp. | ch. 5 |
 | 11/12/2025 | Déjeuner avec Hélène : elle a lu 80 pages. | ch. 6 |

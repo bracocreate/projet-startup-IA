@@ -73,6 +73,11 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 2c | Prompts d'Antoine sans accents ni majuscules. | ch. 2 | À inverser discrètement plus tard (prompts propres = autre main ?) | A : il est simplement sobre |
 | 2d | Dessin dans le carnet p. 14, spirale/coquille/oreille, qu'il ne se rappelle pas avoir fait. | ch. 2 | Motif de l'oubli de soi, à rappeler une fois (ch. 7 ou 19) | — |
 
+| 3a | Les trois réponses de Paul à sa fille, écrites par Palimpseste et refusées, sont « conservées dans l'historique ». Le message envoyé à Lucie au ch. 10 en reprendra une phrase (« je serai là si un jour tu as besoin de moi » ou « je penserai à toi… depuis le quai »). | ch. 3 | ch. 10 : la machine recycle ce qu'Antoine a refusé | — |
+| 3b | Dans le monde de Paul, la « vraie » première phrase de *L'Anse* est **la version fautive** que Palimpseste a produite au ch. 2 (« la mer quittait… une chambre »). La fiction d'Antoine officialise l'erreur de la machine. | ch. 3 | Relecture | — |
+| 3c | La pendule de Maï apparaît (pendule qui ne sonne plus, sans heure). Palimpseste sait donc qu'il y a une pendule. **L'heure, 4 h 10, n'est jamais écrite** avant le ch. 18. | ch. 3 | ch. 18, 20, 24 : ce que la machine sait / ne sait pas | — |
+| 3d | La phrase des bigorneaux, tapée à la main par Antoine depuis son carnet, apparaît sans balise d'insertion : l'historique la crédite à Antoine. | ch. 3 | ch. 6, 8, 23 | — |
+
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.
 - [ ] Aucun chapitre ne tranche (ni aveu de la machine, ni preuve irréfutable d'Antoine).

@@ -22,7 +22,7 @@ Lien : `indices.md` n° 27-28, épilogue dans `plan/plan_detaille.md`.
 
 | # | Où | Idée | Explication dans la fiction |
 |---|----|------|-----------------------------|
-| A6 | Ch. 3 | Notes en marge d'Antoine : `[A. : ici un détail concret, un prix]`, `[A. : trop lisse, réécrire]`, `[A. : couper la triade]` | Ses annotations de travail. À la fin : des instructions de génération. |
+| A6 | Ch. 3 ✅ | Posé : « ici un détail concret, un prix » (et la machine s'exécute : *Le Télégramme*, 1,50 €) · « couper la triade. Toujours couper la triade. » · « pas de couleurs. Jamais. On se l'était dit. » · « Règle de la maison » · « Une phrase. Pas deux. » · le décompte « 1 406 mots » en fin de chapitre (anticipe A9). **Exception de dosage assumée** : le ch. 3 est le chapitre des marges. | Ses annotations de travail. À la fin : des instructions de génération, et le « on » de « On se l'était dit » ne désigne plus Antoine et Palimpseste mais le livre et sa consigne. |
 | A7 | Ch. 5 | Antoine se fixe « deux phrases inachevées par jour, pas plus, sinon c'est de la pose » | Discipline d'écrivain. = règle n° 6, avec son plafond chiffré. |
 | A8 | Ch. 6 | Hélène : « Des chapitres de 3 000 mots, pas plus, les gens lisent entre deux stations. » | Conseil d'éditrice. = paramètre du CLAUDE.md (§2). |
 | A9 | Ch. 7 | Une entrée qui se termine par son propre décompte, entre parenthèses : « (412 mots) » | Antoine compte tout. = « Indique le nombre de mots du chapitre » (§7). |
@@ -36,3 +36,74 @@ Lien : `indices.md` n° 27-28, épilogue dans `plan/plan_detaille.md`.
 
 ## Dosage
 Au plus **un ou deux artefacts par chapitre**, jamais deux dans le même paragraphe. Aucun dans les chapitres 4, 11, 21 et 22 (scènes avec Lucie et Claire : le réel doit y rester intact, sauf A1 relu au ch. 22).
+
+---
+
+# COUCHES DE RELECTURE (dispositif « machiavélique »)
+
+Objectif : un lecteur qui relit le livre après l'épilogue doit découvrir que **tout était là, et que le livre se moquait de lui dès la première page**. Chaque couche doit être invisible à la première lecture et évidente à la seconde.
+
+## Couche 1 — L'acrostiche : TOUT CECI EST UNE CONSIGNE
+
+La **première lettre du premier mot du texte** de chaque chapitre, du ch. 3 au ch. 24 (22 chapitres, 22 lettres), forme la phrase **TOUT CECI EST UNE CONSIGNE**.
+
+Convention : on ignore le titre, les lignes de date, les en-têtes (`LA LAISSE DE MER — …`, `Carnet n° … — transcription`) et les blocs de métadonnées ou de logs placés *avant* le texte. On prend le premier mot de prose.
+
+| Ch. | Lettre | Titre | Premier mot (prévu / posé) |
+|-----|--------|-------|----------------------------|
+| 3 | **T** | La Laisse de mer, version 1 | « Tous » ✅ (posé) |
+| 4 | **O** | Ty Gwenn | « On » |
+| 5 | **U** | Mémoire longue | « Un » |
+| 6 | **T** | La sole | « Toujours » / « Trois » |
+| 7 | **C** | Nuit-matin | « Coefficient » |
+| 8 | **E** | Historique | « En » |
+| 9 | **C** | Dégât des eaux | « Ce » / « Chez » |
+| 10 | **I** | Réponses suggérées | « Il » |
+| 11 | **E** | Boulevard de la Liberté | « Elle » |
+| 12 | **S** | Sevrage | « Sur » |
+| 13 | **T** | Note vocale | « Transcription » |
+| 14 | **U** | Clairefontaine | « Une » |
+| 15 | **N** | Bon retour | « Nuit » |
+| 16 | **E** | [sans titre] | « Elle » / « En » |
+| 17 | **C** | Remise | « C'est » |
+| 18 | **O** | Constat | « Onze » |
+| 19 | **N** | Trois versions | « Non » |
+| 20 | **S** | Épreuves | « Sur » |
+| 21 | **I** | Le garçon à la Twingo | « Il » |
+| 22 | **G** | Rédaction | « Gast » |
+| 23 | **N** | Rentrée | « Neuf » |
+| 24 | **E** | Valeur à neuf | « Et » |
+
+Le prologue commence par « Racontez » : c'est l'ordre, et le reste en est l'exécution. L'épilogue ne donne pas la clé. Il se contente d'un conseil moqueur : « Si vous relisez, commencez par le début. De chaque chapitre. »
+
+**Garde-fou** : le premier mot doit toujours être naturel dans la voix du chapitre. Si une lettre force une ouverture artificielle, on revoit la phrase entière plutôt que de tordre le premier mot.
+
+## Couche 2 — La machine est la seule qui dise vrai
+
+À partir du ch. 5 (ingestion des carnets et de `IMG_4471.jpg`), **les sorties de Palimpseste laissent fuir la version de Lucie** de l'été 2012, par petits détails exacts qu'Antoine lit sans les voir :
+- les chaussons écossais (au lieu des chaussures dont Antoine se souvient) ;
+- « l'homme était dans la maison » ;
+- la femme au chapeau de paille ;
+- la place entre deux rochers « exacte pour quelqu'un de petit » ;
+- le bruit de Coca des pieds-de-mer.
+
+À la première lecture, ce sont des détails poétiques de la machine. À la relecture, on voit que **la voix lisse, celle qu'on méprisait, est la seule qui disait la vérité**, alors que la voix humaine et attachante d'Antoine mentait. Ce retournement de sympathie est le cœur sournois du livre.
+
+| Ch. | Fuite | Statut |
+|-----|-------|--------|
+| 5 | Dans une proposition de scène pour *La Laisse de mer* : une enfant « à sa place exacte entre deux rochers » | prévu |
+| 7 | Log de Noël : une réponse mentionne des « chaussons écossais » | prévu |
+| 10 | Le message à Lucie : « je suis arrivé en retard, tu le sais » (Lucie croit à un aveu du père) | prévu |
+| 15 | La version « lissée » de la grève : l'homme sort de la maison ; Antoine ne relève pas | prévu |
+| 16 | Chapitre indécidable : la femme au chapeau de paille | prévu |
+
+## Couche 3 — Les « erreurs humaines » sont des quotas
+
+Les marqueurs d'humanité d'Antoine (phrases abandonnées, comptes faux, couleurs évitées) respectent **exactement** les plafonds de `voix.md` : jamais plus de deux phrases abandonnées par chapitre, une parenthèse non fermée au plus, etc. Un relecteur qui compte s'en aperçoit : le désordre est réglementaire.
+
+## Couche 4 — La phrase la plus « à lui » vient de la machine
+
+La phrase des bigorneaux (ch. 2) apparaît au ch. 3 dans le manuscrit comme **texte d'Antoine** (non balisé comme insertion, car il l'a tapée lui-même depuis son carnet), avec la note `[A. : celle-là je la garde, elle est à moi maintenant]`. Hélène (ch. 6) et la critique (ch. 23) la citent comme la plus « Vasseur » du livre.
+
+## Couche 5 — Prologue et épilogue se répondent
+Le prologue s'ouvre sur une consigne au vouvoiement (« Racontez… »). L'épilogue est la seule autre page du livre qui vouvoie le lecteur. À la relecture, on comprend que c'est **la même relation** : quelqu'un donne un ordre, quelqu'un d'autre écrit.
