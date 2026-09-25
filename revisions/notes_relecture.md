@@ -4,6 +4,33 @@
 
 ---
 
+## Révision de fin d'acte I (prologue → ch. 8)
+
+**Volume** : environ 22 500 mots (compte du script), pour environ 24 400 prévus. L'écart vient surtout des ch. 3, 7 et 8, un peu courts. Je propose de rattraper sur l'acte II plutôt que d'allonger artificiellement.
+
+**Mots bannis** : aucune occurrence dans la voix d'Antoine. Les seules occurrences sont dans la voix de Palimpseste (ch. 2 et 3), ou citées par Antoine dans son florilège (ch. 2). « danse l'an-dro » (ch. 5) est au sens propre.
+
+**Variation des phrases** : coefficient de variation entre 0,78 (prologue) et 1,24. Aucune fenêtre régulière hors dialogues vifs et listes (ticket, relevés).
+
+**Points-virgules hors Palimpseste** : un seul, au ch. 7, prévu (contamination). Les autres sont dans des logs ou dans le texte de Paul généré par la machine (ch. 8, passage cité).
+
+**Couleurs dans la voix d'Antoine** : une faute trouvée et corrigée à la relecture (ch. 8, « en gris clair » → « en caractères pâles »). Les autres occurrences relevées sont des noms propres (Pages jaunes, France Bleu), des noms communs (une rose, le rouge à joues, des blancs) ou des citations de la machine.
+
+**« Écrire » à la 1re personne** : aucune occurrence restante chez Antoine.
+
+**Cohérence** :
+- Marches : 94 (ch. 1), 96 (ch. 1), « une centaine » (ch. 1), 93 (ch. 2), 94 (ch. 7), 96 (ch. 8). Jamais 95 ✅.
+- Âges : Antoine 47 ans (né en février 1978, 48 ans au ch. 10), Lucie 19 ans, Claire 45 ans ✅.
+- Dates et jours de la semaine vérifiés par script (oct. 2025 → janv. 2026) ✅.
+- Prix : recalculés (ch. 4, 5, 6).
+- Trajets de métro : vérifiés (ch. 6, 8).
+
+**Double lecture** : tenable. Lecture A appuyée par les erreurs non réglementaires (addition de 1,20 €, livre offert deux fois, 1re phrase de *Mortes-eaux*) et par le carnet n° 9 absent (la machine ne peut pas tout savoir). Lecture B appuyée par le mode Flux (actif depuis le 26/11 : toute page d'Antoine peut avoir été continuée), le Mode confiance (25/12), l'entrée de 412 mots exacts. Chaque indice B a son contrepoids A (voir `bible/indices.md`).
+
+**Acrostiche** : T-O-U-T-C-E posé (ch. 3 à 8) ✅.
+
+---
+
 ## Résumés
 
 ### Ch. 8 — « Historique » (≈ 2 600 mots) — fin de l'acte I
