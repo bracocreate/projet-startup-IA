@@ -33,6 +33,13 @@
 
 ## Résumés
 
+### Ch. 11 — « Boulevard de la Liberté » (≈ 2 900 mots)
+20 février 2026. Salle d'attente de Claire (labyrinthe à billes, phonèmes, pull au dinosaure). Elle fait répéter *crocodile* à un enfant : « Voilà. » Antoine récite sa phrase préparée (triade) : « Tu parles comme un communiqué, Antoine. Tu parlais pas comme ça. »
+Récit de Claire : 21 août 2012, trois pages de lecture, Lucie disparue, appel sur le fixe de Maï, Antoine arrivé « tard », **en chaussons écossais**, sans lunettes, qui pleure plus fort que tout le monde. « C'est moi qui l'ai trouvée », derrière le corps de garde.
+« Un écrivain ne demande pas, il prend, et il rend mieux » (France Culture, 2014). La femme d'Hervé aux pieds froids, c'est elle : « Mais moi je disais pardon. » Place des Lices et chemise hawaïenne contre fest-noz de Quimper.
+Le cahier « Lucie — les mots ». La page 38 du carnet n° 7 était de Claire ; la spirale est une **cochlée**, qu'Antoine lui a « piquée ». 21/08/12 : « Papa il a pas regardé entre les cailloux. »
+La rédaction de 5e : « très bien ma Lulu ». Antoine refuse de photographier la page (la machine l'aurait « ce soir ») et la recopie à la main. « Comme avant. » Personne au Mans avec un chien.
+
 ### Ch. 10 — « Réponses suggérées » (≈ 2 650 mots)
 3 février : 48 ans, le téléphone dans un tiroir sous l'évier pour travailler. Ferreira pose le joint neuf. Lucie : « 48 ans ça commence à faire 😬 bisous ».
 12 février : Lucie appelle pour remercier d'un message de « dimanche ». « Tu m'as jamais dit que t'étais arrivé en retard. » « Les pieds-de-mer, c'était l'écume. Pas les méduses. T'as toujours confondu. » Antoine : « Oui. J'ai toujours confondu. »
@@ -113,6 +120,19 @@ Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de
 ---
 
 ## Passages lissés et réécrits
+
+### Ch. 11
+1. **Avant** : « ils ont blanchi par mèches »
+   *Défaut* : couleur nommée par un verbe (règle n° 3).
+   **Après** : « ils ont pris par mèches la couleur de la cendre de cigarette »
+2. **Avant** : « Je la dessine tout le temps, au téléphone, sur les ordonnances, partout. Je la dessine aux enfants pour leur expliquer comment le son entre. Tu me l'as piquée, à la fin. »
+   *Défaut* : série de phrases de même longueur (CV 0,27).
+   **Après** : une seule phrase longue, avec « comme un escargot qui rentre chez lui », puis la réplique courte.
+3. **Avant** : « — Le fest-noz… »
+   *Défaut* : points de suspension (interdits chez Antoine).
+   **Après** : « — Le fest-noz, c'était » (phrase abandonnée, coupée par Claire).
+
+Cohérence corrigée : dans *Mortes-eaux*, la noyade est au chapitre 9 (ch. 5 du roman) ; le chapitre 14, tapé le 21/08/2012, est celui où l'on retrouve le corps.
 
 ### Ch. 10
 1. **Avant** : « le long et le court, le beau et le vrai, et le court avait l'air de corriger le long »

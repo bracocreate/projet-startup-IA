@@ -59,7 +59,7 @@ Convention : on ignore le titre, les lignes de date, les en-têtes (`LA LAISSE D
 | 8 | **E** | Historique | « En » ✅ (posé : « En sortant de la bibliothèque… ») |
 | 9 | **C** | Dégât des eaux | « Ce » ✅ (posé : « Ce fut M. Stéphan… », 1er mot du texte, après l'en-tête du manuscrit) |
 | 10 | **I** | Réponses suggérées | « Il » ✅ (posé : « Il y a un tiroir, dans la cuisine… ») |
-| 11 | **E** | Boulevard de la Liberté | « Elle » |
+| 11 | **E** | Boulevard de la Liberté | « Elle » ✅ (posé : « Elle m'a fait attendre dans la salle d'attente. ») |
 | 12 | **S** | Sevrage | « Sur » |
 | 13 | **T** | Note vocale | « Transcription » |
 | 14 | **U** | Clairefontaine | « Une » |

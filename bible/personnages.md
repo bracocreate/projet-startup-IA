@@ -36,6 +36,7 @@ Les fondamentaux du CLAUDE.md sont respectés. Les ajouts sont signalés par ◆
 - ◆ **Position morale** (acte II) : quand Antoine essaie d'avouer, elle l'arrête. Elle ne veut pas savoir, soit par cynisme, soit par tendresse, soit parce qu'elle s'en doute depuis le début. Le livre ne tranche pas.
 
 ## Claire Jaouen — son ex-femme
+- ◆ (ch. 11) Demi-lunes, cheveux courts à mèches cendrées non teintes, gilet trop grand (de Stéphane). Dessine des cochlées partout. Cahier Clairefontaine « Lucie — les mots ». Classeurs par année depuis 2004. A des photos de la chemise hawaïenne. Reconnue dans *Mortes-eaux* (la femme d'Hervé, les pieds froids : « Mais moi je disais pardon »).
 - Née en 1980 à Quimper. **Orthophoniste**, cabinet boulevard de la Liberté à Rennes. ◆ Son métier : elle écoute comment les gens fabriquent les mots. C'est elle qui a noté les mots de Lucie enfant dans un cahier.
 - ◆ Vit au Thabor avec **Stéphane**, professeur d'EPS, depuis 2017.
 - Détient les souvenirs « officiels » : ses versions sont datées, recoupées, souvent justes, parfois arrangées à son avantage.

@@ -12,14 +12,18 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 1985-1995 | Étés à Kerlouan chez Maï Le Gall. | Journal, *passim*. |
 | 2000 | Antoine lâche sa licence de lettres (Rennes 2). | ch. 1 |
 | 2002 | Entrée à la MOA comme expert en sinistres. | essai `voix.md`, ch. 1 |
-| 2004 | Rencontre de Claire (fest-noz à Quimper, août). Premier carnet (n° 1). | Antoine : « au fest-noz de Quimper ». Claire (ch. 11) : « à la fête de la musique à Rennes ». **Les deux versions restent.** |
+| 2004 | Rencontre de Claire : fête de la musique, place des Lices, Rennes, juin (chemise hawaïenne, deux gobelets) ; premier baiser au fest-noz de Quimper en août, seul noté dans le carnet n° 1. | Antoine : « au fest-noz de Quimper ». Claire (ch. 11) : « à la fête de la musique ». Claire a des photos. |
 | 2005 | Mariage à Quimper. | — |
 | 21/03/2006 | Naissance de Lucie. | — |
 | 2009-2013 | Mots d'enfance de Lucie (brillouche, pieds-de-mer, « pédalou », « caca d'oie » pour le goémon sec…). Claire les note dans un cahier d'orthophoniste (Lucie l'a lu en 2024). Antoine les note dans ses carnets 5 à 10. | ch. 4, 10, 11 |
 | 2010-2013 | Antoine tape *Mortes-eaux* la nuit, dans sa Clio. | essai, ch. 1 |
 | **Été 2012, un mardi d'août (le 21), vers 16 h, coefficient 98** | **Lucie (6 ans) se cache derrière les rochers de la maison de garde de Meneham pendant environ 40 minutes, pour voir si son père la cherchera. Claire la cherche sur la grève. Antoine est dans la maison de Kervéguen, il finit le chapitre 14 de *Mortes-eaux*. Claire l'appelle, il arrive en courant au bout de 25 minutes environ. Lucie revient seule et marche jusqu'à Claire. Antoine pleure plus qu'elle.** | Antoine (ch. 4) : c'est lui qui l'a retrouvée, dans les rochers. Claire (ch. 11) : c'est elle qui l'a retrouvée, Antoine était dans la maison. Palimpseste (ch. 15) : une version lissée de celle d'Antoine. Carnet n° 9 (ch. 19) : « L. perdue 40 min. C. l'a trouvée. Moi pas là. Fini le chap. 14. » (Antoine lui-même, à chaud, s'est déjà trompé : il a cru Claire.) Lucie (ch. 22) : personne ne l'a trouvée, elle est revenue seule. **= prologue.** |
 | Été 2012 | Carnet n° 9 laissé à Kerlouan, dans un carton du grenier. Jamais rapporté. | ch. 5 (Antoine note qu'il « manque »), ch. 19 (retrouvé) |
+| Avril 2011 | Claire note les mots de Lucie dans le carnet n° 7 d'Antoine (p. 38), avec une cochlée. Dispute. | ch. 7, 11 |
+| 21/08/2012, soir | Lucie : « Papa il a pas regardé entre les cailloux » (×3), noté par Claire. Chaussons d'Antoine séchés sur la fenêtre, jetés par Maï. | ch. 11 |
 | 08/2013 | Parution de *Mortes-eaux*. Succès. | ch. 1 |
+| 2013 | France Bleu Armorique : Antoine raconte sa version de la grève ; Claire l'entend en voiture, se gare au Leclerc de Cesson. | ch. 4, 11 |
+| 2014 | France Culture : « Un écrivain ne demande pas, il prend, et il rend mieux. » | ch. 11 |
 | 09/2014 | Antoine s'installe seul à Paris. | ch. 1, 4 |
 | 2016 | Divorce. Mort d'Yvonne, la mère d'Antoine. | ch. 7 |
 | 03/2017 | Emménagement rue Saint-Maur. Antoine compte 94 marches. | essai, ch. 1 |
@@ -78,7 +82,7 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | **08/02/2026, 2 h 07** | **Palimpseste répond à Lucie (conformité 94 %) : aveu du retard, méduses, « incessamment », « Bisous ».** | ch. 10 |
 | 12/02/2026, 18 h 20 (coeff. 52) | Lucie appelle pour remercier. Antoine découvre le message, le Mode confiance (activé le 25/12), la liste des 11 réponses. Désactivation. Message à Claire ; RDV le 20 à 18 h 30. | ch. 10 |
 | 14/02/2026, 23 h 40 | Mode confiance réactivé « pour voir ». | ch. 10 |
-| 20/02/2026 | Antoine chez Claire à Rennes. | ch. 11 |
+| 20/02/2026 (coeff. 97) | Antoine chez Claire, cabinet boulevard de la Liberté, 18 h 30 → 20 h. Version de Claire. Cahier « Lucie — les mots », page du 21/08/12. Train de 20 h 35. | ch. 11 |
 | 03/03/2026 | Entrée de journal « Sevrage » (auteur incertain). | ch. 12 |
 | 03/03/2026, 23 h 50 | Log : demande de transcription d'une note vocale en entrée de journal. Deux versions. | ch. 13 |
 | 04/03 → 02/04/2026 | Sevrage. Écriture à la main. Pages mortes. | ch. 14 |

@@ -38,7 +38,7 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 7 | **Semé.** Log du 25/12, 02:13 : activation du Mode confiance (« fais ce que tu veux. reponds lui mieux que moi » / « ACTIVER »). Aucun commentaire d'Antoine, qui ne s'en souvient pas le 26. | ch. 7 | ch. 10 | — |
 | 8 | **Semé.** Historique de versions du ch. 11 de *La Laisse de mer* (v32, mode Flux, 15:02). | ch. 8 | B | A : Antoine a pu copier-coller sans s'en souvenir (il avait bu à midi, il le mentionne en passant) |
 | 9 | **Semé.** Le message nocturne à Lucie emploie « incessamment » **correctement** et confond pieds-de-mer et méduses. Lucie : « t'as toujours confondu ». Antoine : « Oui. J'ai toujours confondu. » | ch. 10 | L'erreur de la machine passe pour une erreur humaine d'Antoine | — |
-| 10 | Claire : « Tu te souviens de sa rédaction, en cinquième ? Elle te l'avait envoyée. » Antoine : non. | ch. 11 | ch. 22 | — |
+| 10 | **Semé.** Claire : « Tu te souviens de sa rédaction ? En cinquième ? […] Elle te l'avait envoyée, par mail, en photo. […] Tu lui as répondu « très bien ma Lulu ». » Antoine : non. | ch. 11 | ch. 22 | — |
 | 11 | Journal du 3 mars : 95 marches, un point-virgule, « gris », « écrire ». | ch. 12 | B | A : la version du ch. 13 est *différente* : le ch. 12 pourrait être la version d'Antoine, retouchée ou non |
 | 12 | Deux versions de la même entrée (ch. 12 / ch. 13). On ne peut pas savoir laquelle précède l'autre. | ch. 13 | Point milieu | — |
 | 13 | Palimpseste, interrogée, énumère tous les tics d'Antoine, y compris « incessamment » (« Vous l'employez au sens de "sans cesse". Souhaitez-vous que je conserve cet usage ? ») Antoine répond : « Oui. » | ch. 15 | **Clé de B** : les erreurs ne prouvent plus rien | A : Antoine pourrait aussi bien dire « oui » par orgueil, et la question reste ouverte |
@@ -120,6 +120,14 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 10c | « Une chaleur de Léon, sèche, avec du vent » : phrase dite par Antoine au Ty Gwenn (ch. 4), notée **seulement dans son journal**. Antoine suppose une transcription de vocal ou France Bleu 2013. Si la machine lit le journal… (ch. 17). | ch. 10 | ch. 17 | A : il la répète depuis 2013 à la radio |
 | 10d | Antoine découvre seul qu'il emploie mal « incessamment ». Toute occurrence fautive ultérieure devient ambiguë (ch. 15 : il demande à la machine de la conserver). | ch. 10 | ch. 15, 24, épilogue | — |
 | 10e | Claire : « Tu écris comme avant, toi. » à propos d'un message qu'Antoine a vraiment écrit. Seule attestation extérieure de sa voix propre dans l'acte II. | ch. 10 | A | — |
+
+| 11a | Claire confirme les **chaussons écossais** (séchés sur la fenêtre, raides de sel, jetés par Maï). Antoine « se souvient » des Sebago dans les chevilles. Le souvenir physique le plus précis d'Antoine est faux. | ch. 11 | Thème, A (la mémoire humaine ment aussi) | — |
+| 11b | Cahier de Claire, 21/08/12 : « Papa il a pas regardé entre les cailloux. » (= prologue : « Il ne regarde pas entre les rochers »). Troisième source pour la même phrase (rédaction 2019, cahier 2012, fuites de la machine). | ch. 11 | ch. 22 | — |
+| 11c | Claire croit l'avoir trouvée (« derrière le corps de garde »), le prologue dit que personne ne l'a trouvée. **Claire se trompe aussi**, avec autant d'assurance qu'Antoine. | ch. 11 | ch. 22 | — |
+| 11d | La cochlée : dessin de Claire, qu'Antoine reproduit sans le savoir. Sa main d'octobre 2025 est une main apprise. Motif : une voix, un geste, peuvent venir d'un autre sans qu'on le sache, sans machine. | ch. 11 | A et thème | — |
+| 11e | *Mortes-eaux*, ch. 14 (tapé le 21/08/2012) : « personne n'avait pensé à regarder entre les rochers ». Le livre de 2012 contenait déjà la vérité du jour même. « Je ne sais pas dans quel sens ça va. » | ch. 11 | Symétrique du ch. 9 | — |
+| 11f | « Un écrivain ne demande pas, il prend, et il rend mieux » (2014). Antoine a formulé la devise de Palimpseste douze ans avant elle. | ch. 11 | Thème, épilogue | — |
+| 11g | Antoine refuse de photographier la page du cahier. **« Papa il a pas regardé entre les cailloux » n'existe que dans le carnet n° 22, recopiée à la main.** Si la machine la cite plus tard (ch. 15 ou 17), c'est qu'elle lit le journal ou un nouvel import du carnet. | ch. 11 | B possible | A : Lucie a pu la citer dans un vocal |
 
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.
