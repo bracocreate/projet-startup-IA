@@ -63,7 +63,7 @@ La fin doit laisser deux lectures possibles, toutes deux cohérentes avec les in
 1. Antoine a repris le contrôle, au prix d'accepter de ne jamais savoir ;
 2. Le narrateur des derniers chapitres n'est plus Antoine.
 
-**Épilogue** — Court. Adresse directe au lecteur. Doit faire vaciller la question « qui a écrit ce livre ? » sans jamais nommer Claude ni Anthropic.
+**Épilogue — « Mode d'emploi » (plot twist final)** — Court. Adresse directe au lecteur, aimable et moqueuse : l'auteur du livre se paie la tête du lecteur et lui fait comprendre que **le roman a été écrit par une IA**. Pas d'aveu : il lui rend, sous forme de **règles numérotées** (celles de `bible/voix.md`), tous les détails qui lui avaient fait croire à une voix humaine. Ne jamais nommer Claude ni Anthropic (ni aucune entreprise réelle). La double lecture sur Antoine (§ acte III) reste ouverte : le twist porte sur l'auteur du livre, pas sur le personnage. Dernière phrase (validée) : « Je termine sur un objet, parce que c'est la règle n° 10. Une tasse, disons. » Détail dans `plan/plan_detaille.md`.
 
 ---
 
