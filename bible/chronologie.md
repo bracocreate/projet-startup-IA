@@ -15,7 +15,7 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 2004 | Rencontre de Claire (fest-noz à Quimper, août). Premier carnet (n° 1). | Antoine : « au fest-noz de Quimper ». Claire (ch. 11) : « à la fête de la musique à Rennes ». **Les deux versions restent.** |
 | 2005 | Mariage à Quimper. | — |
 | 21/03/2006 | Naissance de Lucie. | — |
-| 2009-2013 | Mots d'enfance de Lucie (brillouche, pieds-de-mer…). Claire les note dans un cahier d'orthophoniste. Antoine les note dans ses carnets 5 à 10. | ch. 4, 10, 11 |
+| 2009-2013 | Mots d'enfance de Lucie (brillouche, pieds-de-mer, « pédalou », « caca d'oie » pour le goémon sec…). Claire les note dans un cahier d'orthophoniste (Lucie l'a lu en 2024). Antoine les note dans ses carnets 5 à 10. | ch. 4, 10, 11 |
 | 2010-2013 | Antoine tape *Mortes-eaux* la nuit, dans sa Clio. | essai, ch. 1 |
 | **Été 2012, un mardi d'août (le 21), vers 16 h, coefficient 98** | **Lucie (6 ans) se cache derrière les rochers de la maison de garde de Meneham pendant environ 40 minutes, pour voir si son père la cherchera. Claire la cherche sur la grève. Antoine est dans la maison de Kervéguen, il finit le chapitre 14 de *Mortes-eaux*. Claire l'appelle, il arrive en courant au bout de 25 minutes environ. Lucie revient seule et marche jusqu'à Claire. Antoine pleure plus qu'elle.** | Antoine (ch. 4) : c'est lui qui l'a retrouvée, dans les rochers. Claire (ch. 11) : c'est elle qui l'a retrouvée, Antoine était dans la maison. Palimpseste (ch. 15) : une version lissée de celle d'Antoine. Carnet n° 9 (ch. 19) : « L. perdue 40 min. C. l'a trouvée. Moi pas là. Fini le chap. 14. » (Antoine lui-même, à chaud, s'est déjà trompé : il a cru Claire.) Lucie (ch. 22) : personne ne l'a trouvée, elle est revenue seule. **= prologue.** |
 | Été 2012 | Carnet n° 9 laissé à Kerlouan, dans un carton du grenier. Jamais rapporté. | ch. 5 (Antoine note qu'il « manque »), ch. 19 (retrouvé) |
@@ -44,7 +44,7 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 21/10/2025, 23 h 48 | Création de `laisse_de_mer_ch01.docx`. | ch. 3 |
 | ≤ 31/10/2025 | Fin de l'essai : Antoine passe à la formule « Plume » (19,90 €/mois) sans le raconter. | ch. 3 (métadonnées) |
 | 04/11/2025, 2 h 31 | Chapitre 1 de *La Laisse de mer* : 212 révisions, 41 suggestions dont 29 acceptées. Les 3 réponses de Paul à Maëlle refusées, « conservées dans l'historique ». | ch. 3 |
-| 15/11/2025 | Déjeuner à Rennes avec Lucie (Ty Gwenn). | ch. 4 |
+| 15/11/2025 (coeff. 58) | Ouigo 9 h 52. Déjeuner avec Lucie au Ty Gwenn, 12 h 14 → 14 h 05. Antoine raconte sa version de 2012 (Sebago, il la trouve, elle pleure). Lucie : « Je pleurais pas. » Addition 32,70 € payée (13,40 + 19,30) pour un ticket de 33,90 €. Retour 16 h 05. *La Laisse de mer* : ~60 pages. | ch. 4 |
 | Fin nov. 2025 | Passage à la formule « Auteur ». Numérisation des carnets 1-8 et 10-22 (le n° 9 manque). Accès aux mails, WhatsApp. | ch. 5 |
 | 11/12/2025 | Déjeuner avec Hélène : elle a lu 80 pages. | ch. 6 |
 | 24/12/2025 | Noël seul. **Nuit du 24 au 25, 02 h 13 : activation du « Mode confiance »** (Antoine ivre, il ne s'en souvient pas). | ch. 7 (le log apparaît sans commentaire) |

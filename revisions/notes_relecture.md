@@ -6,6 +6,13 @@
 
 ## Résumés
 
+### Ch. 4 — « Ty Gwenn » (≈ 3 000 mots)
+Samedi 15 novembre 2025. Ouigo de 9 h 52, sandwich du Paul à 7,90 €, Mac jamais ouvert. Crêperie Ty Gwenn, rue Saint-Michel, avec Lucie (12 minutes de retard, bagues, odeur d'éthanol et de chlorophylle).
+Elle parle des trois fucus rangés par étages, de la sargasse japonaise « invasive », de son stage à Roscoff (4,35 €/h), de Yanis et de sa Twingo qui « fait un bruit à gauche ». Fucus = fard, faux-semblant (étymologie vraie, pour une fois).
+Il ment à moitié : « deux mille mots par jour ». Il raconte la grève de 2012, sa version héroïque (Sebago, rochers, sur les épaules). Lucie : « Hm. » « Je pleurais pas. » Puis le fucus hybride : « une espèce ou une erreur ».
+Pieds-de-mer = l'écume ; elle tient ça du cahier de Claire. Brillouche : elle ne s'en souvient pas. « On se souvient de ce qu'on nous a raconté. »
+Elle paie sa part (13,40 €). Dans le train, le ticket : 33,90 €, pas 32,70. Il manque 1,20 €, personne n'a vu l'erreur. Teckel dans un sac jusqu'à Paris.
+
 ### Ch. 3 — « La Laisse de mer, version 1 » (≈ 2 600 mots, balisage compris)
 Le chapitre 1 du roman d'Antoine, tel qu'il est dans le fichier Word au 04/11/2025 : texte de Paul + suivi des modifications (notation CriticMarkup) + commentaires d'Antoine (A.) et de Palimpseste (P.).
 Paul Guillou, écrivain en panne à Audierne, dans la maison de sa mère : un courriel de Jérémie Le Bihan (« je peux écrire comme vous », 112 pages jointes) et une lettre de sa fille Maëlle (« Je préfère que tu ne viennes pas »).
@@ -37,6 +44,19 @@ Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de
 ---
 
 ## Passages lissés et réécrits
+
+### Ch. 4
+1. **Avant** : « …et je ne sais pas si c'est parce que j'avais honte ou parce que j'étais fier, les deux prennent la même place dans la bouche. »
+   *Défaut* : fin de paragraphe en maxime.
+   **Après** : « …ou parce que j'étais fier. J'ai fini la bolée. Elle était tiède, le cidre brut tiède a un goût de pomme blette et de bouchon. »
+2. **Avant** : « ce qui chez elle est une forme de respect ou de doute »
+   *Défaut* : « une forme de » (tic de Palimpseste, non prévu à ce stade dans `contamination.md`).
+   **Après** : « ce qui chez elle veut dire respect ou doute »
+3. **Avant** : « je ne sais pas si c'est la serveuse, le terminal ou moi. »
+   *Défaut* : triade de clôture.
+   **Après** : « je ne sais pas si c'est la serveuse ou moi. »
+
+Autres : « en danseuse » supprimé (famille de « danse »). Deux couleurs directes remplacées (« gris ciment » → « couleur de ciment frais » ; « fluo » → « qui avait l'air branchée sur le secteur »). Deux fenêtres régulières cassées par une réplique et une phrase allongées. Laissé volontairement : le ticket de caisse (liste) et l'échange sur le goémon (répliques courtes, vif).
 
 ### Ch. 3 (texte de Paul, main d'Antoine)
 1. **Avant** : « Il marchait comme on marche quand on a une lettre dans la poche intérieure de sa veste et qu'on ne veut pas la sentir contre soi. »

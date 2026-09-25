@@ -31,7 +31,7 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 |---|--------|----------|------|-------------|
 | 1 | Le prologue emploie « pieds-de-mer » et « brillouche », mots que le lecteur ne connaît pas encore. **Semé.** (« brillouche » est expliqué par le contexte au ch. 1) | Prologue | Révélation ch. 22 (texte de Lucie) | — |
 | 2 | **Semé.** Le prologue est focalisé sur quelqu'un qui **regarde** chercher, pas sur quelqu'un qui cherche, mais on peut le lire dans les deux sens. | Prologue | ch. 22 | — |
-| 3 | Antoine raconte à Lucie « le jour où je t'ai retrouvée ». Elle ne dit rien, change de sujet (les algues). | ch. 4 | A et B : Lucie sait autre chose | — |
+| 3 | **Semé.** Antoine raconte à Lucie « le jour où je t'ai retrouvée » (Sebago, rochers, sur les épaules). Elle dit « Hm », puis parle du fucus hybride (« une espèce ou une erreur »). | ch. 4 | A et B : Lucie sait autre chose | — |
 | 4 | Dans la liste des fichiers ingérés : `IMG_4471.jpg (pièce jointe, mail du 14/05/2019, expéditeur : lucie.vsr@…)` | ch. 5 | ch. 22 : la machine connaissait la rédaction | Aucun lecteur ne le remarquera. C'est voulu. |
 | 5 | « Il manque le n° 9. Perdu dans un déménagement, sans doute. » | ch. 5 | ch. 19 : carnet retrouvé à Kerlouan, jamais numérisé → **A** | — |
 | 6 | Hélène cite comme « tellement toi » une phrase qu'on a lue au ch. 2 dans une réponse de Palimpseste. | ch. 6 | B | A : Antoine avait repris la phrase à son compte, il le dit lui-même au ch. 3 |
@@ -77,6 +77,13 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 3b | Dans le monde de Paul, la « vraie » première phrase de *L'Anse* est **la version fautive** que Palimpseste a produite au ch. 2 (« la mer quittait… une chambre »). La fiction d'Antoine officialise l'erreur de la machine. | ch. 3 | Relecture | — |
 | 3c | La pendule de Maï apparaît (pendule qui ne sonne plus, sans heure). Palimpseste sait donc qu'il y a une pendule. **L'heure, 4 h 10, n'est jamais écrite** avant le ch. 18. | ch. 3 | ch. 18, 20, 24 : ce que la machine sait / ne sait pas | — |
 | 3d | La phrase des bigorneaux, tapée à la main par Antoine depuis son carnet, apparaît sans balise d'insertion : l'historique la crédite à Antoine. | ch. 3 | ch. 6, 8, 23 | — |
+
+| 4a | Lucie : « Je pleurais pas. » = prologue (« alors que moi je ne pleurais pas »). Antoine insiste, elle cède (« Si tu veux »). | ch. 4 | ch. 22 | — |
+| 4b | Sebago (Antoine) / chaussons écossais (prologue, Claire au ch. 11). | ch. 4 | ch. 11, 15 (fuite : la machine dira « chaussons »), 22 | — |
+| 4c | Lucie : « On se souvient de ce qu'on nous a raconté. » Clé thématique du souvenir de seconde main, dite par la boussole du réel. | ch. 4 | ch. 22 (elle, elle se souvient parce qu'elle l'a écrit) | — |
+| 4d | Erreur d'addition de 1,20 € que personne ne voit : erreur humaine d'Antoine, non corrigée. Marqueur A (erreur de calcul hors de toute règle de `voix.md`). | ch. 4 | A | B : erreur « réglementaire » (règle 2, il compte faux) |
+| 4e | Antoine ne se rappelle pas avoir raconté à Lucie l'histoire du cheval de l'arrière-grand-mère. Elle la tient d'ailleurs (Claire, Maï). | ch. 4 | Motif des souvenirs qui circulent sans auteur | — |
+| 4f | La phase sombre de la photosynthèse, « qui n'a pas besoin de lumière pour se faire » et se déroule en même temps que l'autre. Image possible de Palimpseste / d'Antoine. **Ne jamais l'expliciter.** | ch. 4 | Motif | — |
 
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.

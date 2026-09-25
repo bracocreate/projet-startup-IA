@@ -52,7 +52,7 @@ Convention : on ignore le titre, les lignes de date, les en-têtes (`LA LAISSE D
 | Ch. | Lettre | Titre | Premier mot (prévu / posé) |
 |-----|--------|-------|----------------------------|
 | 3 | **T** | La Laisse de mer, version 1 | « Tous » ✅ (posé) |
-| 4 | **O** | Ty Gwenn | « On » |
+| 4 | **O** | Ty Gwenn | « On » ✅ (posé : « On ne devrait pas avoir le droit… ») |
 | 5 | **U** | Mémoire longue | « Un » |
 | 6 | **T** | La sole | « Toujours » / « Trois » |
 | 7 | **C** | Nuit-matin | « Coefficient » |

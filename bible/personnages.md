@@ -19,7 +19,8 @@ Les fondamentaux du CLAUDE.md sont respectés. Les ajouts sont signalés par ◆
 ## Lucie Vasseur — sa fille
 - Née le 21 mars 2006 à Rennes. 19 ans au début, 20 à partir de mars 2026.
 - ◆ L2 Sciences de la vie à l'université de Rennes (campus de Beaulieu), option biologie marine. ◆ Stage d'été 2026 à la Station biologique de Roscoff. Connaît le nom latin des algues. Corrige son père quand il dit « goémon » pour tout.
-- Vit en colocation rue de Paris à Rennes. ◆ Un copain, **Yanis**, qu'Antoine n'a jamais vu et appelle « le garçon à la Twingo ».
+- ◆ (ch. 4) Bagues à presque tous les doigts dont une en poulpe, pince crabe, gros pull d'homme, odeur d'éthanol et de chewing-gum à la chlorophylle, autocollant de nudibranche sur son téléphone. Fait deux bises (Antoine trois). Met une espace avant le point d'interrogation. Paie sa part. Vélo STAR.
+- Vit en colocation rue de Paris à Rennes. ◆ Un copain, **Yanis** (IUT génie électrique, répare des vélos dans un atelier associatif, Twingo de 2009 qui « fait un bruit à gauche »), qu'Antoine n'a jamais vu et appelle « le garçon à la Twingo ».
 - Relation abîmée : Antoine est parti quand elle avait 8 ans. Il voit Lucie quatre ou cinq fois par an. Elle n'a jamais lu *Mortes-eaux* en entier (elle l'a dit une fois, il ne s'en est pas remis).
 - **Fonction** : la boussole du réel. Tout ce qu'Antoine sait (ou croit savoir) d'elle sert de test. Elle est précise, drôle, peu sentimentale, elle met des points de suspension partout dans ses messages.
 - **Secret** : à six ans, sur la grève de Kerlouan, elle ne s'est pas perdue. Elle s'est cachée derrière les rochers, près de la maison de garde de Meneham, pour voir si son père la chercherait. Elle l'a raconté en 2019, en cinquième, dans une rédaction (« Raconte un souvenir d'enfance »). **C'est le texte du prologue.**
