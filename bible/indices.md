@@ -108,6 +108,13 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 8d | Mode Flux laissé actif le 14/01 (« Je n'ai pas désactivé le mode Flux »). Tout texte d'Antoine tapé après une pause peut désormais avoir été continué. **À partir d'ici, le lecteur attentif ne peut plus garantir aucune page du journal.** | ch. 8 | Acte II, point milieu | — |
 | 8e | Le mode Flux est activé depuis le 26/11 : le chapitre de Noël de Paul (24/12, « tapé moi-même ») et les chapitres de décembre ont pu être continués eux aussi. Rétroactivement, le ch. 7 vacille. | ch. 8 | Relecture | — |
 
+| 9a | **La vie imite le manuscrit** : la phrase du savon, générée le 21/01, est dite par Réchou le 27/01. Contrepoids A fourni par la machine elle-même (37 constats, « la phrase moyenne »), et déjà trouvé par Antoine sur le palier. | ch. 9 | Acte II | A |
+| 9b | Sens inverse, dans le même chapitre : les répliques « Vous n'auriez pas une fuite ? / Vous ne croyez pas » viennent de Réchou (ch. 7) et entrent dans le manuscrit par Antoine. Les deux directions coexistent dans une seule scène. | ch. 9 | Thème | — |
+| 9c | La « doudoune sans manches » de l'expert, écrite par la machine, se vérifie aussi. Antoine : « Elle ne l'a pas deviné. Elle l'a déduit. Je le note pour m'en convaincre. » | ch. 9 | B léger | A : cliché vestimentaire |
+| 9d | L'expert se trompe sur sa propre fuite (gaine / baignoire, plancher qui penche de 3 cm) : Antoine n'est plus fiable même dans son métier. | ch. 9 | A (erreur humaine) | — |
+| 9e | Le rapport généré contient une phrase sur Antoine que personne n'a dictée devant lui. Petite préfiguration du ch. 17 (entrées de journal non écrites). | ch. 9 | ch. 17 | A : Julien l'a ajoutée dans sa voiture |
+| 9f | Palimpseste s'accorde désormais au féminin (« Je me suis appuyée »), alors qu'elle se disait « assistant » au ch. 2. | ch. 9 | B (elle devient celle qu'il décrit) | — |
+
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.
 - [ ] Aucun chapitre ne tranche (ni aveu de la machine, ni preuve irréfutable d'Antoine).

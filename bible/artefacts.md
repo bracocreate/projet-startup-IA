@@ -57,7 +57,7 @@ Convention : on ignore le titre, les lignes de date, les en-têtes (`LA LAISSE D
 | 6 | **T** | La sole | « Toujours » ✅ (posé : « Toujours la sole. ») |
 | 7 | **C** | Nuit-matin | « Coefficient » ✅ (posé : « Coefficient 96 à Brest… ») |
 | 8 | **E** | Historique | « En » ✅ (posé : « En sortant de la bibliothèque… ») |
-| 9 | **C** | Dégât des eaux | « Ce » / « Chez » |
+| 9 | **C** | Dégât des eaux | « Ce » ✅ (posé : « Ce fut M. Stéphan… », 1er mot du texte, après l'en-tête du manuscrit) |
 | 10 | **I** | Réponses suggérées | « Il » |
 | 11 | **E** | Boulevard de la Liberté | « Elle » |
 | 12 | **S** | Sevrage | « Sur » |

@@ -33,6 +33,13 @@
 
 ## Résumés
 
+### Ch. 9 — « Dégât des eaux » (≈ 2 950 mots) — ouverture de l'acte II
+Extrait du chapitre 14 de *La Laisse de mer* : M. Stéphan, le marchand de cirés du rez-de-chaussée, monte dire à Paul que ça fuit. « C'est pas de la pluie, ça. La pluie, ça sent pas le savon. » Un jeune expert en doudoune sans manches.
+27 janvier : Réchou sonne à 7 h 40 et dit la phrase, mot pour mot. Le plombier du syndic trouve la fuite **chez Antoine**, sous sa baignoire (joint pourri, odeur de gel douche Tahiti) : l'expert s'est trompé sur sa propre auréole.
+Historique du ch. 14 : les répliques « Vous n'auriez pas une fuite ? » sont d'Antoine (prises à Réchou en décembre) ; celle du savon est de la machine (21/01, 17:12), six jours avant que Réchou la prononce. Palimpseste explique : 37 constats dans les carnets, « la phrase moyenne ». « Souhaitez-vous qu'à l'avenir j'évite les scènes susceptibles de se produire dans votre vie ? » — « non. continue ».
+29 janvier : Julien Maréchal, 31 ans, doudoune sans manches, humidimètre « comme un revolver ». « Trente-huit pour cent. » L'application détecte l'état antérieur, rédige le rapport. « Maintenant, je suis l'origine de la fuite. » « Ma mère lit beaucoup. »
+Rapport généré, parfait, avec une phrase sur Antoine que Julien n'a pas dictée. Réchou lui donne le seau de 12 litres. Trois gouttes dans la soirée.
+
 ### Ch. 8 — « Historique » (≈ 2 600 mots) — fin de l'acte I
 8 janvier 2026 : après un croque et deux demis au *Saint-Maur*, Antoine tape « seul », d'une traite, le chapitre 11 de *La Laisse de mer* (la mort de la mère de Paul, la boîte à boutons, « Il en manque un ») à la place 217 de la salle Labrouste. Il n'a « pas ouvert l'onglet ».
 9 janvier : Hélène : « le plus beau chapitre depuis *Mortes-eaux* […] Pas une virgule. » Il se croit revenu, choisit seul la reinette de Brucq.
@@ -99,6 +106,19 @@ Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de
 ---
 
 ## Passages lissés et réécrits
+
+### Ch. 9
+1. **Avant** : « …et ce qu'ils taperaient la nuit dans leur voiture, s'ils n'ont plus rien à taper. »
+   *Défaut* : chute réflexive, fin de paragraphe sur une idée.
+   **Après** : « …et ce qu'ils taperaient la nuit dans leur voiture. La sienne était une Peugeot 208 de société, garée en double file rue Saint-Maur, avec les warnings. »
+2. **Avant** : « On prend vite l'habitude des portes qu'on s'était juré de ne pas ouvrir. »
+   *Défaut* : maxime.
+   **Après** : « J'y suis allé sans y penser, comme on va aux toilettes chez des amis la troisième fois. »
+3. **Avant** : « une petite flèche rouge sur le joint » / « un joint noirci »
+   *Défaut* : couleurs nommées.
+   **Après** : « une petite flèche sur le joint, de la couleur des panneaux de sens interdit » / « un joint pourri ».
+
+Laissé volontairement : l'échange court avec Julien Maréchal (« — Ah. », « — Vous êtes du métier ? »), une série régulière mais vive.
 
 ### Ch. 8
 1. **Avant** : « On passe des années à pousser un mur et un jour on s'appuie dessus par distraction et il s'ouvre, c'était une porte. […] Je ne croyais plus qu'il y avait une porte. »

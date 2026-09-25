@@ -58,8 +58,10 @@ Les fondamentaux du CLAUDE.md sont respectés. Les ajouts sont signalés par ◆
 ## Personnages secondaires ◆
 - **Laure Castaing** : directrice du domaine français aux Éditions du Pont-Neuf, concurrente. Antoine a refusé son offre en 2014. Dîners rue du Cherche-Midi. Son mari « fait quelque chose avec des obligations ».
 - **Le critique** (jamais nommé) : connaît par cœur la première phrase de *Mortes-eaux*, mieux qu'Antoine.
-- **Le monsieur du dessous** (M. Réchou, 3e étage, retraité de la RATP) : l'auréole est chez lui. Dégât des eaux au ch. 9.
-- **L'expert de la MAIF** (ch. 9) : **Julien Maréchal**, 31 ans, venu constater le dégât des eaux chez Antoine. Antoine se voit en lui, jeune.
+- **Le monsieur du dessous** (M. Réchou, 3e étage, retraité de la RATP, environ 70 ans) : robe de chambre à carreaux, sonne deux coups longs et un court, répète les phrases des autres. L'auréole est chez lui. Donne son seau de 12 l à Antoine (ch. 9).
+- **M. Stéphan** (*La Laisse de mer*) : loue le rez-de-chaussée de la mère de Paul depuis 1998, vend des cirés. Double romanesque de Réchou.
+- **L'expert** (ch. 9) : **Julien Maréchal**, 31 ans, cabinet Delmas Expertises (mandaté par l'assureur de Réchou, convention IRSI). Doudoune sans manches, tablette, humidimètre à la ceinture, Peugeot 208 de société. Dicte ses rapports à une application. « Ma mère lit beaucoup. »
+- **M. Ferreira** (ch. 9) : plombier du syndic, la soixantaine, caisse à outils en métal.
 - **Anne Vasseur**, la sœur : un appel au ch. 18 pour les clés de Kerlouan.
 - **Mme Floc'h**, voisine de Kerlouan, 81 ans, qui garde les clés et se souvient de « la petite qui s'était cachée ».
 - **Théo Garnier**, 29 ans, jeune romancier à qui tout réussit, rencontré au ch. 1. C'est par lui qu'Antoine entend parler de Palimpseste pour la première fois (« tout le monde l'utilise, personne ne le dit »).
