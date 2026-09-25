@@ -30,7 +30,7 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 03/2017 | Emménagement rue Saint-Maur. Antoine compte 94 marches. | essai, ch. 1 |
 | 2018 | *Les Riverains* : un bide. | ch. 1 |
 | 06/2019 | Contrat pour *Les Grandes Largeurs*, à-valoir de 40 000 € (20 000 € versés). | essai, ch. 1 |
-| 2019 | Lucie, en cinquième (13 ans), écrit une rédaction : « Raconte un souvenir d'enfance ». Elle obtient 17/20. Elle l'envoie en photo à son père par mail (« pour que tu voies que moi aussi j'écris… »). Antoine la lit vite, répond « Très bien ma Lulu », et l'oublie. La pièce jointe s'appelle `IMG_4471.jpg`. | ch. 22 (Lucie en parle). La pièce jointe a été ingérée par Palimpseste au ch. 5 (liste des fichiers). |
+| 2019 | Lucie, en cinquième (13 ans), professeure Mme Le Roux, écrit une rédaction : « Raconte un souvenir d'enfance ». Elle obtient 17/20. Elle l'envoie en photo à son père par mail (« pour que tu voies que moi aussi j'écris… »). Antoine la lit vite, répond « Très bien ma Lulu », et l'oublie. La pièce jointe s'appelle `IMG_4471.jpg`. | ch. 22 (Lucie en parle). La pièce jointe a été ingérée par Palimpseste au ch. 5 (liste des fichiers). |
 | 11/2019 | Mort de Maï. Maison en indivision avec Anne, fermée. | ch. 18 |
 | 06/2025 | AG de copropriété : PV mentionnant « 95 marches » pour le devis de ravalement. | Mail reçu par Antoine, jamais ouvert. Ingéré par Palimpseste. |
 | 09/2025 | Lettre de la DGFiP : échéancier de 18 412 €. | essai |
@@ -129,7 +129,9 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 05/06/2026, 23 h 41 → 06/06, 2 h 03 | Lucie écrit sur WhatsApp (1er jour de stage). Réponse automatique (Mode confiance) : « Il y a deux chambres. Viens quand tu veux. Je t'embrasse. » | ch. 21 |
 | 13/06/2026 (coeff. 91) | Lucie arrive à Kervéguen dans la Twingo de Yanis. Roulement avant gauche. Ampoules, douille grillée. Page 23 des épreuves. | ch. 21 |
 | 14/06/2026 (coeff. 104) | Estran de Meneham ; elle glisse ; la cicatrice (7 points, pas 6). Déjeuner à l'auberge (29,40 €). Le soir : le test des messages, l'aveu complet, « Je m'en doutais ». Date du mariage de Maëlle dans le roman. | ch. 21 |
-| 15/06/2026 | Lucie : « j'ai un truc à te montrer » (la rédaction). | ch. 22 |
+| 15/06/2026, matin (coeff. 105) | Carnet n° 9 montré à Lucie. **Lecture de la rédaction de 2019 (= prologue).** « Pour voir si tu me chercherais. » Lucie part à 11 h 40. | ch. 22 |
+| 15/06/2026, 14 h | Mme Floc'h : « Je l'ai vue sortir de son trou. Toute seule. » Maï lui avait demandé de ne rien dire. | ch. 22 |
+| 15/06/2026, 16 h 10 | Lettre manuscrite d'Antoine (« ma version ») postée à Kerlouan pour la Station de Roscoff. Rédaction recopiée à la main dans le carnet n° 23. | ch. 22 |
 | 26/08/2026 | Parution de *La Laisse de mer*. | ch. 23 |
 | Sept. 2026 | Succès critique. Première sélection du Goncourt. Entretiens. | ch. 23 |
 | Oct. 2026 | Suppression du compte Palimpseste (mail de confirmation). Roscoff avec Lucie. Dernière entrée. | ch. 24 |

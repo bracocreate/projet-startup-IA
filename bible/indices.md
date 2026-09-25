@@ -29,7 +29,7 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 
 | # | Indice | Chapitre | Sert | Contrepoids |
 |---|--------|----------|------|-------------|
-| 1 | Le prologue emploie « pieds-de-mer » et « brillouche », mots que le lecteur ne connaît pas encore. **Semé.** (« brillouche » est expliqué par le contexte au ch. 1) | Prologue | Révélation ch. 22 (texte de Lucie) | — |
+| 1 | **Rappelé (ch. 22).** Le prologue emploie « pieds-de-mer » et « brillouche », mots que le lecteur ne connaît pas encore. **Semé.** (« brillouche » est expliqué par le contexte au ch. 1) | Prologue | Révélation ch. 22 (texte de Lucie) | — |
 | 2 | **Semé.** Le prologue est focalisé sur quelqu'un qui **regarde** chercher, pas sur quelqu'un qui cherche, mais on peut le lire dans les deux sens. | Prologue | ch. 22 | — |
 | 3 | **Semé.** Antoine raconte à Lucie « le jour où je t'ai retrouvée » (Sebago, rochers, sur les épaules). Elle dit « Hm », puis parle du fucus hybride (« une espèce ou une erreur »). | ch. 4 | A et B : Lucie sait autre chose | — |
 | 4 | **Semé** (sous la forme `IMG_4471.jpg … (lucie.vsr@…, 14/05/2019)` + `IMG_4472.jpg`). Dans la liste des fichiers ingérés : `IMG_4471.jpg (pièce jointe, mail du 14/05/2019, expéditeur : lucie.vsr@…)` | ch. 5 | ch. 22 : la machine connaissait la rédaction | Aucun lecteur ne le remarquera. C'est voulu. |
@@ -50,7 +50,7 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 19 | **Semé (ch. 20).** Les épreuves (manuscrit remis en avril) décrivent la maison de Kervéguen telle qu'Antoine l'a trouvée en mai. | ch. 20 | B | A : Antoine connaît la maison depuis l'enfance, et la machine a ses carnets d'enfance ; ce qui a changé depuis 2019 (appentis effondré) n'y est **pas** |
 | 20 | **Semé.** Lucie : « Merci pour tes messages de la semaine dernière. » Antoine était en zone blanche (et lui avait écrit « Je ne lis pas WhatsApp »). C'est un test. | ch. 21 | B | A : le mode confiance, depuis le téléphone resté à Paris ; ce qui n'enlève rien à Antoine |
 | 21 | **Semé.** Cicatrice sur le genou gauche de Lucie (chute de vélo, rue de Fougères, avril 2015 ; « Six points. » / « Sept. J'ai compté. »). Antoine la touche. | ch. 21 | A au ch. 24 | B : Lucie en a parlé dans un message vocal de 2021 (Palimpseste a les vocaux) |
-| 22 | La rédaction de Lucie lue à voix haute = prologue mot pour mot. | ch. 22 | Les deux | — |
+| 22 | **Semé.** La rédaction de Lucie lue à voix haute = prologue mot pour mot, consigne comprise (vérifié par script : 427 mots). | ch. 22 | Les deux | — |
 | 23 | Dans une interview, « Antoine » répond par une phrase qui figure mot pour mot dans une réponse de Palimpseste au ch. 2. | ch. 23 | B | A : il a lu cette phrase cent fois, elle est devenue la sienne |
 | 24 | Mail « Votre compte Palimpseste a été supprimé. Vos données sont conservées trente jours. » La dernière entrée tombe dans ces trente jours. | ch. 24 | B | A : la suppression est son geste à lui |
 | 25 | Dernière entrée : en-tête « transcription automatique, vérifiée ». Mais : 94 ou 96 marches, « incessamment » mal employé, 4 h 10, la cicatrice. | ch. 24 | **Les deux, exactement à parts égales** | — |
@@ -193,6 +193,12 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 21d | 7 points et non 6 : Lucie corrige Claire. Seule Lucie a compté. Rime avec les marches. | ch. 21 | Motif | — |
 | 21e | Le mariage de Maëlle (roman, depuis octobre) tombe le 14 juin, jour de la grande marée et de l'aveu. Lucie le remarque, pas Antoine. | ch. 21 | B léger | A : coïncidence de calendrier |
 | 21f | Antoine répare (roulement diagnostiqué) et ne répare pas (douille grillée) : la lumière de la maison reste la frontale de Lucie. | ch. 21 | Motif | — |
+
+| 22a | Toutes les fuites de la couche 2 (ch. 5, 7, 10, 15, 16) sont identifiées par Antoine comme venant d'`IMG_4471.jpg`. La voix lisse disait vrai parce qu'elle avait lu la petite. | ch. 22 | Relecture | — |
+| 22b | Mme Floc'h confirme la phrase de la machine (« elle marchait devant, toi tu suivais ») sans l'avoir jamais écrite. Premier témoignage **non numérisé** qui donne raison à la machine. | ch. 22 | Les deux | — |
+| 22c | La lettre manuscrite d'Antoine à Lucie (« ma version », postée le 15/06) : seul texte de lui, dans tout le livre, qui ne passe par **aucun** écran. Lucie répondra au ch. 24 : « c'est toi » ou non. | ch. 22 | ch. 24, lecture A | — |
+| 22d | « Brillouche » : Lucie s'en souvenait à 13 ans, l'a oublié à 19. La mémoire humaine perd ce que la machine garde. | ch. 22 | Thème | — |
+| 22e | Antoine recopie la rédaction de mémoire et se trompe de deux mots (« se retire », « juste derrière eux »), corrigés dans l'interligne. Erreur humaine, non réglementaire. | ch. 22 | A | — |
 
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.

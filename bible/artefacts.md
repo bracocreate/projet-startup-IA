@@ -12,7 +12,7 @@ Lien : `indices.md` n° 27-28, épilogue dans `plan/plan_detaille.md`.
 
 | # | Où | Texte | Explication dans la fiction | Ce qui fait tilt à la fin |
 |---|----|-------|-----------------------------|---------------------------|
-| A1 | **Prologue, 1re phrase du livre** | *« Racontez un souvenir d'enfance, au présent. Une page au maximum. Ne dites pas ce que vous ressentez : montrez-le. »* | Le sujet de la rédaction de 5e de Lucie (révélé au ch. 22). | C'est un prompt : un ordre au vouvoiement, une contrainte de longueur, une règle de style (« montrez, ne dites pas », CLAUDE.md §5). **Le livre commence par une consigne.** |
+| A1 | **Prologue, 1re phrase du livre** (✅ relue au ch. 22 : « Il y a le sujet d'abord. La prof nous dictait le sujet et on devait le recopier en haut. ») | *« Racontez un souvenir d'enfance, au présent. Une page au maximum. Ne dites pas ce que vous ressentez : montrez-le. »* | Le sujet de la rédaction de 5e de Lucie (révélé au ch. 22). | C'est un prompt : un ordre au vouvoiement, une contrainte de longueur, une règle de style (« montrez, ne dites pas », CLAUDE.md §5). **Le livre commence par une consigne.** |
 | A2 | Ch. 1, 1re phrase d'Antoine | « Coefficient 87 ce matin à Brest. Je le note parce que je le note toujours » | Manie d'Antoine. | Règle n° 11 de `voix.md` (« il date par la marée ») appliquée dès la première ligne. « Parce que je le note toujours » = parce que c'est la consigne. |
 | A3 | Ch. 1, dernière phrase | « le couvercle du bac de tri a claqué deux fois » | Fin de chapitre à plat. | Règle n° 10 (finir sur un objet, un bruit). Rappelée mot pour mot dans l'épilogue. |
 | A4 | Ch. 2, le « Florilège » d'Antoine | Il relève « murmurer », « l'écho de », « ce n'était pas X, c'était Y », « Car la mer… » | Antoine se moque de la machine. | C'est, presque dans l'ordre, la **liste des mots bannis** de `voix.md` §6. Antoine dresse la liste noire qui sert à l'écrire. |
@@ -70,7 +70,7 @@ Convention : on ignore le titre, les lignes de date, les en-têtes (`LA LAISSE D
 | 19 | **N** | Trois versions | « Non » ✅ (posé : « Non. Je ne suis pas encore descendu à la grève. ») |
 | 20 | **S** | Épreuves | « Sur » ✅ (posé : « Sur la route du Léon… », 1er mot du texte après les métadonnées et l'en-tête du manuscrit) |
 | 21 | **I** | Le garçon à la Twingo | « Il » ✅ (posé : « Il y avait un bruit à gauche. ») |
-| 22 | **G** | Rédaction | « Gast » |
+| 22 | **G** | Rédaction | « Gast » ✅ (posé : « Gast. C'est le premier mot que j'ai dit ce matin… ») |
 | 23 | **N** | Rentrée | « Neuf » |
 | 24 | **E** | Valeur à neuf | « Et » |
 

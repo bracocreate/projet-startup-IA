@@ -55,6 +55,13 @@
 
 ## Résumés
 
+### Ch. 22 — « Rédaction » (≈ 3 150 mots, rédaction comprise)
+15 juin 2026, coeff. 105. « Gast » contre la poutre. Lucie a fait le café dans la cafetière de Maï, rallumé la Godin, posé son téléphone écran contre le bois. Antoine lui montre le carnet n° 9 ; elle rit : « Maman m'a jamais trouvée. »
+Elle retrouve la rédaction de cinquième (mai 2019, 17/20, Mme Le Roux) et la lit à voix haute, **sujet compris** : c'est le prologue, mot pour mot (vérifié par script). « Brillouches » : à treize ans elle s'en souvenait. « Ma tête c'est un rangeoir. »
+Antoine reconnaît, morceau par morceau, toutes les fuites de la machine depuis novembre : elles venaient d'`IMG_4471.jpg`. « Cause et circonstances : un homme dans la maison. »
+« Pour voir si tu me chercherais. » Elle est revenue seule ; Claire l'a prise par la main ; à la radio, « il ment. Et après : il ment bien ». « Mais t'as pleuré, papa. […] C'est pour ça que j'ai écrit la rédac. » « Au moins quelqu'un l'a lue, dans la famille. » « Envoie-moi la tienne. »
+Mme Floc'h, cette fois interrogée : « Je l'ai vue sortir de son trou. Toute seule. » « Elle marchait devant. Toi tu suivais. » Antoine écrit sa version à la main, la poste à Roscoff (1,52 €), recopie la rédaction dans le carnet : deux mots faux, corrigés. « 427 mots, sujet compris. »
+
 ### Ch. 21 — « Le garçon à la Twingo » (≈ 3 950 mots)
 13 juin 2026. Le bruit à gauche avant la voiture. Lucie arrive de Roscoff (stage depuis le 1er juin, 42 km) avec deux pochons du Super U et une frontale. Les épreuves s'envolent, on court après. Deux bises chacun : « pour la première fois de notre vie on est tombés juste ».
 Le tour de la maison : l'horloge (« c'est bien que personne l'ait remontée »), la tache « on dirait une main », « Il y a deux chambres, non ? ». Le crapaud (*Bufo spinosus*). Diagnostic du roulement au cric. Elle conduit, lui passager. Ampoules à 4,99 € : la douille grille. Page 23 des épreuves : la lettre de Maëlle, et le mariage du roman est… le 14 juin, le lendemain.
@@ -212,6 +219,13 @@ Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de
 ---
 
 ## Passages lissés et réécrits
+
+### Ch. 22
+1. **Avant** : « amer au fond de la gorge » — *Défaut* : « au fond » (banni). **Après** : « amer jusque dans la gorge ».
+2. **Avant** : « le message relu la nuit, dans ce chapitre dont je ne sais pas qui l'a écrit » — *Défaut* : clin d'œil métafictionnel trop explicite (Antoine semblait connaître le ch. 16 comme chapitre). **Après** : « une nuit d'avril, dans une page que je ne me rappelle pas avoir tapée ».
+3. **Couleur** : « la boîte jaune […] jaune, non, couleur de boîte aux lettres » — **gardé volontairement** : lapsus corrigé dans l'émotion, que la machine (qui applique la règle n° 3 sans faute) ne ferait pas. Marqueur A.
+
+Laissé volontairement : l'énumération des fuites (« *Une place exacte…* : Paul, le 30 novembre… ») en série régulière, c'est un inventaire.
 
 ### Ch. 21
 1. **Avant** : « un rond de lumière blanche et dure, comme un projecteur de commissariat »
