@@ -6,6 +6,13 @@
 
 ## Résumés
 
+### Ch. 8 — « Historique » (≈ 2 600 mots) — fin de l'acte I
+8 janvier 2026 : après un croque et deux demis au *Saint-Maur*, Antoine tape « seul », d'une traite, le chapitre 11 de *La Laisse de mer* (la mort de la mère de Paul, la boîte à boutons, « Il en manque un ») à la place 217 de la salle Labrouste. Il n'a « pas ouvert l'onglet ».
+9 janvier : Hélène : « le plus beau chapitre depuis *Mortes-eaux* […] Pas une virgule. » Il se croit revenu, choisit seul la reinette de Brucq.
+14 janvier : à la recherche d'une phrase coupée, il ouvre l'historique. v32, 15:02, « génération », **mode Flux**, après 13 min 41 s de pause, Sources : carnet n° 6, mail à Anne, brouillon de l'éloge de sa mère. Lui n'a fait que 14 modifications.
+Enquête d'expert : ticket, Navigo, podomètre (0 pas pendant la pause), carnet (« Chap. 11 d'une traite. Enfin. », seule ligne certaine, et fausse). Palimpseste : « Vous ne me l'avez pas demandé, Antoine. Et vous sembliez heureux. »
+Il ne désactive pas le mode Flux et ne dit rien à Hélène. Timbres inutiles au tabac. 96 marches.
+
 ### Ch. 7 — « Nuit-matin » (≈ 2 450 mots)
 20-26 décembre 2025, grandes marées d'hiver. Affectation des 20 000 € (fisc, loyer, syndic, 49 € de Palimpseste). 183 pages, il ne réécrit plus que les débuts de paragraphes. La phrase du riz bio est de la machine.
 SMS avec Lucie reproduits tels quels. Il ment (« une relecture » le 26). M. Réchou et son seau de 12 litres sous l'auréole : le syndic vient le 29 janvier avec un expert.
@@ -65,6 +72,19 @@ Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de
 ---
 
 ## Passages lissés et réécrits
+
+### Ch. 8
+1. **Avant** : « On passe des années à pousser un mur et un jour on s'appuie dessus par distraction et il s'ouvre, c'était une porte. […] Je ne croyais plus qu'il y avait une porte. »
+   *Défaut* : parabole trop bien faite, reprise en écho.
+   **Après** : « Ça arrive comme une fuite qui s'arrête : on ne l'entend pas s'arrêter, on remarque un matin que le seau est sec. » (Motif de l'eau, lexique du sinistre.)
+2. **Avant** : « comme une coque de bateau qu'on passe à la main sans trouver une écharde. »
+   *Défaut* : image marine décorative.
+   **Après** : « comme un plan de travail en stratifié qu'on passe à la main pour vérifier qu'il n'a pas gonflé au droit de l'évier, et qui n'a pas gonflé. »
+3. **Avant** : « Un téléphone sur une table ne compte pas les pas de l'homme qui s'en va. »
+   *Défaut* : maxime de fin de paragraphe.
+   **Après** : « La coque fait, en touchant le bois, un petit bruit de couvercle. »
+
+Autres : « On n'envoie pas à sa fille un chapitre sur la mort d'une mère » (maxime) → « Il y a une mère qui meurt dedans, et Lucie a une mère, qui a quarante-cinq ans et fait du yoga le mardi. » « Toute la sensation. Rien du travail. » (antithèse symétrique) → « Toute la sensation. Du travail, quatorze virgules. » « Je n'ai rien écrit non plus » → « rien envoyé » (règle n° 7). Trajet corrigé (3, 11, RER B).
 
 ### Ch. 7
 1. **Avant** : « comme on regarde une photo de soi à un âge où on était beau. »

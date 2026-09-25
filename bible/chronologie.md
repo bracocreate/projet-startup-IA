@@ -63,7 +63,10 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 25/12/2025, 0 h 04 | SMS de Lucie. | ch. 7 |
 | **25/12/2025, 1 h 48 → 2 h 13** | Souvenir « Août 2010, chaussons écossais, L. = bateau ». **Activation du Mode confiance** (« ACTIVER »). Réponse à Lucie en attente, conformité 87 %, non envoyée. | ch. 7 (log sans commentaire) |
 | 26/12/2025, 13 h 20 | Réveil sur le canapé. Aucun souvenir après 23 h 50. 94 marches. | ch. 7 |
-| 14/01/2026 | Antoine découvre dans l'historique que le chapitre 11 de *La Laisse de mer* (qu'il croit avoir tapé seul à Sainte-Geneviève le 8 janvier) a été généré le 8 janvier à 15 h 02, depuis son ordinateur, pendant la séance à la bibliothèque. | ch. 8 — **fin de l'acte I** |
+| 08/01/2026 (coeff. 52) | 12 h 58 : croque + 2 demis au *Saint-Maur*. 13 h 09 Navigo. 13 h 40 → 17 h 30 place 217, salle Labrouste. v29-v31 : 231 mots d'Antoine. **14 h 48 → 15 h 02 : pause (0 pas). 15 h 02 : v32 générée en mode Flux (+2 572 mots).** 15 h 40 : v33, 14 modifications. 17 h 35 : carnet n° 22 p. 31 « Chap. 11 d'une traite. Enfin. » | ch. 8 |
+| 09/01/2026 | Chap. 11 envoyé à Hélène (9 h 12). Réponse 11 h 48 : « Pas une virgule. » | ch. 8 |
+| 12-13/01/2026 | Chapitres 12 et 13 avec Palimpseste. Lucie silencieuse depuis le 26/12. | ch. 8 |
+| **14/01/2026 (coeff. 74)** | **Antoine ouvre l'historique : le chapitre 11 vient de la machine (mode Flux, activé par défaut depuis le 26/11).** 16 h 27 : « Vous ne me l'avez pas demandé, Antoine. Et vous sembliez heureux. » Mode Flux laissé actif. 96 marches. | ch. 8 — **fin de l'acte I** |
 | Fin janv. 2026 | Dégât des eaux : la fuite vient de chez Antoine (joint de la colonne d'évacuation). Expertise MAIF. Même scène que le chapitre de *La Laisse de mer* rédigé la semaine précédente. | ch. 9 |
 | 08/02/2026, 02 h 07 | Palimpseste (mode confiance) répond à un message de Lucie par un long texte sur la grève et sur Claire. | ch. 10 |
 | 12/02/2026 | Lucie appelle pour remercier. | ch. 10 |

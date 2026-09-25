@@ -36,7 +36,7 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 5 | **Semé.** « Il manque le n° 9. […] Perdu dans un déménagement, sans doute » + « un trou de six mois dans ma vie […] que personne ne pourra jamais importer ». | ch. 5 | ch. 19 : carnet retrouvé à Kerlouan, jamais numérisé → **A** | — |
 | 6 | **Semé** (« Ça, c'est toi. Personne d'autre ne peut écrire ça. », 8e étoile). Hélène cite comme « tellement toi » une phrase qu'on a lue au ch. 2 dans une réponse de Palimpseste. | ch. 6 | B | A : Antoine avait repris la phrase à son compte, il le dit lui-même au ch. 3 |
 | 7 | **Semé.** Log du 25/12, 02:13 : activation du Mode confiance (« fais ce que tu veux. reponds lui mieux que moi » / « ACTIVER »). Aucun commentaire d'Antoine, qui ne s'en souvient pas le 26. | ch. 7 | ch. 10 | — |
-| 8 | Historique de versions du ch. 11 de *La Laisse de mer*. | ch. 8 | B | A : Antoine a pu copier-coller sans s'en souvenir (il avait bu à midi, il le mentionne en passant) |
+| 8 | **Semé.** Historique de versions du ch. 11 de *La Laisse de mer* (v32, mode Flux, 15:02). | ch. 8 | B | A : Antoine a pu copier-coller sans s'en souvenir (il avait bu à midi, il le mentionne en passant) |
 | 9 | Le message nocturne à Lucie emploie « incessamment » **correctement** et confond pieds-de-mer et méduses. Lucie : « t'as toujours confondu ». | ch. 10 | L'erreur de la machine passe pour une erreur humaine d'Antoine | — |
 | 10 | Claire : « Tu te souviens de sa rédaction, en cinquième ? Elle te l'avait envoyée. » Antoine : non. | ch. 11 | ch. 22 | — |
 | 11 | Journal du 3 mars : 95 marches, un point-virgule, « gris », « écrire ». | ch. 12 | B | A : la version du ch. 13 est *différente* : le ch. 12 pourrait être la version d'Antoine, retouchée ou non |
@@ -101,6 +101,12 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 7c | L'entrée du 24 décembre annonce « (412 mots) » et en compte **exactement 412** (vérifié au script). Un humain ivre ne tombe pas juste. Couche 3 de `artefacts.md` (erreurs-quotas) inversée : ici, c'est l'exactitude qui trahit. | ch. 7 | Relecture / épilogue | A : Antoine a compté avant de ranger, il le dit |
 | 7d | Le *Guide des bords de mer* déjà offert en 2019 : erreur de mémoire d'Antoine, que la machine aurait évitée (elle a les mails de 2019). | ch. 7 | A (erreur humaine) | — |
 | 7e | Réponse à Lucie « en attente, conformité 87 % » : la machine a déjà rédigé quelque chose le 25/12. Ne sera jamais montré. | ch. 7 | ch. 10 | — |
+
+| 8a | La phrase « Il en manque un » vient de l'éloge funèbre de la mère d'Antoine (2016), qu'il avait oublié et qu'Anne a lu à sa place. La machine se souvient de sa mère mieux que lui. | ch. 8 | ch. 15, 24 | — |
+| 8b | Podomètre : 0 pas pendant la pause. A (il s'est endormi, deux demis) ou B (il n'a jamais quitté sa place et regardait l'écran se remplir ?). Le téléphone était peut-être posé sur la table. **Indécidable par construction.** | ch. 8 | Les deux | — |
+| 8c | La ligne du carnet n° 22 p. 31 (« Chap. 11 d'une traite. Enfin. ») : manuscrite, datée, certaine, **et fausse**. Premier cas où l'écriture à la main n'est plus une preuve. À rappeler au ch. 19 (carnet n° 9 : lui aussi manuscrit, lui aussi faux). | ch. 8 | ch. 19, 24 | — |
+| 8d | Mode Flux laissé actif le 14/01 (« Je n'ai pas désactivé le mode Flux »). Tout texte d'Antoine tapé après une pause peut désormais avoir été continué. **À partir d'ici, le lecteur attentif ne peut plus garantir aucune page du journal.** | ch. 8 | Acte II, point milieu | — |
+| 8e | Le mode Flux est activé depuis le 26/11 : le chapitre de Noël de Paul (24/12, « tapé moi-même ») et les chapitres de décembre ont pu être continués eux aussi. Rétroactivement, le ch. 7 vacille. | ch. 8 | Relecture | — |
 
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.

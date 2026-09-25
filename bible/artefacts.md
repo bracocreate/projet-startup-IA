@@ -56,7 +56,7 @@ Convention : on ignore le titre, les lignes de date, les en-têtes (`LA LAISSE D
 | 5 | **U** | Mémoire longue | « Un » ✅ (posé : « Un homme de quarante-sept ans… ») |
 | 6 | **T** | La sole | « Toujours » ✅ (posé : « Toujours la sole. ») |
 | 7 | **C** | Nuit-matin | « Coefficient » ✅ (posé : « Coefficient 96 à Brest… ») |
-| 8 | **E** | Historique | « En » |
+| 8 | **E** | Historique | « En » ✅ (posé : « En sortant de la bibliothèque… ») |
 | 9 | **C** | Dégât des eaux | « Ce » / « Chez » |
 | 10 | **I** | Réponses suggérées | « Il » |
 | 11 | **E** | Boulevard de la Liberté | « Elle » |
