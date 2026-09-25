@@ -6,7 +6,7 @@
 
 ## Résumés
 
-### Ch. 1 — « Linéaire » (3 190 mots)
+### Ch. 1 — « Linéaire » (≈ 3 100 mots)
 Journal du 14 au 17 octobre 2025. Antoine : les marches (94, puis 96, puis « une centaine »), l'auréole du 3e, la clause 7, le fisc, les notes mortes des *Grandes Largeurs*.
 Dîner chez Laure Castaing (Pont-Neuf), rue du Cherche-Midi : un critique cite la première phrase de *Mortes-eaux*, Antoine n'est pas sûr qu'elle soit juste.
 Sur le balcon, Théo Garnier : « Palimpseste. Tout le monde l'utilise. Personne le dit. » Antoine note le nom dans le carnet n° 22, p. 12.
@@ -16,7 +16,7 @@ Fin : publicité Palimpseste dans le podcast, « Votre voix, en mieux », bac de
 ### Prologue — « La grève » (410 mots)
 Texte sans narrateur nommé, au présent : une enfant cachée entre deux rochers regarde « la femme » la chercher sur la grève, puis « l'homme » arriver tard de la maison, en chaussons, et passer à côté sans regarder.
 Mots de Lucie non expliqués : pieds-de-mer, brillouche. Bretonnismes : ribine, goémon.
-Le texte nomme les couleurs presque jamais, mais il n'obéit pas aux règles d'Antoine (c'est une autre voix : une enfant de 13 ans, bonne élève).
+Le texte n'obéit pas aux règles d'Antoine (c'est une autre voix : une enfant de 13 ans, bonne élève).
 Phrase-pivot : « Personne ne m'a trouvée. Je suis revenue. »
 Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de cinquième (elle sera relue ainsi au ch. 22).
 
