@@ -85,7 +85,7 @@ On a déjeuné d'une galette complète à la crêperie du port, 9,80 €, et d'u
 
 ~
 
-La mer était déjà loin à 13 h 30. On est partis par la grève, derrière la Station, vers l'ouest, en longeant les rochers noirs de goémon, et puis sur le sable, et puis sur le fond, là où il y a deux heures il y avait trois mètres d'eau. L'île de Batz, en face, avec son phare, avait l'air d'être à portée de bottes. Lucie dit qu'aux plus grandes marées de l'année on voit presque le chenal, qu'il y a des gens qui ont essayé de traverser à pied et qu'on les a ramassés en canot, tous les ans, le même genre de gens, des hommes, la cinquantaine, en chaussures bateau.
+La mer était déjà loin à 13 h 30. On est partis par la grève, derrière la Station, vers l'ouest, en longeant les rochers couverts de goémon, couleur de marc de café, et puis sur le sable, et puis sur le fond, là où il y a deux heures il y avait trois mètres d'eau. L'île de Batz, en face, avec son phare, avait l'air d'être à portée de bottes. Lucie dit qu'aux plus grandes marées de l'année on voit presque le chenal, qu'il y a des gens qui ont essayé de traverser à pied et qu'on les a ramassés en canot, tous les ans, le même genre de gens, des hommes, la cinquantaine, en chaussures bateau.
 
 Elle marchait devant. Je le note parce que c'est vrai, et parce que je sais ce que ça a l'air. Elle marchait devant, et elle s'accroupissait tous les dix mètres pour retourner une pierre, et je la rattrapais, et elle repartait. Elle a noté des choses dans un carnet à couverture plastique, Rhodia, petits carreaux, avec un crayon à papier HB attaché par une ficelle. Elle a nommé : une étoile de mer bossue, *Asterina*, grosse comme une pièce de deux euros. Des ormeaux, deux, qu'elle n'a pas pris, c'est interdit sous une certaine taille, elle a sorti un réglet de sa poche pour me montrer, 9 cm, ils en faisaient 7. Un crabe vert qui n'était pas vert, qui était de la couleur d'une vieille bâche de chantier, et qui s'appelle vert quand même.
 
@@ -141,7 +141,7 @@ Elle m'a regardé. Elle s'est relevée. Elle a essoré le bas de son ciré.
 
 Je n'ai pas dit comment je savais. Je le savais parce qu'elle me l'a dit en juin, à Meneham, en me corrigeant, *sept, pas six*, et que je l'ai écrit le soir même dans le carnet n° 23 à la main, et que le carnet n° 23 n'a jamais été photographié, et que la machine en juin n'avait plus rien de moi depuis le 12 mai. Je le sais. Je l'ai vérifié en rentrant, ce soir, avant de me coucher, sur la page. *7 points, pas 6.* Au Bic. Avec la date.
 
-Il y avait six points, dans les carnets de 2015. Je l'avais écrit à l'hôpital Sud, à Rennes, dans la salle d'attente, *6 points*, j'en suis sûr, c'est dans le carnet n° 17 et le carnet n° 17 a été photographié. La machine a su six. Moi je sais sept. Ça ne prouve rien. Ça fait un point de plus.
+Il y avait six points, dans les carnets de 2015. Je l'avais écrit le soir même, à Paris, sous le toit, après le coup de téléphone de Claire, *L., vélo, rue de Fougères, 6 points*, j'en suis sûr, c'est dans le carnet n° 17 et le carnet n° 17 a été photographié. La machine a su six. Moi je sais sept. Ça ne prouve rien. Ça fait un point de plus.
 
 ~
 

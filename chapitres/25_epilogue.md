@@ -4,7 +4,7 @@ Vous êtes encore là. C'est gentil. Beaucoup de lecteurs s'arrêtent au coquill
 
 Je vous dois quelques explications. Pas beaucoup. Ça se lit vite, c'est une notice.
 
-Au chapitre 1, vous avez fait confiance à un homme parce qu'il comptait 94 marches, puis 96, et jamais 95. Règle n° 2 : *il compte, se trompe et se corrige plus tard. Il y en a en réalité 95. Il ne trouve jamais 95.* Au chapitre 12, il en a trouvé 95, une fois. C'était un oubli. On l'a laissé, ça faisait vrai.
+Au chapitre 1, vous avez fait confiance à un homme parce qu'il comptait 94 marches, puis 96, et jamais 95. Règle n° 2 : *il compte, se trompe et se corrige plus tard. Il y en a en réalité 95. Il ne trouve jamais 95.* Au chapitre 12, il en a trouvé 95, écrit en toutes lettres, comme la machine écrit les nombres. Vous ne l'avez pas remarqué, c'était fait pour. Au chapitre 24, il retrouve 95 en redescendant, en chiffres cette fois, et il n'arrive pas à choisir. Moi non plus.
 
 Vous avez remarqué qu'il ne nommait jamais une couleur. Vous en avez conclu à un tic, donc à une histoire, donc à quelqu'un. Règle n° 3 : *il passe par un objet, un produit, une matière.* Le ciel couleur de bassine en zinc, les bottes couleur de bouteille de Perrier. La boîte aux lettres de Kerlouan, au chapitre 22, a été jaune pendant un mot, puis corrigée. Ce lapsus était prévu dans une note. Je peux vous montrer la note.
 

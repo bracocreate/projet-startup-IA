@@ -180,6 +180,7 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 19c | Mme Floc'h a peut-être vu la petite revenir seule (« La petite, je l'ai vue qui »). Antoine refuse le témoin. Troisième refus de savoir (après la répartition et le document de 2019). | ch. 19 | ch. 22, lecture A | — |
 | 19d | Le carnet n° 9 n'a **jamais été numérisé** : c'est le seul texte du livre que la machine n'a pas lu. Il donne raison à Claire, pas à Lucie. La vérité (le prologue) n'est ni dans le carnet ni chez Claire. | ch. 19 | ch. 22 | — |
 | 19e | Dans le troisième creux : le granit chaud d'un côté, froid de l'autre, le mica qu'on ne peut pas gratter (= prologue, mot pour mot presque). Antoine le vit sans savoir qu'il le cite. | ch. 19 | ch. 22 | — |
+| 19g | (Relevé à la révision finale.) À Meneham, Antoine décrit l'écume avec les mots exacts de la rédaction de 2019 : « petites bulles grises […] qui éclatent quand on s'accroupit pour les regarder de près », deux semaines avant de la lire (ch. 22). | ch. 19 | B | A : il a lu ces mots dans la proposition de Palimpseste (ch. 5, fuite n° 1) et les a gardés |
 | 19f | Liste de courses d'août 2012 : « cahier pour L. (rentrée CP) ». Lien avec la dame aux cahiers Séyès (ch. 12). | ch. 19 | Motif | — |
 
 | 20a | **Ce que le ch. 24 du roman (27/04) sait déjà** : porte gonflée ouverte à l'épaule, eau de Cologne, buffet au vernis laiteux, téléphone en bakélite et « bruit de son propre sang », quatorze marches et rampe descellée à la troisième, table face au champ (« la mer, ça empêche de travailler »), tache à trois contours, regard du compteur, talus « comme on tend du pain à un cheval », la mer ou la route « même bruit de chose qui roule et qui revient », **vingt-sept ardoises**, le creux chaud/froid avec le mica, « on aurait vu quelqu'un passer tout près sans regarder ». **Ce qu'il ne sait pas** : l'horloge arrêtée sur 4 h 10, l'appentis effondré, la fuite réparée à la main, Mme Floc'h et ses jumelles, le carnet n° 9, la table déplacée. | ch. 20 | B : le livre a précédé la vie (carnet n° 23 de mai et ch. 19 contiennent des phrases du roman d'avril) | A : Antoine a lu et accepté ce chapitre le 27/04 « presque sans y toucher » : ses carnets de mai **répètent le roman qu'il a lu**, sans le savoir (même mécanisme que la 1re phrase de *Mortes-eaux*) |
@@ -223,6 +224,6 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 **Bilan ch. 24 (tenabilité)** — Marqueurs A : suppression du compte, « Sept » (carnet non numérisé), la lettre « C'était toi », la phrase abandonnée sur SUPRIMER, la couleur évitée par un « de bottes », 95 en redescendant (erreur non réglementaire), « à 70 % ». Marqueurs B : trente jours de conservation, en-tête « transcription automatique », « Comme demandé, », 94 ou 96 et « Valeur à neuf : » vide (exemples mot pour mot de la liste du ch. 15), les chaussons dans *journal.docx*, « je sais ce que ça a l'air ». Aucun aveu, aucune preuve. ✅
 
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
-- [ ] Chaque indice B a son contrepoids A.
-- [ ] Aucun chapitre ne tranche (ni aveu de la machine, ni preuve irréfutable d'Antoine).
-- [ ] Le ch. 24 contient au moins 3 marqueurs A et 3 marqueurs B.
+- [x] Chaque indice B a son contrepoids A. (révision finale)
+- [x] Aucun chapitre ne tranche (ni aveu de la machine, ni preuve irréfutable d'Antoine). (révision finale)
+- [x] Le ch. 24 contient au moins 3 marqueurs A et 3 marqueurs B. (6 et 6)

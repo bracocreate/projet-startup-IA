@@ -31,6 +31,33 @@
 
 ---
 
+## Révision finale (prologue → épilogue)
+
+**Volume** : ≈ 68 900 mots (wc), prologue et épilogue compris. Acte III + épilogue ≈ 24 000. Écart avec la cible de 75 000 : − 8 %, assumé (décision « allonger l'acte III » tenue sans délayage).
+
+**Contrôle automatique (outils/controle.py, 26 fichiers)** : coefficient de variation entre 0,75 (ch. 13) et 1,24 (ch. 2, 3) ; aucun chapitre sous 0,70. Fenêtres régulières restantes : toutes dans les passages machine (logs, transcription radio du ch. 23) ou dans des échanges de répliques courtes.
+
+**Mots bannis** : aucune occurrence non justifiée. Restent, volontairement : la page de Palimpseste et le florilège (ch. 2), un commentaire de Palimpseste (ch. 3, « fait écho »), « danse l'an-dro » au sens propre (ch. 5), les pages mortes de Paul et leur relevé (ch. 14), le blog de Fanny et la transcription radio (ch. 23), « au fond » du car (ch. 24), les mots interdits cités comme tels (épilogue).
+
+**Points-virgules hors logs** : ch. 7 (1, le camembert), ch. 12 (3), ch. 8/14/16 (manuscrit de Paul), ch. 19 (réponse de la machine), ch. 23 (Le Bihan cité + 8 dans la transcription radio), ch. 24 (1, dans le mail). Tous consignés dans `contamination.md`.
+
+**Couleurs** : « gris » ch. 10 (corrigé en direct), ch. 12 (×2, prévus), ch. 17 (prévu), « jaune » ch. 22 (lapsus corrigé). **Corrigé** : « rochers noirs de goémon » (ch. 24) → « couleur de marc de café ». Non retenus comme couleurs : « dans le noir », « bois blanc », « lettre verte », « impression en noir », « crabe vert » (nom d'espèce). Les « petites bulles grises » du ch. 19 dans la bouche d'Antoine : trace du prologue, enregistrée comme indice 19g.
+
+**Cohérence corrigée pendant la révision** :
+- ch. 23 : « Douze ans après *Mortes-eaux* » → **treize** (2013 → 2026), et *Les Riverains* (2018) réintroduit dans la critique (« qu'on oubliera charitablement »), la question de la journaliste passe à « ces treize ans ».
+- ch. 23 : la règle du point-virgule « depuis 2014 » → **2013** (départ de la MOA, 2002-2013).
+- ch. 23 : « Quatre-vingt-seize marches […] quatre-vingt-quatorze » → **96 / 94** en chiffres (règle n° 2 ; les lettres sont réservées au 95 du ch. 12).
+- ch. 24 : les « 6 points » ne peuvent pas avoir été notés à l'hôpital (Antoine était à Paris depuis septembre 2014, ch. 21) → notés « le soir même, à Paris, après le coup de téléphone de Claire ».
+- Épilogue : « jamais 95 […] au ch. 12, un oubli » contredisait le ch. 12 (95 volontaire, en lettres) et le ch. 24 (95 en redescendant). Réécrit : « écrit en toutes lettres, comme la machine écrit les nombres. Vous ne l'avez pas remarqué, c'était fait pour. Au chapitre 24, il retrouve 95 en redescendant, en chiffres cette fois, et il n'arrive pas à choisir. Moi non plus. »
+
+**Vérifié sans correction** : jours de la semaine de toutes les dates (script, 2025-2026, et le mardi 21 août 2012) ✅ · âges (Antoine 47 → 48 le 3 février, Lucie 19 → 20 le 21 mars, Mme Floc'h 81) ✅ · noms (Hélène Morvan, Bertrand, Marcelin, Mme Floc'h, Réchou) ✅ · Mode confiance (25/12 on → 12/02 off → 14/02 on → 03/03 off → 11/05 on → 28/06 off) ✅ · art. 14.2 / 7.3 ✅ · prologue repris intégralement au ch. 22 (11 paragraphes sur 11, script) ✅ · aucun nom réel d'entreprise d'IA ni de modèle dans le texte (grep) ✅.
+
+**Acrostiche** : premiers mots des ch. 3 à 24 : T-O-U-T C-E-C-I E-S-T U-N-E C-O-N-S-I-G-N-E ✅ (script ; en-têtes, dates et blocs de code exclus).
+
+**Double lecture** : tenable. Aucun chapitre ne tranche. Le ch. 24 porte au moins 6 marqueurs de chaque côté (bilan dans `indices.md`). L'épilogue désigne l'auteur *du livre*, pas celui des dernières entrées : « Posez-la à la couverture. » Seul point à surveiller à la lecture finale : l'épilogue révèle que les « erreurs humaines » étaient prévues (couche 3), ce qui fragilise *après coup* la lecture A sans la détruire (les erreurs sont celles d'Antoine dans la fiction, quel que soit l'auteur du livre).
+
+---
+
 ## Révision de fin d'acte II (ch. 9 → 17)
 
 **Volume** : prologue + ch. 1-17 = environ 44 900 mots (wc). Acte II ≈ 21 900 mots pour 26 900 prévus. Projection si l'acte III suit le plan (~20 300 mots) : **≈ 65 000 mots**, soit 10 000 de moins que la cible de 75 000. Décision à demander à l'auteur (allonger l'acte III, ou accepter ~65 000).
