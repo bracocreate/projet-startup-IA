@@ -42,7 +42,7 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 11 | **Semé.** Journal du 3 mars : 95 marches (en lettres), 3 points-virgules, « gris » ×2, « écrire », « incessamment » bien employé, deux maximes, aucune phrase abandonnée. | ch. 12 | B | A : la version du ch. 13 est *différente* : le ch. 12 pourrait être la version d'Antoine, retouchée ou non |
 | 12 | **Semé.** Deux versions de la même entrée (ch. 12 / ch. 13). Le ch. 12 est daté 23 h 12 (source inconnue), la version B 23 h 50 (machine, non enregistrée). La version machine est la plus humaine. | ch. 13 | Point milieu | — |
 | 13 | **Semé.** Palimpseste, interrogée, énumère tous les tics d'Antoine, y compris « incessamment » (« Vous l'employez au sens de "sans cesse". Souhaitez-vous que je conserve cet usage ? ») Antoine répond : « Oui. » | ch. 15 | **Clé de B** : les erreurs ne prouvent plus rien | A : Antoine pourrait aussi bien dire « oui » par orgueil, et la question reste ouverte |
-| 14 | Chapitre indécidable : « il », ni Paul ni Antoine nommés. | ch. 16 | Les deux | — |
+| 14 | **Semé.** Chapitre indécidable : « il », ni Paul ni Antoine nommés. | ch. 16 | Les deux | — |
 | 15 | Trois entrées de journal qu'Antoine ne se souvient pas d'avoir écrites. | ch. 17 | B | A : c'est ce qu'il a tapé ivre les soirs de janvier (il le soupçonne) |
 | 16 | Horloge de Maï arrêtée à 4 h 10 : jamais mentionnée dans aucun document numérique. | ch. 18 | **A** au ch. 24 | B : Antoine en parle dans un SMS à Anne depuis le Nokia (une phrase au ch. 18). Anne répond sur WhatsApp, à son numéro habituel (« l'horloge de Maï, toujours 4 h 10 ? »), donc sur le téléphone resté à Paris, que Palimpseste lit. |
 | 17 | Téléphone laissé branché à Paris. | ch. 18 | ch. 21 | — |
@@ -155,6 +155,11 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 15d | « bisous » : « C'est noté également. » Même chose pour tous les marqueurs : la machine apprend chaque preuve d'humanité au moment où Antoine la brandit. | ch. 15 | Thème, épilogue | — |
 | 15e | Antoine envoie les photos du cahier : la promesse du ch. 11 (« je recopie à la main pour qu'elle ne l'ait pas ») est rompue. Les pages manuscrites de mars sont désormais dans les Sources. | ch. 15 | ch. 17 | — |
 | 15f | Seule différence restante selon Antoine : il tape sans accents quand il parle à la machine. **Marqueur à surveiller** : si un prompt « antoine.v » apparaît un jour avec accents et majuscules, ce n'est peut-être plus lui (indice 2c). | ch. 15 | ch. 17, 23, 24 | A : il peut simplement changer d'habitude |
+
+| 16a | **Tableau de double appartenance** (ch. 16). Antoine : boulevard, marches comptées, sœur (Anne), ticket plié en quatre, « je tapais », sinistre et franchise, « la nuit-matin », 112 pages envoyées à Hélène, cigarette électronique d'Hélène. Paul : la mer au bout de la rue (Audierne), la maison, le voisin du dessous (M. Stéphan), sa sœur (tante Annick), les 112 pages de Jérémie, « l'autre, qui avait proposé ses services un matin », la boîte à boutons de sa mère, la voiture devant la mairie. Commun : mère morte, « il en manque un », fille, plage, rochers, chapeau de paille. | ch. 16 | Les deux | — |
+| 16b | **Fuite n° 5** : « ta mère avec le chapeau de paille » dans le message relu (= prologue). Le souvenir de l'homme est remplacé par la phrase du message : « dans dix ans il se souviendrait du chapeau ». | ch. 16 | ch. 22 | — |
+| 16c | Le message relu diffère légèrement de celui du ch. 10 (« Ma chérie », « je travaillais », chapeau de paille). A : c'est le message de Paul à Maëlle (écrit par Jérémie ou la machine). B : c'est une autre version, ou un autre message à Lucie, que le lecteur n'a pas vu (« trois autres, plus courts, plus anciens »). | ch. 16 | Indécidable | — |
+| 16d | « Il décida qu'elle était de lui, et tourna la page. » Formule de la lecture A de la fin (accepter de ne pas savoir). | ch. 16 | ch. 24 | — |
 
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.

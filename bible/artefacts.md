@@ -64,7 +64,7 @@ Convention : on ignore le titre, les lignes de date, les en-têtes (`LA LAISSE D
 | 13 | **T** | Note vocale | « Transcription » ✅ (posé : « Transcription automatique de la note vocale n° 1 313… ») |
 | 14 | **U** | Clairefontaine | « Une » ✅ (posé : « Une heure pour enlever le film plastique. ») |
 | 15 | **N** | Bon retour | « Nuit » ✅ (posé : « Nuit du 3 au 4 avril. ») |
-| 16 | **E** | [sans titre] | « Elle » / « En » |
+| 16 | **E** | [sans titre] | « Elle » ✅ (posé : « Elle avait répondu avec trois cœurs. ») |
 | 17 | **C** | Remise | « C'est » |
 | 18 | **O** | Constat | « Onze » |
 | 19 | **N** | Trois versions | « Non » |
@@ -95,7 +95,7 @@ Le prologue commence par « Racontez » : c'est l'ordre, et le reste en est l'ex
 | 7 | Log de Noël : « dans vos chaussons écossais, ceux que vous mettiez l'été pour ne pas salir le carrelage » | ✅ posé |
 | 10 | Le message à Lucie : « Et de moi qui suis arrivé en retard, tu le sais. […] Mais j'étais dans la maison. » | ✅ posé |
 | 15 | La grève « comme vous la racontez » : Antoine « sort de la maison » et « elle marche devant vous, jusqu'à Claire, et vous suivez » | ✅ posé (Antoine relève la maison, pas la petite fille) |
-| 16 | Chapitre indécidable : la femme au chapeau de paille | prévu |
+| 16 | Chapitre indécidable : « De ta mère avec le chapeau de paille, qui marchait au bord de l'eau en t'appelant, et du vent qui emportait ton prénom vers les champs » | ✅ posé |
 
 ## Couche 3 — Les « erreurs humaines » sont des quotas
 

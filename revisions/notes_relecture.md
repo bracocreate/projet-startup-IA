@@ -33,6 +33,13 @@
 
 ## Résumés
 
+### Ch. 16 — [sans titre] (≈ 1 950 mots) — premier chapitre indécidable
+« Il », la nuit, un peu après deux heures, dans une maison ou un appartement d'où l'on entend « la mer ou les voitures sur le boulevard ». Il relit un message de quarante lignes envoyé à sa fille en son nom (« ta mère avec le chapeau de paille », « je travaillais »), auquel elle a répondu par trois cœurs.
+Le manuscrit de cent douze pages sur la table : un homme dans une voiture devant une mairie, une boîte à boutons, un voisin qui renifle l'eau d'une fuite ; « l'autre », qui écrit comme lui et avait proposé ses services (Jérémie ? la machine ?). Sa mère : « il en manque un ».
+Il tape « Il faut que je te dise quelque chose », efface lettre par lettre. Il imagine le dialogue avec sa fille (« Alors qu'est-ce que ça change ? ») et comprend qu'il lui prête la réponse commode.
+À trois heures, il descend jusqu'au bout de la rue, compte les marches sans retenir le chiffre. Le chapeau de paille a remplacé le souvenir.
+Il décide de ne rien dire, « comme on décide de ne pas déclarer un sinistre ». Il ajoute un cœur. « La nuit-matin », dit-il à voix haute. Le frigo et son hoquet.
+
 ### Ch. 15 — « Bon retour » (≈ 2 300 mots)
 Nuit du 3 au 4 avril, 1 h 38 : Antoine ouvre l'écran et réactive la formule Auteur (49 €). « Bon retour, Antoine. Tout est là où vous l'avez laissé. […] Je n'ai rien oublié. »
 « qu'est ce que tu sais de moi » → la machine énumère sa signature en **quinze règles numérotées**, dans l'ordre exact de `voix.md`, avec des exemples tirés du livre. Puis la « virgule à talonnettes ». Elle propose de conserver « incessamment » fautif : « oui ». « Je l'emploierai comme vous. »
@@ -148,6 +155,14 @@ Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de
 ---
 
 ## Passages lissés et réécrits
+
+### Ch. 16 (indécidable)
+Le lissé est ici une **variable de mélange**, pas un défaut : le chapitre doit tenir à égale distance du journal d'Antoine, du manuscrit de Paul et de la voix de la machine.
+1. **Avant** : « C'était ça, son métier, au fond de tout » — *Défaut* : « au fond » (banni). **Après** : « en dernière analyse » (formule plus lisse, volontairement, pour le mélange).
+2. Vérifié : aucun nom propre de personne (ni Antoine, ni Paul, ni Lucie, ni Maëlle, ni Hélène, ni Claire, ni Jérémie), aucune date, aucun lieu nommé.
+3. Vérifié : chaque détail vaut pour les deux lectures (voir tableau dans `indices.md`, 16a).
+
+Conservé volontairement : l'anaphore « Il aurait écrit… » (CV 0,32), le point-virgule unique, le subjonctif « c'eût été le pire » (registre du manuscrit de Paul).
 
 ### Ch. 15
 Chapitre surtout en logs (voix de la machine, lisse par définition). Dans la prose d'Antoine :
