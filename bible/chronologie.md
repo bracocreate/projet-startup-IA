@@ -38,7 +38,9 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 15/10/2025 | 140 mots tapés, 152 effacés. Invitation de Laure Castaing. SMS à Lucie (« Je pense à toi » envoyé à part). | ch. 1 |
 | 16/10/2025 | Dîner rue du Cherche-Midi (8 convives). Le critique cite la 1re phrase de *Mortes-eaux*, exacte : « La mer se retirait de la baie comme on quitte une chambre où quelqu'un dort. » Antoine en doute. Théo Garnier parle de Palimpseste. | ch. 1 |
 | 17/10/2025, 0 h 40 → 1 h 53 | Retour à pied (5,4 km). Vérification : le critique avait raison. 2 h 10 : publicité Palimpseste dans un podcast. | ch. 1 |
-| Nuit du 17 au 18/10/2025 | Première inscription (essai « Plume »). | ch. 2 |
+| 17/10/2025, 11 h 15 | Hélène au téléphone. Antoine promet 80 pages pour le 11 décembre. | ch. 2 |
+| 18/10/2025, 1 h 12 → 3 h 40 | Inscription à l'essai « Plume » (fin : 31/10). 1re page « à la manière de *Mortes-eaux* ». Florilège + la phrase des bigorneaux (carnet n° 22, p. 13). Envoi de `mortes-eaux_p1-3.pdf`. 2e version : « La mer quittait la baie comme on sort d'une chambre… » (= l'erreur d'Antoine au ch. 1). | ch. 2 |
+| 18/10/2025, 10 h 52 | Lucie répond (« tu écris ? »). 93 marches. | ch. 2 |
 | Oct.-nov. 2025 | Premiers chapitres de *La Laisse de mer*, co-écrits. | ch. 3 |
 | 15/11/2025 | Déjeuner à Rennes avec Lucie (Ty Gwenn). | ch. 4 |
 | Fin nov. 2025 | Passage à la formule « Auteur ». Numérisation des carnets 1-8 et 10-22 (le n° 9 manque). Accès aux mails, WhatsApp. | ch. 5 |

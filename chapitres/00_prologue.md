@@ -1,5 +1,7 @@
 # Prologue
 
+*Racontez un souvenir d'enfance, au présent. Une page au maximum. Ne dites pas ce que vous ressentez : montrez-le.*
+
 La mer s'en va. Elle laisse derrière elle des pieds-de-mer sur le sable, des petites bulles grises qui éclatent quand on s'accroupit pour les regarder de près et qui font, si on colle l'oreille, le bruit d'une bouteille de Coca qu'on vient d'ouvrir.
 
 Entre les deux rochers il y a une place exacte pour quelqu'un de petit. Le granit est chaud d'un côté et froid de l'autre. Il y a du mica dedans, des brillouches, on peut les gratter avec l'ongle mais elles ne viennent pas.

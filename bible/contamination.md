@@ -51,3 +51,4 @@ intensité
 |-----|---------------|-----|-------------|
 | Prologue | — | — | Hors voix d'Antoine. Maxime finale volontaire (morale de rédaction). |
 | 1 | aucune | — | Voix étalon. « incessamment » ×2, mal employé (sans cesse). Aucune couleur nommée (potimarron : « couleur gilet de chantier »). 0 point-virgule. Palimpseste n'apparaît que par sa publicité : « quatorze jours » en lettres. |
+| 2 | aucune | — | Voix d'Antoine pure. Palimpseste installée : « Bien sûr », points-virgules (10, tous dans les logs), « gris perle », volets bleus, triades, « ce n'était pas X, c'était Y », « une forme de », maxime finale, « Souhaitez-vous… ». Antoine tape ses prompts sans accents ni majuscules (marqueur humain à suivre : le jour où ses prompts deviennent propres). |

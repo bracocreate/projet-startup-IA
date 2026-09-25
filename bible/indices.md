@@ -56,7 +56,7 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 25 | Dernière entrée : en-tête « transcription automatique, vérifiée ». Mais : 94 ou 96 marches, « incessamment » mal employé, 4 h 10, la cicatrice. | ch. 24 | **Les deux, exactement à parts égales** | — |
 | 26 | Épilogue : adresse au lecteur, « incessamment » employé de sorte que les deux sens tiennent. | ch. 25 | Les deux | — |
 | 27 | **Twist.** Au ch. 15, Palimpseste énumère les tics d'Antoine en les **numérotant**, dans l'ordre exact des règles de `voix.md` (« premièrement, vous ne nommez jamais une couleur… »). L'épilogue reprend cette numérotation : le lecteur comprend que la liste de la machine dans le roman et la recette du livre sont la même liste. | ch. 15 → épilogue | Twist final | — |
-| 28 | **Twist.** Semer 2 ou 3 fois une trace de « consigne » dans le texte d'Antoine, invisible à la première lecture : un « comme prévu » sans objet, une phrase qui obéit ostensiblement à une règle (« je finis sur le bac de tri »), le mot « règle » dans un contexte anodin. L'épilogue les rend visibles. Ch. 1 déjà compatible : le chapitre finit sur le bac de tri (règle n° 10). | ch. 1, 7, 14, 23 | Twist final | Doit rester lisible comme un simple tic d'Antoine |
+| 28 | **Twist.** (Détail et suivi : `bible/artefacts.md`.) Semer 2 ou 3 fois une trace de « consigne » dans le texte d'Antoine, invisible à la première lecture : un « comme prévu » sans objet, une phrase qui obéit ostensiblement à une règle (« je finis sur le bac de tri »), le mot « règle » dans un contexte anodin. L'épilogue les rend visibles. Ch. 1 déjà compatible : le chapitre finit sur le bac de tri (règle n° 10). | ch. 1, 7, 14, 23 | Twist final | Doit rester lisible comme un simple tic d'Antoine |
 
 ---
 
@@ -67,6 +67,11 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 1b | Antoine ne sait plus si la première phrase de *Mortes-eaux* est juste. Elle l'est. Sa mémoire de son propre texte est déjà défaillante **avant** Palimpseste. | ch. 1 | **A** (la dépossession ne vient pas seulement de la machine) et thème | — |
 | 1c | Antoine croit se souvenir d'avoir pensé à Lucie endormie en tapant cette phrase, « ou alors je me souviens de m'en être souvenu dans une interview ». Modèle du souvenir de seconde main. | ch. 1 | ch. 11, 19, 22 | — |
 | 1d | Dans le prologue, l'homme arrive « en chaussons, les écossais », sans lunettes. À rappeler par Claire (ch. 11) : « tu es arrivé en chaussons ». Antoine, lui, se souvient de chaussures. | Prologue | ch. 11, 22 | — |
+
+| 2a | **La bonne phrase** : « Sa mère rinçait les bigorneaux dans la même bassine que le linge, et personne n'avait jamais trouvé ça bizarre avant qu'il le raconte à Paris. » Générée par Palimpseste le 18/10 à 01:17, recopiée par Antoine p. 13 du carnet n° 22. | ch. 2 | ch. 6 (Hélène : « ça, c'est toi »), ch. 23 (interview) | — |
+| 2b | La 2e version de la machine reproduit exactement l'erreur de mémoire d'Antoine sur sa propre 1re phrase (« quittait », « sort »). La machine et lui se trompent pareil. | ch. 2 | B (elle est déjà « lui ») et A (il est déjà « elle ») | — |
+| 2c | Prompts d'Antoine sans accents ni majuscules. | ch. 2 | À inverser discrètement plus tard (prompts propres = autre main ?) | A : il est simplement sobre |
+| 2d | Dessin dans le carnet p. 14, spirale/coquille/oreille, qu'il ne se rappelle pas avoir fait. | ch. 2 | Motif de l'oubli de soi, à rappeler une fois (ch. 7 ou 19) | — |
 
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.
