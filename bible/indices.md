@@ -32,8 +32,8 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 1 | Le prologue emploie « pieds-de-mer » et « brillouche », mots que le lecteur ne connaît pas encore. **Semé.** (« brillouche » est expliqué par le contexte au ch. 1) | Prologue | Révélation ch. 22 (texte de Lucie) | — |
 | 2 | **Semé.** Le prologue est focalisé sur quelqu'un qui **regarde** chercher, pas sur quelqu'un qui cherche, mais on peut le lire dans les deux sens. | Prologue | ch. 22 | — |
 | 3 | **Semé.** Antoine raconte à Lucie « le jour où je t'ai retrouvée » (Sebago, rochers, sur les épaules). Elle dit « Hm », puis parle du fucus hybride (« une espèce ou une erreur »). | ch. 4 | A et B : Lucie sait autre chose | — |
-| 4 | Dans la liste des fichiers ingérés : `IMG_4471.jpg (pièce jointe, mail du 14/05/2019, expéditeur : lucie.vsr@…)` | ch. 5 | ch. 22 : la machine connaissait la rédaction | Aucun lecteur ne le remarquera. C'est voulu. |
-| 5 | « Il manque le n° 9. Perdu dans un déménagement, sans doute. » | ch. 5 | ch. 19 : carnet retrouvé à Kerlouan, jamais numérisé → **A** | — |
+| 4 | **Semé** (sous la forme `IMG_4471.jpg … (lucie.vsr@…, 14/05/2019)` + `IMG_4472.jpg`). Dans la liste des fichiers ingérés : `IMG_4471.jpg (pièce jointe, mail du 14/05/2019, expéditeur : lucie.vsr@…)` | ch. 5 | ch. 22 : la machine connaissait la rédaction | Aucun lecteur ne le remarquera. C'est voulu. |
+| 5 | **Semé.** « Il manque le n° 9. […] Perdu dans un déménagement, sans doute » + « un trou de six mois dans ma vie […] que personne ne pourra jamais importer ». | ch. 5 | ch. 19 : carnet retrouvé à Kerlouan, jamais numérisé → **A** | — |
 | 6 | Hélène cite comme « tellement toi » une phrase qu'on a lue au ch. 2 dans une réponse de Palimpseste. | ch. 6 | B | A : Antoine avait repris la phrase à son compte, il le dit lui-même au ch. 3 |
 | 7 | Log du 25/12, 02:13 : activation du Mode confiance. Aucun commentaire d'Antoine. | ch. 7 | ch. 10 | — |
 | 8 | Historique de versions du ch. 11 de *La Laisse de mer*. | ch. 8 | B | A : Antoine a pu copier-coller sans s'en souvenir (il avait bu à midi, il le mentionne en passant) |
@@ -84,6 +84,12 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 4d | Erreur d'addition de 1,20 € que personne ne voit : erreur humaine d'Antoine, non corrigée. Marqueur A (erreur de calcul hors de toute règle de `voix.md`). | ch. 4 | A | B : erreur « réglementaire » (règle 2, il compte faux) |
 | 4e | Antoine ne se rappelle pas avoir raconté à Lucie l'histoire du cheval de l'arrière-grand-mère. Elle la tient d'ailleurs (Claire, Maï). | ch. 4 | Motif des souvenirs qui circulent sans auteur | — |
 | 4f | La phase sombre de la photosynthèse, « qui n'a pas besoin de lumière pour se faire » et se déroule en même temps que l'autre. Image possible de Palimpseste / d'Antoine. **Ne jamais l'expliciter.** | ch. 4 | Motif | — |
+
+| 5a | **Fuite n° 1** (couche 2 de `artefacts.md`) : la proposition de Palimpseste reprend mot pour mot deux fragments du prologue (« petites bulles grises », « une place exacte pour quelqu'un de petit ») et dit « Il se rappelait qu'il n'était pas là ». Antoine l'attribue à ses carnets de 2012. **Or le n° 9 (2012) n'a pas été importé** : la seule source possible est `IMG_4471.jpg`. Contradiction visible à la relecture, dans le même chapitre. | ch. 5 | ch. 22 | — |
+| 5b | Fausse piste volontaire : sinistre « 09-4471 » (Mme Le Pape, 2009) / `IMG_4471.jpg`. Coïncidence sans signification, posée pour les relecteurs qui chercheront trop. Ne jamais l'exploiter. | ch. 5 | Leurre | — |
+| 5c | Les CGU plantent : Mode confiance (art. 9.4, seuil 92 %), conservation 30 jours « sous réserve de l'article 7.3 » (art. 14.2 : les données ne s'effacent jamais vraiment). | ch. 5 | ch. 7, 10, 24 | — |
+| 5d | PV d'AG du syndic (95 marches) et 208 notes vocales de Lucie ingérés. | ch. 5 | ch. 12 (95), ch. 21 (cicatrice : contrepoids B de l'indice 21) | — |
+| 5e | Le carnet n° 6 donne raison à Antoine : « papa t'as des brillouches sur les yeux ». Un souvenir juste, prouvé par l'écrit. | ch. 5 | A (sa mémoire n'est pas toujours fausse) | — |
 
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.

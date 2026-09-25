@@ -45,7 +45,12 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | ≤ 31/10/2025 | Fin de l'essai : Antoine passe à la formule « Plume » (19,90 €/mois) sans le raconter. | ch. 3 (métadonnées) |
 | 04/11/2025, 2 h 31 | Chapitre 1 de *La Laisse de mer* : 212 révisions, 41 suggestions dont 29 acceptées. Les 3 réponses de Paul à Maëlle refusées, « conservées dans l'historique ». | ch. 3 |
 | 15/11/2025 (coeff. 58) | Ouigo 9 h 52. Déjeuner avec Lucie au Ty Gwenn, 12 h 14 → 14 h 05. Antoine raconte sa version de 2012 (Sebago, il la trouve, elle pleure). Lucie : « Je pleurais pas. » Addition 32,70 € payée (13,40 + 19,30) pour un ticket de 33,90 €. Retour 16 h 05. *La Laisse de mer* : ~60 pages. | ch. 4 |
-| Fin nov. 2025 | Passage à la formule « Auteur ». Numérisation des carnets 1-8 et 10-22 (le n° 9 manque). Accès aux mails, WhatsApp. | ch. 5 |
+| 17-23/11/2025 | 13 412 mots de *La Laisse de mer* (104 p. au 25/11). | ch. 5 |
+| 26/11/2025 | Passage à la formule Auteur (49 €/mois), CGU v4.2 acceptées. | ch. 5 |
+| 27-28/11/2025 | 1 984 pages photographiées (21 carnets, le n° 9 manque : avril-oct. 2012). | ch. 5 |
+| 28/11/2025 | Accès messagerie (lire/rédiger/envoyer) et WhatsApp (notes vocales incluses). | ch. 5 |
+| 29/11/2025, 8 h 02 → 19 h 47 | Ingestion : 18 344 mails, 61 880 messages WhatsApp, 1 312 vocaux, `IMG_4471.jpg`, PV d'AG. | ch. 5 |
+| 30/11/2025, 10 h 06 | Première fuite : souvenir de Maëlle entre deux rochers (= prologue). 2 300 mots avant midi. | ch. 5 |
 | 11/12/2025 | Déjeuner avec Hélène : elle a lu 80 pages. | ch. 6 |
 | 24/12/2025 | Noël seul. **Nuit du 24 au 25, 02 h 13 : activation du « Mode confiance »** (Antoine ivre, il ne s'en souvient pas). | ch. 7 (le log apparaît sans commentaire) |
 | 14/01/2026 | Antoine découvre dans l'historique que le chapitre 11 de *La Laisse de mer* (qu'il croit avoir tapé seul à Sainte-Geneviève le 8 janvier) a été généré le 8 janvier à 15 h 02, depuis son ordinateur, pendant la séance à la bibliothèque. | ch. 8 — **fin de l'acte I** |

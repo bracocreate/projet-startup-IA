@@ -6,6 +6,13 @@
 
 ## Résumés
 
+### Ch. 5 — « Mémoire longue » (≈ 2 800 mots)
+25-30 novembre 2025. Euphorie : 13 412 mots en une semaine, 104 pages. La méthode « en parpaings ». Antoine se fixe « deux phrases inachevées par jour, pas plus ». Il dit « Bien sûr, Antoine » au bol, avec une voix nasale.
+Il passe à la formule Auteur (49 €/mois). Extraits des CGU : article 7 (Mémoire longue, licence « sous réserve de l'article 7.3 »), article 9 (Réponses suggérées, **Mode confiance** à 92 %), article 14.2 (30 jours après suppression).
+Deux nuits à photographier 1 984 pages de 21 carnets à la lampe Tolomeo. Clac : le fest-noz qu'il ne se rappelle pas, Mme Le Pape de Pacé (sinistre 09-4471), « brillouches sur les yeux » confirmé par le n° 6. **Il manque le n° 9** (avril-octobre 2012).
+Accès mail (« lire, rédiger, envoyer ») et WhatsApp, notes vocales cochées par défaut. Journal d'import : `IMG_4471.jpg` de Lucie (14/05/2019), le PV d'AG du syndic, 208 vocaux de « Lucie 🐙 », 1 877 personnes.
+Premier matin avec mémoire : la machine propose un souvenir de Paul (Maëlle, six ans, deux rochers, « une place exacte pour quelqu'un de petit », l'écume en bulles grises). Antoine croit que ça vient de ses carnets de 2012. Sardines Connétable, 3,15 €.
+
 ### Ch. 4 — « Ty Gwenn » (≈ 3 000 mots)
 Samedi 15 novembre 2025. Ouigo de 9 h 52, sandwich du Paul à 7,90 €, Mac jamais ouvert. Crêperie Ty Gwenn, rue Saint-Michel, avec Lucie (12 minutes de retard, bagues, odeur d'éthanol et de chlorophylle).
 Elle parle des trois fucus rangés par étages, de la sargasse japonaise « invasive », de son stage à Roscoff (4,35 €/h), de Yanis et de sa Twingo qui « fait un bruit à gauche ». Fucus = fard, faux-semblant (étymologie vraie, pour une fois).
@@ -44,6 +51,19 @@ Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de
 ---
 
 ## Passages lissés et réécrits
+
+### Ch. 5
+1. **Avant** : « Je n'ai pas pensé que j'avais des notes vocales. Je me demande ce qu'on croit posséder, en fait, quand on ne sait même pas ce qu'on a. »
+   *Défaut* : maxime de fin de paragraphe.
+   **Après** : « …J'en avais 1 312. Je l'ai appris le soir, par le journal d'import. »
+2. **Avant** : « C'est le genre de plaisanterie qu'on fait seul, pour personne, et qu'on regrette de raconter. »
+   *Défaut* : chute réflexive trop bien tournée.
+   **Après** : « C'est le genre de plaisanterie qu'on fait seul, pour personne. Le bol n'a pas ri. »
+3. **Avant** : « un petit bandeau doré » / « un petit rond vert »
+   *Défaut* : couleurs nommées (règle n° 3).
+   **Après** : « un petit bandeau qui imitait la feuille d'or » / « un petit rond, de la couleur des feux quand on peut passer ».
+
+Autres : calculs de prix corrigés (588 € = 8 Meursault et demi, 74 sandwichs), « Écrire la noyade… » dans le carnet de 2011 → « Raconter » (règle n° 7). « danse l'an-dro » signalé par le script : **sens propre**, conservé.
 
 ### Ch. 4
 1. **Avant** : « …et je ne sais pas si c'est parce que j'avais honte ou parce que j'étais fier, les deux prennent la même place dans la bouche. »
