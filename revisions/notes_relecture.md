@@ -33,6 +33,13 @@
 
 ## Résumés
 
+### Ch. 13 — « Note vocale » (≈ 1 500 mots, presque entièrement en logs)
+La transcription brute de la note vocale n° 1 313 (3 mars, 15 h 52, quai de Valmy) : « bon », « euh », « enfin bref », les pêcheurs à l'aimant, 94 marches « je crois », Lucie le 21, Paul dans sa voiture devant la mairie, « Papa il a pas regardé entre les cailloux » dite à voix haute, « un ciel de serpillière essorée… c'est pas beau mais c'est à moi ».
+23 h 50, depuis l'iPhone : « fais en une entree de journal. dans ma voix. » La machine produit la **version B** du 3 mars : mêmes événements, phrases communes avec le ch. 12, mais plus rugueuse (94, « incessamment » mal employé, pas de point-virgule, pas de couleur, pas de maxime, une phrase inachevée). Elle signale : « J'ai laissé une phrase inachevée, comme vous le faites parfois. »
+La version B connaît le taille-crayon et « 23 h 12 », absents de la note vocale : elle a lu le journal.
+Antoine refuse l'enregistrement. Le journal a été modifié à 23 h 12, « source : — ». La machine : rien depuis 9 h 10 ; **avant, le mode Flux était actif sur journal.docx**, hébergé depuis le 29 novembre (dossier MOA_divers).
+« Souhaitez-vous que je vous indique la répartition, entrée par entrée ? » — « non ». Session fermée à 23 h 59.
+
 ### Ch. 12 — « Sevrage » (≈ 2 400 mots) — point milieu
 3 mars 2026. Sept cahiers Clairefontaine sur la table (31,50 €). Antoine désactive le Mode confiance et le mode Flux, déconnecte messagerie et WhatsApp, résilie (« je voudrais savoir ce que j'écris ») : actif jusqu'au 26 mars, Sources conservées trente jours. Adieu de la machine : « Si vous avez besoin de moi, je serai là. »
 Statistiques du manuscrit : Antoine 31 %, machine 61 %, 8 % retouchés ; seul chapitre entièrement de lui, le 10 (le Noël de Paul). Dans le carnet n° 8, la 1re phrase de *Mortes-eaux* avec ses ratures : « ~~quittait~~ », « ~~sort d'~~ » : le premier jet, remonté chez lui et chez la machine.
@@ -127,6 +134,12 @@ Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de
 ---
 
 ## Passages lissés et réécrits
+
+### Ch. 13 (logs)
+Pas de réécriture de lissé : le chapitre est en voix de machine, sauf la transcription brute, qui doit rester brute. Vérifications faites :
+1. La version B ne contient **aucun** marqueur de contamination (0 point-virgule, 0 couleur, 0 maxime, « incessamment » fautif, 94), et reprend littéralement plusieurs phrases du ch. 12. Elle est volontairement *plus* « Antoine » que le ch. 12.
+2. Ce que B sait sans le tenir de la note vocale (taille-crayon, Bic à 1,20 €, « 23 h 12 », la rivière entre Vitré et Laval, « Chrome ») : autant d'indices qu'elle a lu le journal.
+3. Cohérence avec le ch. 5 : MOA_divers = 1 206 fichiers (journal compris).
 
 ### Ch. 12 (chapitre volontairement trop lisse)
 Ici, la règle s'inverse : le chapitre doit « couler un peu trop bien ». Les réécritures ont servi à **doser** le lissé, pas à le supprimer.

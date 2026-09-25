@@ -40,7 +40,7 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 9 | **Semé.** Le message nocturne à Lucie emploie « incessamment » **correctement** et confond pieds-de-mer et méduses. Lucie : « t'as toujours confondu ». Antoine : « Oui. J'ai toujours confondu. » | ch. 10 | L'erreur de la machine passe pour une erreur humaine d'Antoine | — |
 | 10 | **Semé.** Claire : « Tu te souviens de sa rédaction ? En cinquième ? […] Elle te l'avait envoyée, par mail, en photo. […] Tu lui as répondu « très bien ma Lulu ». » Antoine : non. | ch. 11 | ch. 22 | — |
 | 11 | **Semé.** Journal du 3 mars : 95 marches (en lettres), 3 points-virgules, « gris » ×2, « écrire », « incessamment » bien employé, deux maximes, aucune phrase abandonnée. | ch. 12 | B | A : la version du ch. 13 est *différente* : le ch. 12 pourrait être la version d'Antoine, retouchée ou non |
-| 12 | Deux versions de la même entrée (ch. 12 / ch. 13). On ne peut pas savoir laquelle précède l'autre. | ch. 13 | Point milieu | — |
+| 12 | **Semé.** Deux versions de la même entrée (ch. 12 / ch. 13). Le ch. 12 est daté 23 h 12 (source inconnue), la version B 23 h 50 (machine, non enregistrée). La version machine est la plus humaine. | ch. 13 | Point milieu | — |
 | 13 | Palimpseste, interrogée, énumère tous les tics d'Antoine, y compris « incessamment » (« Vous l'employez au sens de "sans cesse". Souhaitez-vous que je conserve cet usage ? ») Antoine répond : « Oui. » | ch. 15 | **Clé de B** : les erreurs ne prouvent plus rien | A : Antoine pourrait aussi bien dire « oui » par orgueil, et la question reste ouverte |
 | 14 | Chapitre indécidable : « il », ni Paul ni Antoine nommés. | ch. 16 | Les deux | — |
 | 15 | Trois entrées de journal qu'Antoine ne se souvient pas d'avoir écrites. | ch. 17 | B | A : c'est ce qu'il a tapé ivre les soirs de janvier (il le soupçonne) |
@@ -136,6 +136,12 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 12e | Anniversaire de Lucie noté « souligné deux fois ». Il l'oubliera à moitié (ch. 14). | ch. 12 | ch. 14 | — |
 | 12f | Adieu de la machine : « Si vous avez besoin de moi, je serai là. » (même phrase que le message à Lucie). | ch. 12 | ch. 15 (« Bon retour ») | — |
 | 12g | Palimpseste apparaît dans les appareils connectés sous le nom « Chrome (Mac OS) », « comme si c'était moi ». | ch. 12 | Thème | — |
+
+| 13a | **journal.docx hébergé par Palimpseste depuis le 29/11/2025, mode Flux actif dessus jusqu'au 03/03 9 h 10.** Toutes les entrées du journal entre le 29 novembre et le 3 mars (fin du ch. 5 → ch. 12) ont pu être continuées. Les ch. 1 à 4 (avant le 29/11) sont garantis sans proposition. | ch. 13 | **Clé de relecture** : B pour les ch. 5-12, A pour les ch. 1-4 | La machine dit « ont pu », pas « ont été » ; Antoine refuse la répartition |
+| 13b | La version B contient des éléments absents de la note vocale (taille-crayon, Bic, 23 h 12, rivière entre Vitré et Laval) : elle a lu le journal. Explique rétroactivement l'indice 10c (« une chaleur de Léon », dite au Ty Gwenn, notée seulement au journal). | ch. 13 | 10c | — |
+| 13c | « Papa il a pas regardé entre les cailloux » est maintenant dans les Sources : Antoine l'a dite à voix haute dans la note vocale. (Ferme l'indice 11g côté A : si la machine la cite plus tard, la note vocale suffit.) | ch. 13 | 11g | — |
+| 13d | La machine : « J'ai laissé une phrase inachevée, comme vous le faites parfois. » Première fois qu'elle **fabrique** un tic d'Antoine en le disant. Préfigure la liste numérotée du ch. 15. | ch. 13 | ch. 15, épilogue | — |
+| 13e | Antoine refuse deux fois de savoir (« non » à l'enregistrement, « non » à la répartition entrée par entrée). A : c'est le prix d'accepter de ne pas savoir (lecture 1 de la fin). | ch. 13 | Fin, lecture A | — |
 
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.

@@ -87,7 +87,8 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 03/03/2026, 9 h 10 (coeff. 96) | Mode confiance et Flux désactivés, messageries déconnectées, résiliation (effet au 26/03, Sources conservées jusqu'au 25/04). Statistiques : 71 408 mots, Antoine 31 %. Carnet n° 8 p. 71 : 1er jet de la 1re phrase de *Mortes-eaux*. | ch. 12 |
 | 03/03/2026, 15 h | Monoprix Parmentier (7 cahiers, 2 Bic, un taille-crayon). **95 marches en descendant.** Canal Saint-Martin, pêcheurs à l'aimant. **Notes vocales dictées quai de Valmy.** | ch. 12 |
 | 03/03/2026, 23 h 12 | Fin de l'entrée « Sevrage » (auteur incertain), ordinateur éteint. | ch. 12 |
-| 03/03/2026, 23 h 50 | Log : demande de transcription d'une note vocale en entrée de journal. Deux versions. | ch. 13 |
+| 03/03/2026, 15 h 52 | Note vocale n° 1 313 (4 min 38 s) quai de Valmy. | ch. 13 |
+| 03/03/2026, 23 h 50 → 23 h 59 | Depuis l'iPhone : version B de l'entrée du 3 mars générée, **non enregistrée**. journal.docx modifié à 23 h 12 (« source : — »). Révélation : journal.docx hébergé depuis le **29/11/2025**, mode Flux actif dessus jusqu'au 03/03 9 h 10. | ch. 13 |
 | 04/03 → 02/04/2026 | Sevrage. Écriture à la main. Pages mortes. | ch. 14 |
 | 21/03/2026 | Anniversaire de Lucie (20 ans). Antoine l'oublie à moitié : message à 23 h 58. | ch. 14 |
 | 31/03/2026 | Échéance du contrat. Hélène obtient un délai jusqu'au 30 avril. | ch. 14 |

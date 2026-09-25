@@ -61,7 +61,7 @@ Convention : on ignore le titre, les lignes de date, les en-têtes (`LA LAISSE D
 | 10 | **I** | Réponses suggérées | « Il » ✅ (posé : « Il y a un tiroir, dans la cuisine… ») |
 | 11 | **E** | Boulevard de la Liberté | « Elle » ✅ (posé : « Elle m'a fait attendre dans la salle d'attente. ») |
 | 12 | **S** | Sevrage | « Sur » ✅ (posé : « Sur la table de la cuisine… ») |
-| 13 | **T** | Note vocale | « Transcription » |
+| 13 | **T** | Note vocale | « Transcription » ✅ (posé : « Transcription automatique de la note vocale n° 1 313… ») |
 | 14 | **U** | Clairefontaine | « Une » |
 | 15 | **N** | Bon retour | « Nuit » |
 | 16 | **E** | [sans titre] | « Elle » / « En » |
