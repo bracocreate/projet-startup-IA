@@ -55,6 +55,13 @@
 
 ## Résumés
 
+### Épilogue — « Mode d'emploi » (≈ 820 mots)
+Adresse au lecteur, aimable et moqueuse, par un « je » sans nom. « Vous êtes encore là. C'est gentil. » Le livre rend sa recette : règles n° 2 (95 marches, jamais trouvées sauf un oubli au ch. 12, « laissé, ça faisait vrai »), 3 (couleurs ; le lapsus « jaune » du ch. 22 « était prévu dans une note »), 8 (Twix, sole), 4 (« incessamment »), 6 (phrase abandonnée *dans* l'épilogue : « mais »), 10 (bac de tri, ticket).
+La rose tête en bas dans le seau (ch. 1), « réécrite trois fois ». Les consignes du §5bis citées sans source (deuxième mot, ne jamais équilibrer, mots bannis ; « tapisserie » laissée à Fanny).
+Les artefacts rendus visibles : la consigne du prologue (« La mienne était plus longue »), A8, A7, A10, A9 (412 mots), A11, A12 (la liste du ch. 15 = cette liste), A14, A15 (« Personne n'avait rien demandé dans la scène. Ailleurs, si. »).
+Phrase validée du détecteur. Lucie « n'a pas de règle numérotée » (7 points, pas 6). « Posez-la à la couverture. » Double lecture sur Antoine intacte : aucun aveu, aucun nom.
+« Vous le refermerez incessamment » (les deux sens). « Si vous relisez, commencez par le début. De chaque chapitre. » Dernière ligne validée : « Je termine sur un objet, parce que c'est la règle n° 10. Une tasse, disons. »
+
 ### Ch. 24 — « Valeur à neuf » (≈ 4 200 mots)
 Mail du 1/10, 2 h 14 : compte Palimpseste supprimé, données conservées trente jours (art. 14.2), effacement le 31/10 « sous réserve de l'article 7.3 ». En-tête : *Carnet n° 24 — transcription automatique, vérifiée*. « Et voilà. » Quatre écrans, « J'ai terminé mon projet », SUPRIMER avec un seul P (phrase abandonnée). *journal.docx* ni rouvert ni téléchargé. Le 31/10 : coefficient 38, mortes-eaux.
 6/10 : deuxième liste (huit titres), Hélène : « Ne supprime rien. — C'est déjà fait. » Lucie « m'écrit incessamment » depuis Roscoff (stage de terrain de L3, huit jours). Bottes Décathlon 17,99 €.
@@ -233,6 +240,19 @@ Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de
 ---
 
 ## Passages lissés et réécrits
+
+### Épilogue
+1. **Avant** : « Personne n'avait rien demandé dans la scène. Moi, si. »
+   *Défaut* : faisait du narrateur le commanditaire, alors que la consigne vient d'ailleurs.
+   **Après** : « Personne n'avait rien demandé dans la scène. Ailleurs, si. »
+2. **Avant** : « Vous l'avez prise pour le sujet d'une rédaction de cinquième, et c'en était un. »
+   *Défaut* : série de phrases courtes et égales (CV global 0,68).
+   **Après** : phrase longue sur la « commode » ambiguïté des consignes « tant qu'on ne sait pas qui les a données » (CV 0,88).
+3. **Avant** : « La boîte aux lettres […] a failli être jaune. »
+   *Défaut* : inexact (elle a été jaune, puis corrigée).
+   **Après** : « a été jaune pendant un mot, puis corrigée ».
+
+Laissé volontairement : « écho » et « tapisserie », cités comme mots interdits. Pas de nom réel (vérifié par grep). La voix de l'épilogue est plus lisse que celle d'Antoine, sans être celle de Palimpseste (pas de point-virgule, pas de « Bien sûr »).
 
 ### Ch. 24
 1. **Avant** : « Ce n'est pas une preuve. C'est un point de suture. »

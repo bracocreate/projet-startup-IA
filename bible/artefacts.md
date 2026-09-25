@@ -32,7 +32,7 @@ Lien : `indices.md` n° 27-28, épilogue dans `plan/plan_detaille.md`.
 | A13 | Ch. 19 ✅ | (Posé : `version_A`, `version_B`, `version_C`, « pour me moquer d'elle, et puis parce que c'est plus facile de manipuler des choses qui ont des noms de fichiers ».) Les trois versions de la grève portent des titres de fichier : `version_A`, `version_B`, `version_C`. | Antoine imite la machine pour se moquer d'elle. |
 | A14 | Ch. 23 ✅ | (Posé : la journaliste, « Sabine, ou Sandrine » ; « C'était la consigne. » / « (Rires.) La consigne de qui ? » / « De mon ancien métier. » Antoine, le soir : « Le mot est venu avant la raison. ») Un journaliste : « On a l'impression que chaque détail a été choisi pour paraître vrai. » Antoine : « C'était la consigne. » (Il plaisante, tout le monde rit.) | Boutade en interview. |
 | A15 | Ch. 24 ✅ | (Posé : « Comme demandé, j'ai compté les marches hier soir, en rentrant de la gare. 94, ou 96. ») Une phrase qui commence par « Comme demandé, » sans que rien n'ait été demandé dans la scène. | Tic d'Antoine devenu machinal (ou pas). |
-| A16 | Épilogue | Il rend visibles A1 à A15, puis finit sur la règle n° 10 : « Une tasse, disons. » | — |
+| A16 | Épilogue ✅ | Il rend visibles A1 à A15, puis finit sur la règle n° 10 : « Une tasse, disons. » | — |
 
 ## Dosage
 Au plus **un ou deux artefacts par chapitre**, jamais deux dans le même paragraphe. Aucun dans les chapitres 4, 11, 21 et 22 (scènes avec Lucie et Claire : le réel doit y rester intact, sauf A1 relu au ch. 22).

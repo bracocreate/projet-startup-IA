@@ -150,4 +150,4 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 11/10/2026 (coeff. 96) | Réveil à 4 h 10. Constat final (« Valeur à neuf : » vide). Dernière entrée. | ch. 24 |
 | 31/10/2026 | Effacement prévu des données (hors art. 7.3). | ch. 24 |
 | 04/11/2026 | Proclamation du Goncourt (hors récit). | ch. 24 |
-| ? | Épilogue. | ch. 25 |
+| hors temps | Épilogue « Mode d'emploi » : adresse au lecteur, après la lecture. | ch. 25 |
