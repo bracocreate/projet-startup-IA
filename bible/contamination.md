@@ -49,4 +49,5 @@ intensité
 
 | Ch. | Phrase exacte | Tic | Commentaire |
 |-----|---------------|-----|-------------|
-| — | — | — | — |
+| Prologue | — | — | Hors voix d'Antoine. Maxime finale volontaire (morale de rédaction). |
+| 1 | aucune | — | Voix étalon. « incessamment » ×2, mal employé (sans cesse). Aucune couleur nommée (potimarron : « couleur gilet de chantier »). 0 point-virgule. Palimpseste n'apparaît que par sa publicité : « quatorze jours » en lettres. |

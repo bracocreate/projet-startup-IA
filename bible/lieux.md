@@ -14,6 +14,7 @@
 - Déjeuners au *Petit Varenne* (brasserie inventée, rue de Varenne). Hélène prend toujours la sole meunière (34 €).
 
 ### Autres
+- Rue du Cherche-Midi : l'appartement de Laure Castaing (4e, ascenseur à grille, code 4B19).
 - Bibliothèque Sainte-Geneviève : là où Antoine croit avoir tapé seul le chapitre de la fin de l'acte I.
 - Gare Montparnasse, hall 1, le Paul (la boulangerie) où il achète un sandwich avant chaque train pour Rennes. Clin d'œil involontaire au personnage.
 
@@ -22,6 +23,7 @@
 - Crêperie *Ty Gwenn* (inventée), rue Saint-Michel, la « rue de la Soif », près de la place Sainte-Anne : le déjeuner du ch. 4.
 - Cabinet de Claire, boulevard de la Liberté, 2e étage, salle d'attente avec des jeux en bois et des affiches de phonèmes.
 - Le Thabor, où vit Claire.
+- Rue Papu : l'appartement familial jusqu'en 2014 (la chambre de Lucie au fond).
 - Anciens locaux de la MOA, zone de Saint-Grégoire : parking où Antoine tapait *Mortes-eaux* dans la Clio.
 
 ## Finistère nord — Kerlouan (pays pagan, côte des Légendes)

@@ -53,6 +53,8 @@ Les fondamentaux du CLAUDE.md sont respectés. Les ajouts sont signalés par ◆
 - ◆ Paul évolue au fil des chapitres rédigés avec Palimpseste : il devient plus sympathique, plus lisse, puis il commence à faire ce qu'Antoine fera ensuite.
 
 ## Personnages secondaires ◆
+- **Laure Castaing** : directrice du domaine français aux Éditions du Pont-Neuf, concurrente. Antoine a refusé son offre en 2014. Dîners rue du Cherche-Midi. Son mari « fait quelque chose avec des obligations ».
+- **Le critique** (jamais nommé) : connaît par cœur la première phrase de *Mortes-eaux*, mieux qu'Antoine.
 - **Le monsieur du dessous** (M. Réchou, 3e étage, retraité de la RATP) : l'auréole est chez lui. Dégât des eaux au ch. 9.
 - **L'expert de la MAIF** (ch. 9) : **Julien Maréchal**, 31 ans, venu constater le dégât des eaux chez Antoine. Antoine se voit en lui, jeune.
 - **Anne Vasseur**, la sœur : un appel au ch. 18 pour les clés de Kerlouan.

@@ -29,8 +29,8 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 
 | # | Indice | Chapitre | Sert | Contrepoids |
 |---|--------|----------|------|-------------|
-| 1 | Le prologue emploie « pieds-de-mer » et « brillouche », mots que le lecteur ne connaît pas encore. | Prologue | Révélation ch. 22 (texte de Lucie) | — |
-| 2 | Le prologue est focalisé sur quelqu'un qui **regarde** chercher, pas sur quelqu'un qui cherche, mais on peut le lire dans les deux sens. | Prologue | ch. 22 | — |
+| 1 | Le prologue emploie « pieds-de-mer » et « brillouche », mots que le lecteur ne connaît pas encore. **Semé.** (« brillouche » est expliqué par le contexte au ch. 1) | Prologue | Révélation ch. 22 (texte de Lucie) | — |
+| 2 | **Semé.** Le prologue est focalisé sur quelqu'un qui **regarde** chercher, pas sur quelqu'un qui cherche, mais on peut le lire dans les deux sens. | Prologue | ch. 22 | — |
 | 3 | Antoine raconte à Lucie « le jour où je t'ai retrouvée ». Elle ne dit rien, change de sujet (les algues). | ch. 4 | A et B : Lucie sait autre chose | — |
 | 4 | Dans la liste des fichiers ingérés : `IMG_4471.jpg (pièce jointe, mail du 14/05/2019, expéditeur : lucie.vsr@…)` | ch. 5 | ch. 22 : la machine connaissait la rédaction | Aucun lecteur ne le remarquera. C'est voulu. |
 | 5 | « Il manque le n° 9. Perdu dans un déménagement, sans doute. » | ch. 5 | ch. 19 : carnet retrouvé à Kerlouan, jamais numérisé → **A** | — |
@@ -57,6 +57,14 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 26 | Épilogue : adresse au lecteur, « incessamment » employé de sorte que les deux sens tiennent. | ch. 25 | Les deux | — |
 
 ---
+
+## 2 bis. Indices ajoutés à l'écriture
+
+| # | Indice | Chapitre | Sert | Contrepoids |
+|---|--------|----------|------|-------------|
+| 1b | Antoine ne sait plus si la première phrase de *Mortes-eaux* est juste. Elle l'est. Sa mémoire de son propre texte est déjà défaillante **avant** Palimpseste. | ch. 1 | **A** (la dépossession ne vient pas seulement de la machine) et thème | — |
+| 1c | Antoine croit se souvenir d'avoir pensé à Lucie endormie en tapant cette phrase, « ou alors je me souviens de m'en être souvenu dans une interview ». Modèle du souvenir de seconde main. | ch. 1 | ch. 11, 19, 22 | — |
+| 1d | Dans le prologue, l'homme arrive « en chaussons, les écossais », sans lunettes. À rappeler par Claire (ch. 11) : « tu es arrivé en chaussons ». Antoine, lui, se souvient de chaussures. | Prologue | ch. 11, 22 | — |
 
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.

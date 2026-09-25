@@ -34,7 +34,11 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 
 | Date | Vraiment | Raconté |
 |------|----------|---------|
-| Oct. 2025 | Début. Dîner chez un éditeur, rencontre avec Théo Garnier qui parle de Palimpseste. Nuit de la première inscription (essai « Plume »). | ch. 1-2 |
+| 14/10/2025 (coeff. 87) | Antoine compte 96 marches. Message d'Hélène (47 s). | ch. 1 |
+| 15/10/2025 | 140 mots tapés, 152 effacés. Invitation de Laure Castaing. SMS à Lucie (« Je pense à toi » envoyé à part). | ch. 1 |
+| 16/10/2025 | Dîner rue du Cherche-Midi (8 convives). Le critique cite la 1re phrase de *Mortes-eaux*, exacte : « La mer se retirait de la baie comme on quitte une chambre où quelqu'un dort. » Antoine en doute. Théo Garnier parle de Palimpseste. | ch. 1 |
+| 17/10/2025, 0 h 40 → 1 h 53 | Retour à pied (5,4 km). Vérification : le critique avait raison. 2 h 10 : publicité Palimpseste dans un podcast. | ch. 1 |
+| Nuit du 17 au 18/10/2025 | Première inscription (essai « Plume »). | ch. 2 |
 | Oct.-nov. 2025 | Premiers chapitres de *La Laisse de mer*, co-écrits. | ch. 3 |
 | 15/11/2025 | Déjeuner à Rennes avec Lucie (Ty Gwenn). | ch. 4 |
 | Fin nov. 2025 | Passage à la formule « Auteur ». Numérisation des carnets 1-8 et 10-22 (le n° 9 manque). Accès aux mails, WhatsApp. | ch. 5 |
