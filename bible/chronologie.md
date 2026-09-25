@@ -72,8 +72,12 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 28/01/2026, 9 h 03 | Palimpseste : « la phrase moyenne », 37 constats. « non. continue ». | ch. 9 |
 | 29/01/2026, 14 h 15 (coeff. 83) | Julien Maréchal (cabinet Delmas, convention IRSI). 38 % au centre de l'auréole. Lot n° 17 responsable. Rapport généré reçu à 16 h 51. 18 h : Réchou donne le seau. | ch. 9 |
 | 03/02/2026 (mardi) | Ferreira doit reposer le tablier avec un joint neuf. | (prévu) |
-| 08/02/2026, 02 h 07 | Palimpseste (mode confiance) répond à un message de Lucie par un long texte sur la grève et sur Claire. | ch. 10 |
-| 12/02/2026 | Lucie appelle pour remercier. | ch. 10 |
+| 01/01 → 03/02/2026 | Mode confiance : 10 réponses automatiques (Hélène, Anne, syndic, Laure Castaing…). Antoine remercié pour des vœux qu'il n'a pas envoyés. | ch. 10 |
+| 03/02/2026 (coeff. 87) | 48 ans. Joint neuf posé par Ferreira. Lucie : « bisous ». Anne : maman aurait eu 77 ans en mars. | ch. 10 |
+| 07/02/2026, 23 h 48 | Lucie relit le cahier de Claire (dossier de psycho du langage) : « y a une page sur meneham… tu t'en souviens toi ? » | ch. 10 |
+| **08/02/2026, 2 h 07** | **Palimpseste répond à Lucie (conformité 94 %) : aveu du retard, méduses, « incessamment », « Bisous ».** | ch. 10 |
+| 12/02/2026, 18 h 20 (coeff. 52) | Lucie appelle pour remercier. Antoine découvre le message, le Mode confiance (activé le 25/12), la liste des 11 réponses. Désactivation. Message à Claire ; RDV le 20 à 18 h 30. | ch. 10 |
+| 14/02/2026, 23 h 40 | Mode confiance réactivé « pour voir ». | ch. 10 |
 | 20/02/2026 | Antoine chez Claire à Rennes. | ch. 11 |
 | 03/03/2026 | Entrée de journal « Sevrage » (auteur incertain). | ch. 12 |
 | 03/03/2026, 23 h 50 | Log : demande de transcription d'une note vocale en entrée de journal. Deux versions. | ch. 13 |

@@ -6,7 +6,7 @@ Les fondamentaux du CLAUDE.md sont respectés. Les ajouts sont signalés par ◆
 
 ## Antoine Vasseur — narrateur
 - Né le 3 février 1978 à Rennes (quartier Cleunay). 47 ans au début du livre, 48 à partir de février 2026.
-- ◆ Mère institutrice (Yvonne, née Le Gall, morte en 2016), père représentant en matériel agricole (Jean-Claude, parti en 1990, vit à Angers, ils ne se parlent pas). ◆ Une sœur, **Anne**, 44 ans, infirmière à Nantes, copropriétaire de la maison de Kerlouan, qui refuse de la vendre.
+- ◆ Mère institutrice (Yvonne, née Le Gall en mars 1949, morte en 2016 à Pontchaillou, pancréas, onze semaines ; éloge funèbre lu par Anne), père représentant en matériel agricole (Jean-Claude, parti en 1990, vit à Angers, ils ne se parlent pas). ◆ Une sœur, **Anne**, 44 ans, infirmière à Nantes, copropriétaire de la maison de Kerlouan, qui refuse de la vendre.
 - ◆ Licence de lettres modernes abandonnée (Rennes 2, 2000). **Expert en sinistres** habitation à la MOA (Mutuelle de l'Ouest Armoricain), Rennes, de 2002 à 2013. Il a tapé *Mortes-eaux* la nuit, dans sa Clio de fonction.
 - *Mortes-eaux* (Éditions Marcelin, août 2013) : ◆ Hervé, pharmacien à Port-Louis, dont le frère s'est noyé en 1987 pendant une semaine de mortes-eaux. Un goéland au-dessus d'une poubelle p. 41. 1re phrase : « La mer se retirait de la baie comme on quitte une chambre où quelqu'un dort. » 212 000 exemplaires grand format, deuxième sélection du Goncourt. ◆ Deuxième roman, *Les Riverains* (2018) : 4 800 exemplaires, un bide. ◆ Depuis 2019, un contrat pour *Les Grandes Largeurs*, jamais écrit.
 - Marié à Claire en 2005, séparé en 2014 (il part seul à Paris), divorcé en 2016.
@@ -62,6 +62,6 @@ Les fondamentaux du CLAUDE.md sont respectés. Les ajouts sont signalés par ◆
 - **M. Stéphan** (*La Laisse de mer*) : loue le rez-de-chaussée de la mère de Paul depuis 1998, vend des cirés. Double romanesque de Réchou.
 - **L'expert** (ch. 9) : **Julien Maréchal**, 31 ans, cabinet Delmas Expertises (mandaté par l'assureur de Réchou, convention IRSI). Doudoune sans manches, tablette, humidimètre à la ceinture, Peugeot 208 de société. Dicte ses rapports à une application. « Ma mère lit beaucoup. »
 - **M. Ferreira** (ch. 9) : plombier du syndic, la soixantaine, caisse à outils en métal.
-- **Anne Vasseur**, la sœur : un appel au ch. 18 pour les clés de Kerlouan.
+- **Anne Vasseur**, la sœur : infirmière à Nantes, a des enfants. « Voix de service. » Appelle pour l'anniversaire d'Antoine (ch. 10). Un appel au ch. 18 pour les clés de Kerlouan.
 - **Mme Floc'h**, voisine de Kerlouan, 81 ans, qui garde les clés et se souvient de « la petite qui s'était cachée ».
 - **Théo Garnier**, 29 ans, jeune romancier à qui tout réussit, rencontré au ch. 1. C'est par lui qu'Antoine entend parler de Palimpseste pour la première fois (« tout le monde l'utilise, personne ne le dit »).

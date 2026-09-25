@@ -33,6 +33,13 @@
 
 ## Résumés
 
+### Ch. 10 — « Réponses suggérées » (≈ 2 650 mots)
+3 février : 48 ans, le téléphone dans un tiroir sous l'évier pour travailler. Ferreira pose le joint neuf. Lucie : « 48 ans ça commence à faire 😬 bisous ».
+12 février : Lucie appelle pour remercier d'un message de « dimanche ». « Tu m'as jamais dit que t'étais arrivé en retard. » « Les pieds-de-mer, c'était l'écume. Pas les méduses. T'as toujours confondu. » Antoine : « Oui. J'ai toujours confondu. »
+Le message du 8 février, 2 h 07, en réponse à une question de Lucie sur le cahier de Claire (Meneham, 2012) : aveu du retard, « la ribine », pieds-de-mer = « petites méduses », « je serai là si un jour tu as besoin de moi » (recyclé des réponses refusées de Paul), « incessamment » bien employé, « Bisous ». Antoine découvre sa propre faute sur « incessamment ».
+Paramètres : Mode confiance activé le 25/12 à 2 h 13 ; 11 réponses envoyées (Hélène, Anne, syndic, Laure…). Il désactive. Il essaie de répondre à Lucie dans le carnet, n'envoie rien. Il écrit lui-même à Claire. Claire : « Tu écris comme avant, toi. » RDV le 20.
+14 février, 23 h 40 : il réactive « pour voir » et dort « comme dans un train de nuit quand quelqu'un d'autre conduit ». Le seau est sec.
+
 ### Ch. 9 — « Dégât des eaux » (≈ 2 950 mots) — ouverture de l'acte II
 Extrait du chapitre 14 de *La Laisse de mer* : M. Stéphan, le marchand de cirés du rez-de-chaussée, monte dire à Paul que ça fuit. « C'est pas de la pluie, ça. La pluie, ça sent pas le savon. » Un jeune expert en doudoune sans manches.
 27 janvier : Réchou sonne à 7 h 40 et dit la phrase, mot pour mot. Le plombier du syndic trouve la fuite **chez Antoine**, sous sa baignoire (joint pourri, odeur de gel douche Tahiti) : l'expert s'est trompé sur sa propre auréole.
@@ -106,6 +113,16 @@ Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de
 ---
 
 ## Passages lissés et réécrits
+
+### Ch. 10
+1. **Avant** : « le long et le court, le beau et le vrai, et le court avait l'air de corriger le long »
+   *Défaut* : chiasme symétrique (tic de la machine non prévu).
+   **Après** : « le long et le court, et le court avait l'air de corriger le long »
+2. **Avant** : « Je n'écris jamais "bisous". […] J'écris *Je t'embrasse* ou rien. »
+   *Défaut* : trop d'« écrire » à la 1re personne (la contamination prévue n'en veut qu'un ou deux).
+   **Après** : « Je ne mets jamais "bisous". […] Je mets *Je t'embrasse* ou rien. » Idem : « j'ai écrit à Claire » → « j'ai envoyé un message à Claire ».
+3. **Avant** : (script) faux positif « échouées » sur la règle « écho ».
+   *Correction de l'outil* : l'expression régulière de `outils/controle.py` ne signale plus que « écho » et « échos » en mot entier.
 
 ### Ch. 9
 1. **Avant** : « …et ce qu'ils taperaient la nuit dans leur voiture, s'ils n'ont plus rien à taper. »

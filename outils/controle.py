@@ -14,7 +14,7 @@ import sys
 import statistics
 
 BANNIS = [
-    r"tapisserie", r"\bdans(e|es|ent|er|ait|aient|ant)\b", r"\bécho", r"murmur",
+    r"tapisserie", r"\bdans(e|es|ent|er|ait|aient|ant)\b", r"\bécho(s)?\b", r"murmur",
     r"résonn", r"un sentiment d", r"quelque chose d", r"force est de constater",
     r"dans un monde où", r"\bau fond\b", r"réalis(a|ai|e|é) que", r"tourbillon",
     r"poids du silence", r"se brisa", r"non seulement", r"comme une évidence",

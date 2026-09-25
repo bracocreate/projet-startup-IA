@@ -58,7 +58,7 @@ Convention : on ignore le titre, les lignes de date, les en-têtes (`LA LAISSE D
 | 7 | **C** | Nuit-matin | « Coefficient » ✅ (posé : « Coefficient 96 à Brest… ») |
 | 8 | **E** | Historique | « En » ✅ (posé : « En sortant de la bibliothèque… ») |
 | 9 | **C** | Dégât des eaux | « Ce » ✅ (posé : « Ce fut M. Stéphan… », 1er mot du texte, après l'en-tête du manuscrit) |
-| 10 | **I** | Réponses suggérées | « Il » |
+| 10 | **I** | Réponses suggérées | « Il » ✅ (posé : « Il y a un tiroir, dans la cuisine… ») |
 | 11 | **E** | Boulevard de la Liberté | « Elle » |
 | 12 | **S** | Sevrage | « Sur » |
 | 13 | **T** | Note vocale | « Transcription » |
@@ -93,7 +93,7 @@ Le prologue commence par « Racontez » : c'est l'ordre, et le reste en est l'ex
 |-----|-------|--------|
 | 5 | Dans une proposition de scène pour *La Laisse de mer* : « une place exacte pour quelqu'un de petit », « petites bulles grises », « Il se rappelait qu'il n'était pas là » | ✅ posé |
 | 7 | Log de Noël : « dans vos chaussons écossais, ceux que vous mettiez l'été pour ne pas salir le carrelage » | ✅ posé |
-| 10 | Le message à Lucie : « je suis arrivé en retard, tu le sais » (Lucie croit à un aveu du père) | prévu |
+| 10 | Le message à Lucie : « Et de moi qui suis arrivé en retard, tu le sais. […] Mais j'étais dans la maison. » | ✅ posé |
 | 15 | La version « lissée » de la grève : l'homme sort de la maison ; Antoine ne relève pas | prévu |
 | 16 | Chapitre indécidable : la femme au chapeau de paille | prévu |
 

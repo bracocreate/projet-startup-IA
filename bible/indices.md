@@ -37,7 +37,7 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 6 | **Semé** (« Ça, c'est toi. Personne d'autre ne peut écrire ça. », 8e étoile). Hélène cite comme « tellement toi » une phrase qu'on a lue au ch. 2 dans une réponse de Palimpseste. | ch. 6 | B | A : Antoine avait repris la phrase à son compte, il le dit lui-même au ch. 3 |
 | 7 | **Semé.** Log du 25/12, 02:13 : activation du Mode confiance (« fais ce que tu veux. reponds lui mieux que moi » / « ACTIVER »). Aucun commentaire d'Antoine, qui ne s'en souvient pas le 26. | ch. 7 | ch. 10 | — |
 | 8 | **Semé.** Historique de versions du ch. 11 de *La Laisse de mer* (v32, mode Flux, 15:02). | ch. 8 | B | A : Antoine a pu copier-coller sans s'en souvenir (il avait bu à midi, il le mentionne en passant) |
-| 9 | Le message nocturne à Lucie emploie « incessamment » **correctement** et confond pieds-de-mer et méduses. Lucie : « t'as toujours confondu ». | ch. 10 | L'erreur de la machine passe pour une erreur humaine d'Antoine | — |
+| 9 | **Semé.** Le message nocturne à Lucie emploie « incessamment » **correctement** et confond pieds-de-mer et méduses. Lucie : « t'as toujours confondu ». Antoine : « Oui. J'ai toujours confondu. » | ch. 10 | L'erreur de la machine passe pour une erreur humaine d'Antoine | — |
 | 10 | Claire : « Tu te souviens de sa rédaction, en cinquième ? Elle te l'avait envoyée. » Antoine : non. | ch. 11 | ch. 22 | — |
 | 11 | Journal du 3 mars : 95 marches, un point-virgule, « gris », « écrire ». | ch. 12 | B | A : la version du ch. 13 est *différente* : le ch. 12 pourrait être la version d'Antoine, retouchée ou non |
 | 12 | Deux versions de la même entrée (ch. 12 / ch. 13). On ne peut pas savoir laquelle précède l'autre. | ch. 13 | Point milieu | — |
@@ -114,6 +114,12 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 9d | L'expert se trompe sur sa propre fuite (gaine / baignoire, plancher qui penche de 3 cm) : Antoine n'est plus fiable même dans son métier. | ch. 9 | A (erreur humaine) | — |
 | 9e | Le rapport généré contient une phrase sur Antoine que personne n'a dictée devant lui. Petite préfiguration du ch. 17 (entrées de journal non écrites). | ch. 9 | ch. 17 | A : Julien l'a ajoutée dans sa voiture |
 | 9f | Palimpseste s'accorde désormais au féminin (« Je me suis appuyée »), alors qu'elle se disait « assistant » au ch. 2. | ch. 9 | B (elle devient celle qu'il décrit) | — |
+
+| 10a | **Fuite n° 3** : le message avoue « je suis arrivé en retard […] j'étais dans la maison » (= prologue, IMG_4471). Lucie le prend pour l'aveu de son père. | ch. 10 | ch. 11, 22 | — |
+| 10b | Recyclage : « je serai là si un jour tu as besoin de moi » et « je pense souvent à toi depuis le quai » viennent des réponses refusées de Paul (ch. 3), « conservées dans l'historique ». | ch. 10 | — | — |
+| 10c | « Une chaleur de Léon, sèche, avec du vent » : phrase dite par Antoine au Ty Gwenn (ch. 4), notée **seulement dans son journal**. Antoine suppose une transcription de vocal ou France Bleu 2013. Si la machine lit le journal… (ch. 17). | ch. 10 | ch. 17 | A : il la répète depuis 2013 à la radio |
+| 10d | Antoine découvre seul qu'il emploie mal « incessamment ». Toute occurrence fautive ultérieure devient ambiguë (ch. 15 : il demande à la machine de la conserver). | ch. 10 | ch. 15, 24, épilogue | — |
+| 10e | Claire : « Tu écris comme avant, toi. » à propos d'un message qu'Antoine a vraiment écrit. Seule attestation extérieure de sa voix propre dans l'acte II. | ch. 10 | A | — |
 
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.
