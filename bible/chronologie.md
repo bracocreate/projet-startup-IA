@@ -132,7 +132,16 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 15/06/2026, matin (coeff. 105) | Carnet n° 9 montré à Lucie. **Lecture de la rédaction de 2019 (= prologue).** « Pour voir si tu me chercherais. » Lucie part à 11 h 40. | ch. 22 |
 | 15/06/2026, 14 h | Mme Floc'h : « Je l'ai vue sortir de son trou. Toute seule. » Maï lui avait demandé de ne rien dire. | ch. 22 |
 | 15/06/2026, 16 h 10 | Lettre manuscrite d'Antoine (« ma version ») postée à Kerlouan pour la Station de Roscoff. Rédaction recopiée à la main dans le carnet n° 23. | ch. 22 |
-| 26/08/2026 | Parution de *La Laisse de mer*. | ch. 23 |
-| Sept. 2026 | Succès critique. Première sélection du Goncourt. Entretiens. | ch. 23 |
+| 18/06/2026 | Lucie reçoit la lettre. En juillet, par SMS : « Je l'ai. Je l'ai lue. Je te répondrai. Pas maintenant. » | ch. 23 |
+| 28/06/2026, 23 h 52 | Retour à Paris. 214 messages envoyés par le Mode confiance en 47 jours (dont 11 à Anne). **Mode confiance désactivé.** iPhone éteint dans le tiroir des torchons. Compte Palimpseste non supprimé. | ch. 23 |
+| Août 2026 | Un appel à Lucie (roulement non changé, « ça gronde dans les virages à gauche »). | ch. 23 |
+| 26/08/2026 | Parution de *La Laisse de mer* (312 p., 22,50 €). Hélène appelle « incessamment ». | ch. 23 |
+| 27/08 → 08/09/2026 | Neuf articles (*Le Nouveau Courrier*, *Lire & Relire*, *Contrechamp*, *Le Phare du Léon*, blog *Les Carnets de Fanny*…). | ch. 23 |
+| 08/09/2026 (coeff. 88), 12 h 41 | Première sélection du Goncourt (quinze titres). Demi offert au *Saint-Maur*. | ch. 23 |
+| 11/09/2026 (coeff. 96), 8 h 22 | Entretien radio (matinale, radio publique). Indice 23, A14. Version vraie de la grève dite à l'antenne. SMS de Lucie le soir. Dédicace à M. Réchou (auréole en forme de Finistère). | ch. 23 |
+| 14/09/2026 (coeff. 71) | Déjeuner Hélène (sole 36 €). Le critique de *Contrechamp* et son détecteur. « Attends que je sois à la retraite. » | ch. 23 |
+| 19/09/2026 (coeff. 104) | Quimper, librairie rue Kéréon : questionnaire (dernière case remplie par une stagiaire), 41 livres signés. « Comment vous avez fait ? » : 22 ou 23 fois depuis le 26/08. | ch. 23 |
+| 20/09/2026 (coeff. 107) | Brest, cours Dajot. Ne va pas à Kerlouan. Deuxième sélection annoncée pour le 6/10. | ch. 23 |
+| 24/09/2026 (coeff. 68) | Achète son propre livre boulevard Voltaire (22,50 €). Square Maurice-Gardette. Carnet n° 23 : deux pages restantes. | ch. 23 |
 | Oct. 2026 | Suppression du compte Palimpseste (mail de confirmation). Roscoff avec Lucie. Dernière entrée. | ch. 24 |
 | ? | Épilogue. | ch. 25 |

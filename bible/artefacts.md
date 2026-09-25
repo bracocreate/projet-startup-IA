@@ -30,7 +30,7 @@ Lien : `indices.md` n° 27-28, épilogue dans `plan/plan_detaille.md`.
 | A11 | Ch. 14 ✅ | (Posé tel quel, page 17 du cahier n° 1.) Dans les pages manuscrites, une phrase isolée entre crochets : `[à réécrire en profondeur : structure, rythme, lexique]` | Note d'Antoine sur ses pages mortes. = consigne Pangram du §5bis, quasi mot pour mot. |
 | A12 | Ch. 15 ✅ | Palimpseste numérote les tics d'Antoine dans l'ordre de `voix.md` (quinze règles, « Pour plus de clarté, je les ai formulées sous forme de règles »). Antoine : « comme une notice de montage ». | Voir indice 27. |
 | A13 | Ch. 19 ✅ | (Posé : `version_A`, `version_B`, `version_C`, « pour me moquer d'elle, et puis parce que c'est plus facile de manipuler des choses qui ont des noms de fichiers ».) Les trois versions de la grève portent des titres de fichier : `version_A`, `version_B`, `version_C`. | Antoine imite la machine pour se moquer d'elle. |
-| A14 | Ch. 23 | Un journaliste : « On a l'impression que chaque détail a été choisi pour paraître vrai. » Antoine : « C'était la consigne. » (Il plaisante, tout le monde rit.) | Boutade en interview. |
+| A14 | Ch. 23 ✅ | (Posé : la journaliste, « Sabine, ou Sandrine » ; « C'était la consigne. » / « (Rires.) La consigne de qui ? » / « De mon ancien métier. » Antoine, le soir : « Le mot est venu avant la raison. ») Un journaliste : « On a l'impression que chaque détail a été choisi pour paraître vrai. » Antoine : « C'était la consigne. » (Il plaisante, tout le monde rit.) | Boutade en interview. |
 | A15 | Ch. 24 | Une phrase qui commence par « Comme demandé, » sans que rien n'ait été demandé dans la scène. | Tic d'Antoine devenu machinal (ou pas). |
 | A16 | Épilogue | Il rend visibles A1 à A15, puis finit sur la règle n° 10 : « Une tasse, disons. » | — |
 
@@ -71,7 +71,7 @@ Convention : on ignore le titre, les lignes de date, les en-têtes (`LA LAISSE D
 | 20 | **S** | Épreuves | « Sur » ✅ (posé : « Sur la route du Léon… », 1er mot du texte après les métadonnées et l'en-tête du manuscrit) |
 | 21 | **I** | Le garçon à la Twingo | « Il » ✅ (posé : « Il y avait un bruit à gauche. ») |
 | 22 | **G** | Rédaction | « Gast » ✅ (posé : « Gast. C'est le premier mot que j'ai dit ce matin… ») |
-| 23 | **N** | Rentrée | « Neuf » |
+| 23 | **N** | Rentrée | « Neuf » ✅ (posé : « Neuf articles en treize jours. ») |
 | 24 | **E** | Valeur à neuf | « Et » |
 
 Le prologue commence par « Racontez » : c'est l'ordre, et le reste en est l'exécution. L'épilogue ne donne pas la clé. Il se contente d'un conseil moqueur : « Si vous relisez, commencez par le début. De chaque chapitre. »

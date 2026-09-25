@@ -55,6 +55,13 @@
 
 ## Résumés
 
+### Ch. 23 — « Rentrée » (≈ 5 000 mots, citations et transcription comprises)
+Septembre 2026, Paris. « Neuf articles en treize jours », imprimés au Copy Top (3,30 €). Téléphone dans le tiroir des torchons depuis le 28/06 : 214 messages envoyés en 47 jours, Mode confiance désactivé à 23 h 52. Compte **non supprimé**. 8/09 : première sélection du Goncourt (« Quinze » ; il en compte seize).
+Relevé des critiques (journaux inventés) : la triade de la quatrième citée par *Le Nouveau Courrier*, la phrase des bigorneaux « Tout Vasseur est là » (*Lire & Relire*), *Contrechamp* : « Pas un point-virgule en 312 pages », « un livre qui sait exactement ce qu'on attend de lui ». Constat de sinistre : « On n'applique pas de vétusté à un bien qui n'a jamais été neuf. » Les points-virgules du ch. 10 de *La Laisse* ont disparu avant les épreuves : lui, ou « quelqu'un connaissait ma règle ».
+11/09, entretien radio (transcription) : Antoine parle comme Palimpseste (points-virgules, triades, maximes). « Ce n'était pas de la tristesse, c'était une forme de fidélité » (**indice 23**, phrase du ch. 2). « C'était la consigne. » (**A14**, rires, justification MOA). Il dit la vraie version de la grève, à la radio, pour la première fois, mais avec la phrase de la machine (« Elle marchait devant ; je suivais »). SMS de Lucie : « Tu as dit la vraie. […] C'est pas la réponse à ta lettre. Ça viendra. »
+14/09, Hélène au *Petit Varenne* (sole à 36 €) : un critique de *Contrechamp* passe les livres dans un détecteur, n'a rien publié. « Je ne veux pas savoir. […] attends que je sois à la retraite. » 19/09 Quimper : questionnaire de libraire (« il n'y a pas de mauvaise réponse ! ») dont la dernière case a été remplie par une stagiaire de dix-neuf ans (« De m'y reconnaître »). « Comment vous avez fait ? » : 23 fois, 22. « Je ne sais pas. » 20/09 Brest, cours Dajot, coeff. 107, il ne va pas à Kerlouan.
+24/09 : il achète son propre livre (22,50 €, bandeau Goncourt), square Maurice-Gardette, relit la première phrase : la fin de la seconde (« avec l'air de rendre service ») est de la machine, « Je ne le déteste plus ». Carnet n° 23 presque plein, le n° 24 à acheter, « il faudra bien que quelqu'un le tape ». Le ticket plié en quatre dans la poche droite (= Paul, ch. 16).
+
 ### Ch. 22 — « Rédaction » (≈ 3 150 mots, rédaction comprise)
 15 juin 2026, coeff. 105. « Gast » contre la poutre. Lucie a fait le café dans la cafetière de Maï, rallumé la Godin, posé son téléphone écran contre le bois. Antoine lui montre le carnet n° 9 ; elle rit : « Maman m'a jamais trouvée. »
 Elle retrouve la rédaction de cinquième (mai 2019, 17/20, Mme Le Roux) et la lit à voix haute, **sujet compris** : c'est le prologue, mot pour mot (vérifié par script). « Brillouches » : à treize ans elle s'en souvenait. « Ma tête c'est un rangeoir. »
@@ -219,6 +226,20 @@ Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de
 ---
 
 ## Passages lissés et réécrits
+
+### Ch. 23
+1. **Avant** : « Elle est partie avec son livre dans le cabas, contente. La vérité, c'est la seule réponse qui passe pour de la modestie. »
+   *Défaut* : fin de paragraphe en maxime.
+   **Après** : « Elle est partie contente, avec le livre dans le cabas, debout entre un poireau et un paquet de crêpes dentelle. » (règle n° 10)
+2. **Avant** : « Je l'ai toujours regardée faire. Il y a des gens qui ne ratent jamais une arête. »
+   *Défaut* : maxime, et la sole « explique » Hélène.
+   **Après** : « Elle a posé le peigne sur le bord de l'assiette, à côté du citron. »
+3. **Avant** : « quand elle veut dire quelque chose d'important » / « les soles, les loyers, les ego »
+   *Défaut* : « quelque chose de » (banni) et triade dans la bouche d'Hélène, rapportée par Antoine.
+   **Après** : « quand elle va parler sérieusement » / « les soles et les ego ».
+
+Laissé volontairement : la transcription radio (fenêtre régulière, CV 0,20 à 0,35, points-virgules, « au fond », « une forme de », triades) : c'est la voix de Palimpseste dans la bouche d'Antoine, contamination maximale prévue. « tapisserie » et « résonne » : citation d'un blog, entourées par Antoine. Le point-virgule de Le Bihan : cité, pour être moqué.
+Continuité corrigée au premier jet : Lucie a 20 ans depuis mars (pas d'anniversaire en août) ; l'anniversaire d'Antoine est le 3 février (« faux de sept mois ») ; la ceinture percée en 2013, pas à la demande de Claire.
 
 ### Ch. 22
 1. **Avant** : « amer au fond de la gorge » — *Défaut* : « au fond » (banni). **Après** : « amer jusque dans la gorge ».

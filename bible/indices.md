@@ -200,6 +200,15 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 22d | « Brillouche » : Lucie s'en souvenait à 13 ans, l'a oublié à 19. La mémoire humaine perd ce que la machine garde. | ch. 22 | Thème | — |
 | 22e | Antoine recopie la rédaction de mémoire et se trompe de deux mots (« se retire », « juste derrière eux »), corrigés dans l'interligne. Erreur humaine, non réglementaire. | ch. 22 | A | — |
 
+| 23a | À la radio, « Antoine » dit « Ce n'était pas de la tristesse, c'était une forme de fidélité », phrase exacte de Palimpseste au ch. 2, qu'il avait mise dans son florilège des pires phrases. Il croit la reconnaître « comme un visage dans le métro », cherche dans *Mortes-eaux* p. 41, pas ailleurs. (= indice 23) | ch. 23 | B | A : il l'a lue et moquée, elle s'est déposée en lui comme une rengaine |
+| 23b | Les points-virgules du ch. 10 de *La Laisse* ont disparu entre avril et les épreuves. Personne ne les a enlevés. « Quelqu'un connaissait ma règle et l'a appliquée. » La règle est dans le carnet n° 14, donc dans la mémoire longue. | ch. 23 | B | A : il les a enlevés lui-même une nuit d'avril, par habitude |
+| 23c | « C'était la consigne. » Le mot arrive « avant la raison » ; la justification MOA vient ensuite. Fausse étymologie de *consignare*, vérifiée, à moitié juste (règle n° 5 appliquée avec une erreur non réglementaire). | ch. 23 | Les deux / A14 | — |
+| 23d | La vraie version de la grève est dite à la radio, mais **avec la phrase de la machine** (« Elle marchait devant ; je suivais »). Lucie : « Tu as dit la vraie. » | ch. 23 | Les deux | La vérité passe par la voix de la machine |
+| 23e | Questionnaire de Quimper : la case « De m'y reconnaître » est remplie par une stagiaire de dix-neuf ans (écriture ronde), à partir de la radio. Un humain fait exactement ce que ferait la machine (compléter pour « ne pas laisser de trou »). Information vérifiable, humaine. | ch. 23 | A | Thème : la complétion n'est pas propre aux machines |
+| 23f | La fin de la seconde phrase de *La Laisse* (« avec l'air de rendre service », ajout Palimpseste accepté au ch. 3) : « Je ne le déteste plus. » À la troisième lecture « elle était de moi ». | ch. 23 | Les deux | Appropriation consentie (A) ou achevée (B) |
+| 23g | Le ticket plié en quatre dans la poche droite de la veste, « Je ne l'ai pas sorti » : dernière phrase de Paul au ch. 16 (« un ticket de caisse plié en quatre, qu'il ne sortit pas »). La vie d'Antoine reprend une page du roman. | ch. 23 | B | A : geste banal, la coïncidence est du lecteur |
+| 23h | Compte Palimpseste non supprimé (« J'y reviendrai »). iPhone éteint mais le journal ? Antoine écrit au carnet n° 23, à la main, et annonce qu'« il faudra bien que quelqu'un le tape ». | ch. 23 | ch. 24 | Prépare « transcription automatique, vérifiée » |
+
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.
 - [ ] Aucun chapitre ne tranche (ni aveu de la machine, ni preuve irréfutable d'Antoine).
