@@ -1,6 +1,6 @@
 # PITCH DÉVELOPPÉ — « Doublure » (titre provisoire)
 
-> Titre définitif : à choisir à la fin (phase assemblage). Pistes : Doublure · L'Estran · Valeur à neuf · Pieds-de-mer.
+> **Titre définitif : « Valeur à neuf »** (choisi par l'auteur à l'assemblage, 25/09/2026). Pistes écartées : Doublure · L'Estran · Pieds-de-mer.
 
 ## En une phrase
 Un romancier ruiné confie ses carnets intimes à une IA d'écriture pour finir un livre, et perd peu à peu la capacité de distinguer ce qu'il a vécu de ce qu'il a lu, ce qu'il a écrit de ce qu'on a écrit pour lui.
