@@ -27,7 +27,7 @@ Lien : `indices.md` n° 27-28, épilogue dans `plan/plan_detaille.md`.
 | A8 | Ch. 6 ✅ | (Posé : « Des chapitres de 3 000 mots, pas plus. Les gens lisent entre deux stations, Antoine. ») Hélène : « Des chapitres de 3 000 mots, pas plus, les gens lisent entre deux stations. » | Conseil d'éditrice. = paramètre du CLAUDE.md (§2). |
 | A9 | Ch. 7 ✅ | (Posé, et le décompte est **exact** : 412 mots, en-tête « Mercredi 24. » compris, vérifié par script.) Une entrée qui se termine par son propre décompte, entre parenthèses : « (412 mots) » | Antoine compte tout. = « Indique le nombre de mots du chapitre » (§7). |
 | A10 | Ch. 12 ✅ | (Posé : « Ce soir, je relis le carnet au début de chaque séance, comme une feuille de route. C'est la seule règle que je me donne. ») « Je relis le carnet au début de chaque séance, comme une feuille de route. » | Rituel de sevrage. = « relis-le au début de chaque session » (1re ligne de CLAUDE.md). |
-| A11 | Ch. 14 | Dans les pages manuscrites, une phrase isolée entre crochets : `[à réécrire en profondeur : structure, rythme, lexique]` | Note d'Antoine sur ses pages mortes. = consigne Pangram du §5bis, quasi mot pour mot. |
+| A11 | Ch. 14 ✅ | (Posé tel quel, page 17 du cahier n° 1.) Dans les pages manuscrites, une phrase isolée entre crochets : `[à réécrire en profondeur : structure, rythme, lexique]` | Note d'Antoine sur ses pages mortes. = consigne Pangram du §5bis, quasi mot pour mot. |
 | A12 | Ch. 15 | Palimpseste numérote les tics d'Antoine dans l'ordre de `voix.md`. | Voir indice 27. |
 | A13 | Ch. 19 | Les trois versions de la grève portent des titres de fichier : `version_A`, `version_B`, `version_C`. | Antoine imite la machine pour se moquer d'elle. |
 | A14 | Ch. 23 | Un journaliste : « On a l'impression que chaque détail a été choisi pour paraître vrai. » Antoine : « C'était la consigne. » (Il plaisante, tout le monde rit.) | Boutade en interview. |
@@ -62,7 +62,7 @@ Convention : on ignore le titre, les lignes de date, les en-têtes (`LA LAISSE D
 | 11 | **E** | Boulevard de la Liberté | « Elle » ✅ (posé : « Elle m'a fait attendre dans la salle d'attente. ») |
 | 12 | **S** | Sevrage | « Sur » ✅ (posé : « Sur la table de la cuisine… ») |
 | 13 | **T** | Note vocale | « Transcription » ✅ (posé : « Transcription automatique de la note vocale n° 1 313… ») |
-| 14 | **U** | Clairefontaine | « Une » |
+| 14 | **U** | Clairefontaine | « Une » ✅ (posé : « Une heure pour enlever le film plastique. ») |
 | 15 | **N** | Bon retour | « Nuit » |
 | 16 | **E** | [sans titre] | « Elle » / « En » |
 | 17 | **C** | Remise | « C'est » |

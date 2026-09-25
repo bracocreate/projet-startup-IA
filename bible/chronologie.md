@@ -89,9 +89,15 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 03/03/2026, 23 h 12 | Fin de l'entrée « Sevrage » (auteur incertain), ordinateur éteint. | ch. 12 |
 | 03/03/2026, 15 h 52 | Note vocale n° 1 313 (4 min 38 s) quai de Valmy. | ch. 13 |
 | 03/03/2026, 23 h 50 → 23 h 59 | Depuis l'iPhone : version B de l'entrée du 3 mars générée, **non enregistrée**. journal.docx modifié à 23 h 12 (« source : — »). Révélation : journal.docx hébergé depuis le **29/11/2025**, mode Flux actif dessus jusqu'au 03/03 9 h 10. | ch. 13 |
-| 04/03 → 02/04/2026 | Sevrage. Écriture à la main. Pages mortes. | ch. 14 |
-| 21/03/2026 | Anniversaire de Lucie (20 ans). Antoine l'oublie à moitié : message à 23 h 58. | ch. 14 |
-| 31/03/2026 | Échéance du contrat. Hélène obtient un délai jusqu'au 30 avril. | ch. 14 |
+| 04/03/2026, 9 h 04 | Premier cahier ouvert. Chap. 19 de *La Laisse de mer* à la main (212 mots le matin). | ch. 14 |
+| 09/03/2026 | 12 pages tapées hors connexion, envoyées à Hélène (16 h 10). Réponse 19 h 02 : « Ce n'est pas toi. » | ch. 14 |
+| 14/03/2026 (coeff. 44) | Mortes-eaux. Ordinateur ouvert à 4 h 12, Palimpseste pas cliqué. | ch. 14 |
+| 19/03/2026 | Sainte-Geneviève, place 217, sans alcool : sieste de 14 h 45 à 15 h 06 (0 pas), « volant » sur la joue. | ch. 14 |
+| 21/03/2026 | 20 ans de Lucie. Antoine s'en souvient à 23 h 51, message à 23 h 58. 22/03, 9 h 14 : « t'as failli 😅 », « c'est pas grave hein ». | ch. 14 |
+| 24/03/2026 | Hélène : Bertrand accorde le 30 avril (« une fatigue »). | ch. 14 |
+| 26/03/2026 | Fin de l'abonnement. Sources conservées jusqu'au 25/04. 96 marches. | ch. 14 |
+| 31/03/2026 | Échéance initiale passée. Bilan : cahier n° 1 plein, n° 2 à la p. 23, ~11 000 mots écrits, ~4 500 gardés. | ch. 14 |
+| 02/04/2026, 3 h 10 | Le carton posé par terre. L'écran pas ouvert. | ch. 14 |
 | 03/04/2026 | Retour à Palimpseste. | ch. 15 |
 | Avril 2026 | Chapitre indécidable. | ch. 16 |
 | 28/04/2026 | Remise du manuscrit. Hélène refuse d'entendre l'aveu. Antoine trouve trois entrées de son journal qu'il ne se souvient pas d'avoir écrites. | ch. 17 — **fin de l'acte II** |

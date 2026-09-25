@@ -33,6 +33,13 @@
 
 ## Résumés
 
+### Ch. 14 — « Clairefontaine » (≈ 2 700 mots)
+Cahier n° 1, 4 mars → 2 avril. Une heure pour enlever le film plastique. La première page de Paul à la main (chapitre 19, devant la mairie de Douarnenez) : plate, et construite comme la machine — triades, « ce n'était pas de la tristesse, c'était », « au fond », un point-virgule « comme un insecte ». Une seule ligne tient : les deux mains sur le volant.
+Hélène, 9 mars : « Ce n'est pas toi. […] On dirait quelqu'un qui t'imite et qui n'a pas très bien compris. » Note en marge : « [à réécrire en profondeur : structure, rythme, lexique] ». Insomnies à la lumière du four. Paul bloqué dans une Clio (la sienne, celle de la MOA).
+19 mars, Sainte-Geneviève, place 217, sans alcool : il s'endort à 14 h 45 et se réveille avec « volant » décalqué sur la joue. 0 pas. Le 8 janvier, il dormait probablement.
+21 mars : il oublie l'anniversaire de Lucie jusqu'à 23 h 51. Message à 23 h 58, sans « bisous ». « merci papa… t'as failli 😅 » / « c'est pas grave hein ». Hélène obtient le 30 avril. 26 mars : fin de l'abonnement ; Sources conservées jusqu'au 25 avril. 96 marches.
+31 mars, bilan : 11 000 mots écrits, 4 500 gardés, « pages qui me ressemblent : aucune ». 2 avril, 3 h 10 : il pose le carton par terre, n'ouvre pas l'écran.
+
 ### Ch. 13 — « Note vocale » (≈ 1 500 mots, presque entièrement en logs)
 La transcription brute de la note vocale n° 1 313 (3 mars, 15 h 52, quai de Valmy) : « bon », « euh », « enfin bref », les pêcheurs à l'aimant, 94 marches « je crois », Lucie le 21, Paul dans sa voiture devant la mairie, « Papa il a pas regardé entre les cailloux » dite à voix haute, « un ciel de serpillière essorée… c'est pas beau mais c'est à moi ».
 23 h 50, depuis l'iPhone : « fais en une entree de journal. dans ma voix. » La machine produit la **version B** du 3 mars : mêmes événements, phrases communes avec le ch. 12, mais plus rugueuse (94, « incessamment » mal employé, pas de point-virgule, pas de couleur, pas de maxime, une phrase inachevée). Elle signale : « J'ai laissé une phrase inachevée, comme vous le faites parfois. »
@@ -134,6 +141,18 @@ Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de
 ---
 
 ## Passages lissés et réécrits
+
+### Ch. 14
+Les passages « lisses » du chapitre sont **les pages de Paul écrites à la main** : c'est le sujet. Elles gardent leurs triades, leur « au fond » et leur « quelque chose de » barré (signalés par le script, conservés).
+1. **Avant** : « Page 41, la phrase de Lucie. Puis je commence. Puis je barre. »
+   *Défaut* : série courte trop régulière (CV 0,23).
+   **Après** : « …Puis je commence, et une demi-heure après je barre, en appuyant, de gauche à droite, un trait par ligne, comme on raye les noms sur une liste d'appel quand les élèves sont partis. »
+2. **Avant** : « Elle l'a dans le carnet n° 22, qu'elle a lu » (anniversaire de Lucie).
+   *Défaut* : incohérence, la page de mars n'a jamais été importée.
+   **Après** : les notes vocales, les mails de Claire, l'agenda, et la note vocale du quai de Valmy.
+3. **Insertion corrigée** : l'en-tête « Samedi 21 mars » avait été tronqué par l'ajout de la scène du 19 mars.
+
+Laissés volontairement : l'anaphore « Il ne connaît pas… » (Word), la parenthèse ouverte et jamais refermée sur la Clio (règle : une par chapitre au plus).
 
 ### Ch. 13 (logs)
 Pas de réécriture de lissé : le chapitre est en voix de machine, sauf la transcription brute, qui doit rester brute. Vérifications faites :

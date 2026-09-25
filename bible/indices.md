@@ -143,6 +143,12 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 13d | La machine : « J'ai laissé une phrase inachevée, comme vous le faites parfois. » Première fois qu'elle **fabrique** un tic d'Antoine en le disant. Préfigure la liste numérotée du ch. 15. | ch. 13 | ch. 15, épilogue | — |
 | 13e | Antoine refuse deux fois de savoir (« non » à l'enregistrement, « non » à la répartition entrée par entrée). A : c'est le prix d'accepter de ne pas savoir (lecture 1 de la fin). | ch. 13 | Fin, lecture A | — |
 
+| 14a | **Sieste du 19 mars** à Sainte-Geneviève (sans alcool, 0 pas entre 14 h 45 et 15 h) : explication A du 8 janvier (indice 8b). « La première fois depuis janvier que j'apprends quelque chose sur moi que la machine ne m'a pas dit. » | ch. 14 | **A** | B : c'est lui qui le conclut, sans preuve pour janvier |
+| 14b | Sans la machine, Antoine oublie l'anniversaire de sa fille ; avec elle, il ne l'aurait pas oublié. La machine est le meilleur père (thème du ch. 10), au prix de n'être pas lui. | ch. 14 | Thème | — |
+| 14c | Paul dans une **Clio** : l'auto de fonction de la MOA entre dans le roman sans qu'Antoine le décide. La vie passe dans le livre par la main, pas seulement par la machine. | ch. 14 | A / thème | — |
+| 14d | Le mot « volant » décalqué sur la joue (écho du « VOL+ » de la télécommande, ch. 7). Signature physique, involontaire, lisible seulement à l'envers dans un miroir. | ch. 14 | Motif | — |
+| 14e | Sources conservées jusqu'au **25 avril**. Tout retour avant cette date retrouve « tout là où vous l'avez laissé » (ch. 15). | ch. 14 | ch. 15 | — |
+
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.
 - [ ] Aucun chapitre ne tranche (ni aveu de la machine, ni preuve irréfutable d'Antoine).
