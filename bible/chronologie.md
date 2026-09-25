@@ -143,5 +143,11 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 19/09/2026 (coeff. 104) | Quimper, librairie rue Kéréon : questionnaire (dernière case remplie par une stagiaire), 41 livres signés. « Comment vous avez fait ? » : 22 ou 23 fois depuis le 26/08. | ch. 23 |
 | 20/09/2026 (coeff. 107) | Brest, cours Dajot. Ne va pas à Kerlouan. Deuxième sélection annoncée pour le 6/10. | ch. 23 |
 | 24/09/2026 (coeff. 68) | Achète son propre livre boulevard Voltaire (22,50 €). Square Maurice-Gardette. Carnet n° 23 : deux pages restantes. | ch. 23 |
-| Oct. 2026 | Suppression du compte Palimpseste (mail de confirmation). Roscoff avec Lucie. Dernière entrée. | ch. 24 |
+| 01/10/2026 (coeff. 97), 2 h 14 | Suppression du compte Palimpseste (mail). Données conservées jusqu'au 31/10 (coeff. 38), « sous réserve de l'article 7.3 ». *journal.docx* non téléchargé. Application désinstallée, iPhone dans le tiroir. Début du carnet n° 24. | ch. 24 |
+| 04/10 → 11/10/2026 | Lucie en stage de terrain (L3) à la Station de Roscoff, chambre à quatre. Inês aussi (autre promo). | ch. 24 |
+| 06/10/2026 (coeff. 81), 12 h 38 | Deuxième sélection du Goncourt (huit titres). Retirage de 30 000. | ch. 24 |
+| 10/10/2026 (coeff. 98) | Roscoff. Galette 9,80 €, bolée 3,50 €. Estran vers l'ouest, basse mer 14 h 12. Pieds-de-mer, brillouche (non reconnu). Glissade, « Sept ». Estacade : « C'était toi » (la lettre). Lucie a lu le livre (acheté à la Maison de la presse, 22,50 €). Coquillage percé. Car de 16 h 50, train de 17 h 58 ; une lectrice souligne une phrase entre Guingamp et Rennes. Marches : 94 ou 96, 95 en redescendant. | ch. 24 |
+| 11/10/2026 (coeff. 96) | Réveil à 4 h 10. Constat final (« Valeur à neuf : » vide). Dernière entrée. | ch. 24 |
+| 31/10/2026 | Effacement prévu des données (hors art. 7.3). | ch. 24 |
+| 04/11/2026 | Proclamation du Goncourt (hors récit). | ch. 24 |
 | ? | Épilogue. | ch. 25 |

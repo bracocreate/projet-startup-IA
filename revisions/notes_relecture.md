@@ -55,6 +55,13 @@
 
 ## Résumés
 
+### Ch. 24 — « Valeur à neuf » (≈ 4 200 mots)
+Mail du 1/10, 2 h 14 : compte Palimpseste supprimé, données conservées trente jours (art. 14.2), effacement le 31/10 « sous réserve de l'article 7.3 ». En-tête : *Carnet n° 24 — transcription automatique, vérifiée*. « Et voilà. » Quatre écrans, « J'ai terminé mon projet », SUPRIMER avec un seul P (phrase abandonnée). *journal.docx* ni rouvert ni téléchargé. Le 31/10 : coefficient 38, mortes-eaux.
+6/10 : deuxième liste (huit titres), Hélène : « Ne supprime rien. — C'est déjà fait. » Lucie « m'écrit incessamment » depuis Roscoff (stage de terrain de L3, huit jours). Bottes Décathlon 17,99 €.
+10/10, Roscoff, coeff. 98 : Inês, la sargasse japonaise (« Je parle d'une algue, papa »). Estran vers l'ouest, elle marche devant (« je sais ce que ça a l'air »). « Dis-moi un mot d'avant » : pieds-de-mer (« T'as triché »), brillouche (qu'elle ne reconnaît pas, même écrit de sa main). Elle glisse ; sa main sur le genou : « Sept. » La machine avait six (carnet n° 17) ; sept est dans le carnet n° 23, jamais photographié.
+Sur l'estacade, la lettre : « C'était toi. » (les chaussons, le P.-S., la rature de *Mortes-eaux*). « C'était ? — Le 15 juin. Là-bas. » Antoine ne demande pas pour maintenant, et ne dit pas que les chaussons étaient dans *journal.docx*. Le livre : « Paul, il te ressemble trop. On dirait quelqu'un qui t'a bien regardé. » Le coquillage percé par un bigorneau perceur. Dans le train, une lectrice souligne une phrase qu'il ne peut pas lire.
+11/10 : réveil à 4 h 10 (nuit-matin). « Comme demandé, j'ai compté les marches » : 94, ou 96 (et 95 à la descente). Le carnet sera transcrit (scanner du Copy Top ou autre). Constat complet ; « Valeur à neuf : » case vide, « Je sais qu'on le sait ». « Tu es content, Vasseur ? […] à 70 %. » Fin : le coquillage sur la table, le trou vers le haut.
+
 ### Ch. 23 — « Rentrée » (≈ 5 000 mots, citations et transcription comprises)
 Septembre 2026, Paris. « Neuf articles en treize jours », imprimés au Copy Top (3,30 €). Téléphone dans le tiroir des torchons depuis le 28/06 : 214 messages envoyés en 47 jours, Mode confiance désactivé à 23 h 52. Compte **non supprimé**. 8/09 : première sélection du Goncourt (« Quinze » ; il en compte seize).
 Relevé des critiques (journaux inventés) : la triade de la quatrième citée par *Le Nouveau Courrier*, la phrase des bigorneaux « Tout Vasseur est là » (*Lire & Relire*), *Contrechamp* : « Pas un point-virgule en 312 pages », « un livre qui sait exactement ce qu'on attend de lui ». Constat de sinistre : « On n'applique pas de vétusté à un bien qui n'a jamais été neuf. » Les points-virgules du ch. 10 de *La Laisse* ont disparu avant les épreuves : lui, ou « quelqu'un connaissait ma règle ».
@@ -226,6 +233,20 @@ Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de
 ---
 
 ## Passages lissés et réécrits
+
+### Ch. 24
+1. **Avant** : « Ce n'est pas une preuve. C'est un point de suture. »
+   *Défaut* : « ce n'est pas X, c'est Y » (banni), mot d'auteur.
+   **Après** : « Ça ne prouve rien. Ça fait un point de plus. »
+2. **Avant** : « Qu'une horloge arrêtée est la seule qui ne ment jamais sur l'heure où elle s'est arrêtée. » / « C'est le seul compte de ce livre qui soit juste. »
+   *Défaut* : maximes en fin de paragraphe (et « ce livre » trop appuyé).
+   **Après** : « La clé de remontage est dans le tiroir du buffet, avec la loupe au manche en os. » / « La poubelle, je l'ai laissée devant le local à vélos, le couvercle ne ferme plus. » (règle n° 10)
+3. **Avant** : « C'est le seul mot […] dont je suis sûr qu'elle l'a dit, et c'est le seul qu'elle me conteste. » + « parce qu'Anne ne voulait pas, parce que c'était l'heure de Maï, parce que c'était plus simple »
+   *Défaut* : symétrie et triade.
+   **Après** : « …dont je suis sûr qu'elle l'a dit. Elle ne le reconnaît pas, même écrit par elle. » / « parce qu'Anne ne voulait pas, que c'était l'heure de Maï ».
+
+Continuité corrigée au premier jet : « brillouche » est dans la rédaction (prologue, au pluriel) et Lucie l'avait déjà oublié au ch. 22 ; le cahier de mots de Claire n'a jamais été scanné pour Antoine (ch. 11 : « sans me le donner ») ; « le champ est devenu rouge » → couleur évitée, phrase abandonnée.
+Laissé volontairement : les répliques courtes de l'estacade et de Lucie (fenêtres régulières) ; les impératifs d'Hélène (« Ne parle à personne. Ne va pas à la radio. Ne supprime rien. »). « au fond » (l. 200) est au sens propre (le fond du car). « crabe vert qui n'était pas vert » : nom d'espèce, pas une couleur nommée.
 
 ### Ch. 23
 1. **Avant** : « Elle est partie avec son livre dans le cabas, contente. La vérité, c'est la seule réponse qui passe pour de la modestie. »

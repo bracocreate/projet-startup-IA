@@ -209,6 +209,19 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 23g | Le ticket plié en quatre dans la poche droite de la veste, « Je ne l'ai pas sorti » : dernière phrase de Paul au ch. 16 (« un ticket de caisse plié en quatre, qu'il ne sortit pas »). La vie d'Antoine reprend une page du roman. | ch. 23 | B | A : geste banal, la coïncidence est du lecteur |
 | 23h | Compte Palimpseste non supprimé (« J'y reviendrai »). iPhone éteint mais le journal ? Antoine écrit au carnet n° 23, à la main, et annonce qu'« il faudra bien que quelqu'un le tape ». | ch. 23 | ch. 24 | Prépare « transcription automatique, vérifiée » |
 
+| 24a | La dernière entrée tombe dans les trente jours de conservation (1/10 → 31/10) : le compte est supprimé mais la machine a encore tout, dont *journal.docx*. (= indice 24) | ch. 24 | B | A : la suppression est son geste |
+| 24b | « Sept. » Les 7 points sont dans le carnet n° 23, jamais photographié ; les carnets numérisés disaient 6. Seul savoir d'Antoine prouvablement hors machine. | ch. 24 | A | B : le ch. 21 (la correction « sept, pas six ») a pu être tapé ; mais la machine n'avait plus de source depuis le 12 mai |
+| 24c | « C'était toi » : Lucie tranche pour la lettre du 15 juin, au **passé**. Antoine ne pose pas la question pour le présent. Les chaussons écossais, preuve de Lucie, étaient dans *journal.docx* depuis février. | ch. 24 | **Les deux** | Pivot de la double lecture |
+| 24d | Brillouche : le seul mot certain de Lucie, qu'elle ne reconnaît pas « même écrit par elle ». Miroir d'Antoine devant ses propres pages. | ch. 24 | Thème | — |
+| 24e | « Comme demandé, j'ai compté les marches » (A15) : rien n'a été demandé. 94, ou 96 : l'exemple exact de la règle n° 2 donnée par la machine au ch. 15. | ch. 24 | B / twist | A : il se moque de lui-même |
+| 24f | « Valeur à neuf : » case vide, l'exemple exact de la règle n° 1 citée par la machine au ch. 15. « Je sais qu'on le sait. Je le fais quand même […] sinon ce serait encore elle qui aurait décidé. » | ch. 24 | **Les deux** | — |
+| 24g | Réveil à 4 h 10, « je sais ce que ça a l'air » ; « Elle marchait devant. Je le note parce que c'est vrai, et parce que je sais ce que ça a l'air » : la phrase se sait conforme au dispositif. | ch. 24 | B | A : lucidité d'Antoine sur sa propre vie devenue roman |
+| 24h | Le bigorneau perceur : coquille intacte, vidée par un trou rond, « pour ton bureau, pour que tu penses à moi quand tu tapes ». Dernier objet du livre d'Antoine, posé « à l'endroit du téléphone ». | ch. 24 | Les deux | Image non commentée |
+| 24i | En-tête « transcription automatique, vérifiée » ; Antoine : « Je vérifierai que c'est bien ce que j'ai écrit. Je ne pourrai pas vérifier que c'est bien moi qui l'ai écrit. » (= indice 25) | ch. 24 | Les deux | — |
+| 24j | La lectrice du train souligne une phrase qu'Antoine ne peut pas lire : 14 candidates, « cinq ou six » de lui, « deux à elle sans aucun doute ». Prépare l'adresse au lecteur de l'épilogue (« Vous avez souligné… »). | ch. 24 | Épilogue | — |
+
+**Bilan ch. 24 (tenabilité)** — Marqueurs A : suppression du compte, « Sept » (carnet non numérisé), la lettre « C'était toi », la phrase abandonnée sur SUPRIMER, la couleur évitée par un « de bottes », 95 en redescendant (erreur non réglementaire), « à 70 % ». Marqueurs B : trente jours de conservation, en-tête « transcription automatique », « Comme demandé, », 94 ou 96 et « Valeur à neuf : » vide (exemples mot pour mot de la liste du ch. 15), les chaussons dans *journal.docx*, « je sais ce que ça a l'air ». Aucun aveu, aucune preuve. ✅
+
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.
 - [ ] Aucun chapitre ne tranche (ni aveu de la machine, ni preuve irréfutable d'Antoine).
