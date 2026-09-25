@@ -123,7 +123,7 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 29/05/2026 | Couvreur Guéguen : 30 ardoises + noue, devis 3 480 € (partagé avec Anne). Mme Floc'h, les jumelles : Antoine l'interrompt. | ch. 19 |
 | 31/05/2026 (coeff. 102) | Descente à Meneham, 13 h 30 → 16 h 30. Trois creux. Les trois versions écrites le soir. | ch. 19 |
 | **01/06/2026, 7 h (coeff. 104)** | **Carnet n° 9 retrouvé au grenier (carton ANTOINE, pochon noué).** 21/08/2012 : « C. l'a trouvée. Moi pas là. » | ch. 19 |
-| Juin 2026 | Épreuves de *La Laisse de mer* reçues par La Poste à Kerlouan. Le dernier chapitre décrit la maison de Kervéguen. | ch. 20 |
+| 11/06/2026 | Épreuves (1er jeu, 312 p.) déposées en recommandé à Paris 07, reçues chez Mme Floc'h vers le 12-13/06. Retour des corrections avant le 30/06. Le ch. 24 du roman (écrit le 27/04) décrit Kervéguen. | ch. 20 |
 | 13-14/06/2026 | Lucie arrive (grandes marées). Confrontation. La rédaction de 2019. | ch. 21-22 |
 | 26/08/2026 | Parution de *La Laisse de mer*. | ch. 23 |
 | Sept. 2026 | Succès critique. Première sélection du Goncourt. Entretiens. | ch. 23 |

@@ -55,6 +55,13 @@
 
 ## Résumés
 
+### Ch. 20 — « Épreuves » (≈ 2 050 mots)
+Les épreuves de *La Laisse de mer* arrivent en recommandé chez Mme Floc'h (déposées le 11/06), avec un Post-it d'Hélène : « Relis la fin à voix haute. Dehors, si tu peux. » On lit le chapitre 24 du roman, écrit par la machine le 27 avril, **sans aucun commentaire d'Antoine**.
+Paul hérite de la longère de Kervoën (tante Anna : « parce qu'il est le seul qui écrit »). Porte gonflée, eau de Cologne, buffet laiteux, téléphone en bakélite et « bruit de son propre sang », quatorze marches, table face au champ, tache « en forme de main ouverte ». Le talus « comme on tend du pain à un cheval ». La mer ou la route.
+Vingt-sept ardoises. CHAPITRE PREMIER et rien dessous. À Meneham, le creux entre deux rochers, chaud d'un côté, froid de l'autre, le mica, « on aurait vu quelqu'un passer tout près sans regarder ». Une famille : le père marche devant sans se retourner.
+Madame Kerbrat, la voisine aux yeux clairs : « Les enfants viennent toujours. C'est les parents qui ne savent pas les attendre. » La lettre de Maëlle : une photo du mariage où l'on voit le hayon de la voiture, et au dos : « J'ai vu. M. » Réponse sur une carte de Meneham : « Il y a deux chambres. P. »
+La laisse de mer, une sandale d'enfant pointure 28, qu'il ne ramasse pas. Deux bols ; il en range un.
+
 ### Ch. 19 — « Trois versions » (≈ 3 550 mots)
 25 mai-1er juin 2026. La boîte à boutons de Maï existe (Traou Mad, derrière les casseroles) : « bruit de pluie sur une tôle ». Anne par SMS : l'horloge s'est arrêtée la nuit où Maï est morte, 4 h 10, l'heure du certificat (« Je t'avais dit sur WhatsApp »).
 Couvreur : trente ardoises (27 + 3 restées sur le toit), 3 480 €, « la noue de Maï sera refaite, pour moitié, par Palimpseste ». Chez Mme Floc'h, les jumelles de marine : « La petite, je l'ai vue qui » — Antoine la coupe. « J'ai refusé un témoin. »
@@ -198,6 +205,12 @@ Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de
 ---
 
 ## Passages lissés et réécrits
+
+### Ch. 20 (manuscrit généré par la machine, publié)
+Le chapitre garde **volontairement** le lissé de la machine (comparaisons toutes faites, maximes dans la bouche de Madame Kerbrat, « Ce n'était pas l'échec. C'était la table »), avec **zéro point-virgule** (indice 17b : elle les a retirés « conformément à votre usage »). Corrections faites :
+1. **Avant** : « quelque chose de plus doux » — *Défaut* : formule bannie. **Après** : « une autre odeur, plus douce ».
+2. **Avant** : « il eut […] le sentiment qu'une chose au moins tenait » — *Défaut* : famille de « un sentiment de ». **Après** : « Il pensa […] qu'une chose au moins tenait. »
+3. **Vérification d'écarts** (voir `indices.md` 20a) : pas d'horloge, pas d'appentis effondré, pas de fuite, pas de Mme Floc'h nommée, pas de carnet au grenier. Tout le reste correspond à Kervéguen.
 
 ### Ch. 19
 1. **Avant** : « Elle avait raison. Elle a toujours raison sur ce qui est vrai. »

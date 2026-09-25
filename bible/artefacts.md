@@ -68,7 +68,7 @@ Convention : on ignore le titre, les lignes de date, les en-têtes (`LA LAISSE D
 | 17 | **C** | Remise | « C'est » ✅ (posé : « C'est presque fini. ») |
 | 18 | **O** | Constat | « Onze » ✅ (posé : « Onze minutes de retard à Brest… ») |
 | 19 | **N** | Trois versions | « Non » ✅ (posé : « Non. Je ne suis pas encore descendu à la grève. ») |
-| 20 | **S** | Épreuves | « Sur » |
+| 20 | **S** | Épreuves | « Sur » ✅ (posé : « Sur la route du Léon… », 1er mot du texte après les métadonnées et l'en-tête du manuscrit) |
 | 21 | **I** | Le garçon à la Twingo | « Il » |
 | 22 | **G** | Rédaction | « Gast » |
 | 23 | **N** | Rentrée | « Neuf » |
