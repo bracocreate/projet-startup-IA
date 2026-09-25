@@ -131,6 +131,7 @@ L'objectif est une prose qu'aucun lecteur, ni aucun détecteur (type Pangram), n
   style.md            ← conventions typographiques, exemples de voix
   contamination.md    ← suivi des glissements de voix
   indices.md          ← indices semés pour la double lecture finale
+  artefacts.md        ← traces volontaires de « consignes IA » pour le twist final
 /plan
   plan_detaille.md    ← un paragraphe par chapitre : narrateur, forme, enjeu, indice
 /chapitres
