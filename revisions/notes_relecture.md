@@ -55,6 +55,13 @@
 
 ## Résumés
 
+### Ch. 21 — « Le garçon à la Twingo » (≈ 3 950 mots)
+13 juin 2026. Le bruit à gauche avant la voiture. Lucie arrive de Roscoff (stage depuis le 1er juin, 42 km) avec deux pochons du Super U et une frontale. Les épreuves s'envolent, on court après. Deux bises chacun : « pour la première fois de notre vie on est tombés juste ».
+Le tour de la maison : l'horloge (« c'est bien que personne l'ait remontée »), la tache « on dirait une main », « Il y a deux chambres, non ? ». Le crapaud (*Bufo spinosus*). Diagnostic du roulement au cric. Elle conduit, lui passager. Ampoules à 4,99 € : la douille grille. Page 23 des épreuves : la lettre de Maëlle, et le mariage du roman est… le 14 juin, le lendemain.
+14 juin, coeff. 104 : l'estran, « *Fucus vesiculosus*, papa. Pas du goémon. Enfin si, mais. », l'anémone, le bigorneau perceur, la sargasse « qui prend la place ». Elle glisse, il la rattrape par le bras. La cicatrice du genou gauche (rue de Fougères, 2015) : « Six points. » « Sept. J'ai compté. » Déjeuner à Meneham : elle le laisse payer.
+Le soir, à la frontale : « merci pour tes messages de la semaine dernière ». Le WhatsApp du 6 juin, 2 h 03 : « Il y a deux chambres. Viens quand tu veux. » (= Paul, p. 309). Il dit tout. « Tu parles comme une notice, parfois. »
+« Je m'en doutais. […] T'as jamais écrit "bisous" de ta vie. » « T'as toujours confondu » était un test. « Mais c'était vrai. » « Bon. » Elle reste, monte, « j'ai un truc à te montrer ». Quatorze marches entendues.
+
 ### Ch. 20 — « Épreuves » (≈ 2 050 mots)
 Les épreuves de *La Laisse de mer* arrivent en recommandé chez Mme Floc'h (déposées le 11/06), avec un Post-it d'Hélène : « Relis la fin à voix haute. Dehors, si tu peux. » On lit le chapitre 24 du roman, écrit par la machine le 27 avril, **sans aucun commentaire d'Antoine**.
 Paul hérite de la longère de Kervoën (tante Anna : « parce qu'il est le seul qui écrit »). Porte gonflée, eau de Cologne, buffet laiteux, téléphone en bakélite et « bruit de son propre sang », quatorze marches, table face au champ, tache « en forme de main ouverte ». Le talus « comme on tend du pain à un cheval ». La mer ou la route.
@@ -205,6 +212,19 @@ Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de
 ---
 
 ## Passages lissés et réécrits
+
+### Ch. 21
+1. **Avant** : « un rond de lumière blanche et dure, comme un projecteur de commissariat »
+   *Défaut* : couleur nommée.
+   **Après** : « un rond de lumière dure, de lampe de dentiste, de projecteur de commissariat ».
+2. **Avant** : « Elle a le week-end. Yanis lui a prêté la Twingo pour tout l'été. » (+ répliques courtes)
+   *Défaut* : série de phrases de même longueur (CV 0,19).
+   **Après** : une phrase longue (« …parce que Yanis, lui, reste à Rennes tout juillet à réparer les vélos des autres »).
+3. **Avant** : « Il a retenu. Elle a retenu. »
+   *Défaut* : symétrie, et « il » ambigu.
+   **Après** : « Elle a retenu. Depuis la nuit du 4 avril, elle a retenu. »
+
+Scène du réel : aucun artefact de consigne, aucun tic de la machine dans la voix d'Antoine, sauf la phrase « notice » volontaire, que Lucie relève.
 
 ### Ch. 20 (manuscrit généré par la machine, publié)
 Le chapitre garde **volontairement** le lissé de la machine (comparaisons toutes faites, maximes dans la bouche de Madame Kerbrat, « Ce n'était pas l'échec. C'était la table »), avec **zéro point-virgule** (indice 17b : elle les a retirés « conformément à votre usage »). Corrections faites :

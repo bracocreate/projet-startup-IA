@@ -25,6 +25,7 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 2013 | France Bleu Armorique : Antoine raconte sa version de la grève ; Claire l'entend en voiture, se gare au Leclerc de Cesson. | ch. 4, 11 |
 | 2014 | France Culture : « Un écrivain ne demande pas, il prend, et il rend mieux. » | ch. 11 |
 | 09/2014 | Antoine s'installe seul à Paris. | ch. 1, 4 |
+| 04/2015 | Chute de vélo de Lucie, rue de Fougères à Rennes : 7 points au genou gauche (Claire dit 6). Antoine à Arles, ne vient pas. | ch. 21 |
 | 2016 | Divorce. Mort d'Yvonne, la mère d'Antoine. | ch. 7 |
 | 03/2017 | Emménagement rue Saint-Maur. Antoine compte 94 marches. | essai, ch. 1 |
 | 2018 | *Les Riverains* : un bide. | ch. 1 |
@@ -124,7 +125,11 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 31/05/2026 (coeff. 102) | Descente à Meneham, 13 h 30 → 16 h 30. Trois creux. Les trois versions écrites le soir. | ch. 19 |
 | **01/06/2026, 7 h (coeff. 104)** | **Carnet n° 9 retrouvé au grenier (carton ANTOINE, pochon noué).** 21/08/2012 : « C. l'a trouvée. Moi pas là. » | ch. 19 |
 | 11/06/2026 | Épreuves (1er jeu, 312 p.) déposées en recommandé à Paris 07, reçues chez Mme Floc'h vers le 12-13/06. Retour des corrections avant le 30/06. Le ch. 24 du roman (écrit le 27/04) décrit Kervéguen. | ch. 20 |
-| 13-14/06/2026 | Lucie arrive (grandes marées). Confrontation. La rédaction de 2019. | ch. 21-22 |
+| 01/06/2026 | Début du stage de Lucie à la Station biologique de Roscoff (6 semaines). | ch. 21 |
+| 05/06/2026, 23 h 41 → 06/06, 2 h 03 | Lucie écrit sur WhatsApp (1er jour de stage). Réponse automatique (Mode confiance) : « Il y a deux chambres. Viens quand tu veux. Je t'embrasse. » | ch. 21 |
+| 13/06/2026 (coeff. 91) | Lucie arrive à Kervéguen dans la Twingo de Yanis. Roulement avant gauche. Ampoules, douille grillée. Page 23 des épreuves. | ch. 21 |
+| 14/06/2026 (coeff. 104) | Estran de Meneham ; elle glisse ; la cicatrice (7 points, pas 6). Déjeuner à l'auberge (29,40 €). Le soir : le test des messages, l'aveu complet, « Je m'en doutais ». Date du mariage de Maëlle dans le roman. | ch. 21 |
+| 15/06/2026 | Lucie : « j'ai un truc à te montrer » (la rédaction). | ch. 22 |
 | 26/08/2026 | Parution de *La Laisse de mer*. | ch. 23 |
 | Sept. 2026 | Succès critique. Première sélection du Goncourt. Entretiens. | ch. 23 |
 | Oct. 2026 | Suppression du compte Palimpseste (mail de confirmation). Roscoff avec Lucie. Dernière entrée. | ch. 24 |

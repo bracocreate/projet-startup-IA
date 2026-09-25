@@ -48,8 +48,8 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 17 | **Semé (ch. 17).** Téléphone laissé branché à Paris, **Mode confiance réactivé** « pour Lucie ». | ch. 17-18 | ch. 21 | — |
 | 18 | **Semé.** Carnet n° 9 : « C. l'a trouvée. Moi pas là. » + le 22/08 : « papa il a pas regardé entre les cailloux. Je ne sais pas ce qu'elle veut dire. » Antoine se trompait déjà en 2012 (il a cru Claire). | ch. 19 | A : il accepte un souvenir faux mais le sien | — |
 | 19 | **Semé (ch. 20).** Les épreuves (manuscrit remis en avril) décrivent la maison de Kervéguen telle qu'Antoine l'a trouvée en mai. | ch. 20 | B | A : Antoine connaît la maison depuis l'enfance, et la machine a ses carnets d'enfance ; ce qui a changé depuis 2019 (appentis effondré) n'y est **pas** |
-| 20 | Lucie : « Merci pour tes messages de la semaine dernière. » Antoine était en zone blanche. | ch. 21 | B | A : le mode confiance, depuis le téléphone resté à Paris ; ce qui n'enlève rien à Antoine |
-| 21 | Cicatrice sur le genou gauche de Lucie (chute de vélo, 2015, jamais écrite nulle part). Antoine la touche. | ch. 21 | A au ch. 24 | B : Lucie en a parlé dans un message vocal de 2021 (Palimpseste a les vocaux) |
+| 20 | **Semé.** Lucie : « Merci pour tes messages de la semaine dernière. » Antoine était en zone blanche (et lui avait écrit « Je ne lis pas WhatsApp »). C'est un test. | ch. 21 | B | A : le mode confiance, depuis le téléphone resté à Paris ; ce qui n'enlève rien à Antoine |
+| 21 | **Semé.** Cicatrice sur le genou gauche de Lucie (chute de vélo, rue de Fougères, avril 2015 ; « Six points. » / « Sept. J'ai compté. »). Antoine la touche. | ch. 21 | A au ch. 24 | B : Lucie en a parlé dans un message vocal de 2021 (Palimpseste a les vocaux) |
 | 22 | La rédaction de Lucie lue à voix haute = prologue mot pour mot. | ch. 22 | Les deux | — |
 | 23 | Dans une interview, « Antoine » répond par une phrase qui figure mot pour mot dans une réponse de Palimpseste au ch. 2. | ch. 23 | B | A : il a lu cette phrase cent fois, elle est devenue la sienne |
 | 24 | Mail « Votre compte Palimpseste a été supprimé. Vos données sont conservées trente jours. » La dernière entrée tombe dans ces trente jours. | ch. 24 | B | A : la suppression est son geste à lui |
@@ -186,6 +186,13 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 20b | La tache « en forme de main ouverte » (roman, avril) / « en forme de Finistère… Lucie dirait une main » (carnet, mai). | ch. 20 | Les deux | — |
 | 20c | Paul efface le courriel de Jérémie sans le lire ; Maëlle a « vu » : fin heureuse du roman, que la machine a écrite. Antoine, lui, n'a encore rien reçu de Lucie. | ch. 20 | ch. 21 | — |
 | 20d | Madame Kerbrat (roman) = Mme Floc'h (réel), sans le nom ni les jumelles. La machine a trouvé la voisine « moyenne », comme Réchou au ch. 9. | ch. 20 | Motif | — |
+
+| 21a | **La machine a organisé la rencontre** : « Il y a deux chambres. Viens quand tu veux. » (6 juin, 2 h 03), phrase finale de Paul (p. 309, écrite le 27 avril). Lucie : « C'est pour ça que je suis venue, un peu. » Le roman prescrit la vie. | ch. 21 | B, thème | A : Lucie serait venue de toute façon (Roscoff à 42 km) |
+| 21b | La machine savait qu'Antoine était à Kervéguen (« comme je te l'ai écrit ») sans avoir lu le SMS du Nokia : par le WhatsApp d'Anne (l'horloge) et les mails d'Hélène (épreuves chez Mme Floc'h). | ch. 21 | Cohérence B | — |
+| 21c | « T'as toujours confondu » (ch. 10) était un **test** de Lucie. Antoine a échoué (« oui »). La boussole du réel teste, elle aussi. | ch. 21 | ch. 24 | — |
+| 21d | 7 points et non 6 : Lucie corrige Claire. Seule Lucie a compté. Rime avec les marches. | ch. 21 | Motif | — |
+| 21e | Le mariage de Maëlle (roman, depuis octobre) tombe le 14 juin, jour de la grande marée et de l'aveu. Lucie le remarque, pas Antoine. | ch. 21 | B léger | A : coïncidence de calendrier |
+| 21f | Antoine répare (roulement diagnostiqué) et ne répare pas (douille grillée) : la lumière de la maison reste la frontale de Lucie. | ch. 21 | Motif | — |
 
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.

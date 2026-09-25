@@ -25,6 +25,7 @@ Les fondamentaux du CLAUDE.md sont respectés. Les ajouts sont signalés par ◆
 - **Fonction** : la boussole du réel. Tout ce qu'Antoine sait (ou croit savoir) d'elle sert de test. Elle est précise, drôle, peu sentimentale, elle met des points de suspension partout dans ses messages.
 - **Secret** : à six ans, sur la grève de Kerlouan, elle ne s'est pas perdue. Elle s'est cachée derrière les rochers, près de la maison de garde de Meneham, pour voir si son père la chercherait. Elle l'a raconté en 2019, en cinquième, dans une rédaction (« Raconte un souvenir d'enfance »). **C'est le texte du prologue.**
 - Les mots de son enfance : pieds-de-mer, brillouche, chagrinon, nuit-matin, rangeoir (voir `voix.md`).
+- ◆ (ch. 21) Permis en 2024, conduit à dix heures dix, chante *na na na* quand elle ne sait pas les paroles. Dit *genre*. Stage à Roscoff depuis le 1er juin, chambre de 9 m² avec une Portugaise qui étudie les oursins. Cicatrice de 7 points au genou gauche (2015). Teste son père (« t'as toujours confondu »). Ne veut pas lire le livre avant sa sortie.
 - **Arc** : de la distance polie à la confrontation physique en Bretagne (acte III), où elle devient l'ancrage. Elle aime les messages que « son père » lui envoie en hiver. Quand elle apprend d'où ils viennent, sa réaction n'est pas celle qu'on attend.
 
 ## Hélène Morvan — son éditrice
