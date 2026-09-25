@@ -17,6 +17,7 @@ RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SORTIE = os.path.join(RACINE, "sortie")
 TITRE = "Valeur à neuf"
 SOUS_TITRE = "roman"
+AUTEUR = "Loïg Kerdraon"
 POLICE = "EB Garamond"
 LECTEUR = "markdown-subscript-superscript"
 
@@ -43,7 +44,7 @@ def pretraiter(texte, nom):
 
 
 def assembler_md():
-    parties = [f"---\ntitle: \"{TITRE}\"\nsubtitle: \"{SOUS_TITRE}\"\nlang: fr-FR\n"
+    parties = [f"---\ntitle: \"{TITRE}\"\nsubtitle: \"{SOUS_TITRE}\"\nauthor: \"{AUTEUR}\"\nlang: fr-FR\n"
                f"toc-title: \"Table des matières\"\n---\n"]
     for f in sorted(glob.glob(os.path.join(RACINE, "chapitres", "*.md"))):
         parties.append(pretraiter(open(f, encoding="utf-8").read(), os.path.basename(f)))
@@ -135,7 +136,7 @@ def reference_docx():
     h1.paragraph_format.page_break_before = True
     h1.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
     h1.paragraph_format.space_before, h1.paragraph_format.space_after = Cm(3), Cm(1.5)
-    for nom, taille in (("Title", 26), ("Subtitle", 13)):
+    for nom, taille in (("Title", 26), ("Subtitle", 13), ("Author", 13)):
         st = style(doc, nom)
         police(st, POLICE, taille)
         st.font.color.rgb = None
@@ -143,6 +144,7 @@ def reference_docx():
         st.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
     style(doc, "Title").paragraph_format.space_before = Cm(6)
     style(doc, "Subtitle").font.italic = True
+    style(doc, "Author").paragraph_format.space_before = Cm(4)
     sep = style(doc, "Separateur")
     sep.base_style = doc.styles["Normal"]
     sep.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER

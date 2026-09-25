@@ -1,6 +1,7 @@
 ---
 title: "Valeur à neuf"
 subtitle: "roman"
+author: "Loïg Kerdraon"
 lang: fr-FR
 toc-title: "Table des matières"
 ---

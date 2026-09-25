@@ -1,6 +1,6 @@
 # PITCH DÉVELOPPÉ — « Doublure » (titre provisoire)
 
-> **Titre définitif : « Valeur à neuf »** (choisi par l'auteur à l'assemblage, 25/09/2026). Pistes écartées : Doublure · L'Estran · Pieds-de-mer.
+> **Titre définitif : « Valeur à neuf »** (choisi par l'auteur à l'assemblage, 25/09/2026). Pistes écartées : Doublure · L'Estran · Pieds-de-mer. Pseudonyme d'auteur : **Loïg Kerdraon** (choisi à l'assemblage).
 
 ## En une phrase
 Un romancier ruiné confie ses carnets intimes à une IA d'écriture pour finir un livre, et perd peu à peu la capacité de distinguer ce qu'il a vécu de ce qu'il a lu, ce qu'il a écrit de ce qu'on a écrit pour lui.
