@@ -118,7 +118,11 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 15/05/2026 | 27 ardoises. 14 marches. | ch. 18 |
 | 16/05/2026 (coeff. 98) | Super U. Grande marée regardée depuis le champ. 21 h 15 : Hélène (épreuves papier mi-juin, par La Poste). SMS à Lucie : « Je ne lis pas WhatsApp. » | ch. 18 |
 | 17/05/2026 | Grenier : trois cartons *ANTOINE*, non ouverts. | ch. 18 |
-| Fin mai-juin 2026 | Recherche du souvenir. Carnet n° 9 retrouvé. | ch. 19 |
+| 24/05/2026 | Boîte à boutons de Maï retrouvée dans le buffet. | ch. 19 |
+| 27/05/2026 | SMS d'Anne : horloge arrêtée à la mort de Maï (14/11/2019, 4 h 10). | ch. 19 |
+| 29/05/2026 | Couvreur Guéguen : 30 ardoises + noue, devis 3 480 € (partagé avec Anne). Mme Floc'h, les jumelles : Antoine l'interrompt. | ch. 19 |
+| 31/05/2026 (coeff. 102) | Descente à Meneham, 13 h 30 → 16 h 30. Trois creux. Les trois versions écrites le soir. | ch. 19 |
+| **01/06/2026, 7 h (coeff. 104)** | **Carnet n° 9 retrouvé au grenier (carton ANTOINE, pochon noué).** 21/08/2012 : « C. l'a trouvée. Moi pas là. » | ch. 19 |
 | Juin 2026 | Épreuves de *La Laisse de mer* reçues par La Poste à Kerlouan. Le dernier chapitre décrit la maison de Kervéguen. | ch. 20 |
 | 13-14/06/2026 | Lucie arrive (grandes marées). Confrontation. La rédaction de 2019. | ch. 21-22 |
 | 26/08/2026 | Parution de *La Laisse de mer*. | ch. 23 |

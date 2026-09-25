@@ -29,7 +29,7 @@ Lien : `indices.md` n° 27-28, épilogue dans `plan/plan_detaille.md`.
 | A10 | Ch. 12 ✅ | (Posé : « Ce soir, je relis le carnet au début de chaque séance, comme une feuille de route. C'est la seule règle que je me donne. ») « Je relis le carnet au début de chaque séance, comme une feuille de route. » | Rituel de sevrage. = « relis-le au début de chaque session » (1re ligne de CLAUDE.md). |
 | A11 | Ch. 14 ✅ | (Posé tel quel, page 17 du cahier n° 1.) Dans les pages manuscrites, une phrase isolée entre crochets : `[à réécrire en profondeur : structure, rythme, lexique]` | Note d'Antoine sur ses pages mortes. = consigne Pangram du §5bis, quasi mot pour mot. |
 | A12 | Ch. 15 ✅ | Palimpseste numérote les tics d'Antoine dans l'ordre de `voix.md` (quinze règles, « Pour plus de clarté, je les ai formulées sous forme de règles »). Antoine : « comme une notice de montage ». | Voir indice 27. |
-| A13 | Ch. 19 | Les trois versions de la grève portent des titres de fichier : `version_A`, `version_B`, `version_C`. | Antoine imite la machine pour se moquer d'elle. |
+| A13 | Ch. 19 ✅ | (Posé : `version_A`, `version_B`, `version_C`, « pour me moquer d'elle, et puis parce que c'est plus facile de manipuler des choses qui ont des noms de fichiers ».) Les trois versions de la grève portent des titres de fichier : `version_A`, `version_B`, `version_C`. | Antoine imite la machine pour se moquer d'elle. |
 | A14 | Ch. 23 | Un journaliste : « On a l'impression que chaque détail a été choisi pour paraître vrai. » Antoine : « C'était la consigne. » (Il plaisante, tout le monde rit.) | Boutade en interview. |
 | A15 | Ch. 24 | Une phrase qui commence par « Comme demandé, » sans que rien n'ait été demandé dans la scène. | Tic d'Antoine devenu machinal (ou pas). |
 | A16 | Épilogue | Il rend visibles A1 à A15, puis finit sur la règle n° 10 : « Une tasse, disons. » | — |
@@ -67,7 +67,7 @@ Convention : on ignore le titre, les lignes de date, les en-têtes (`LA LAISSE D
 | 16 | **E** | [sans titre] | « Elle » ✅ (posé : « Elle avait répondu avec trois cœurs. ») |
 | 17 | **C** | Remise | « C'est » ✅ (posé : « C'est presque fini. ») |
 | 18 | **O** | Constat | « Onze » ✅ (posé : « Onze minutes de retard à Brest… ») |
-| 19 | **N** | Trois versions | « Non » |
+| 19 | **N** | Trois versions | « Non » ✅ (posé : « Non. Je ne suis pas encore descendu à la grève. ») |
 | 20 | **S** | Épreuves | « Sur » |
 | 21 | **I** | Le garçon à la Twingo | « Il » |
 | 22 | **G** | Rédaction | « Gast » |

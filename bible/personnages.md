@@ -57,6 +57,7 @@ Les fondamentaux du CLAUDE.md sont respectés. Les ajouts sont signalés par ◆
 - ◆ Paul évolue au fil des chapitres rédigés avec Palimpseste : il devient plus sympathique, plus lisse, puis il commence à faire ce qu'Antoine fera ensuite.
 
 ## Personnages secondaires ◆
+- **M. Guéguen** (ch. 19) : couvreur à Plounéour, la soixantaine, Kangoo, marche sur les crochets sans harnais. Devis à la main sur carnet à souches.
 - **Laure Castaing** : directrice du domaine français aux Éditions du Pont-Neuf, concurrente. Antoine a refusé son offre en 2014. Dîners rue du Cherche-Midi. Son mari « fait quelque chose avec des obligations ».
 - **Le critique** (jamais nommé) : connaît par cœur la première phrase de *Mortes-eaux*, mieux qu'Antoine.
 - **Le monsieur du dessous** (M. Réchou, 3e étage, retraité de la RATP, environ 70 ans) : robe de chambre à carreaux, sonne deux coups longs et un court, répète les phrases des autres. L'auréole est chez lui. Donne son seau de 12 l à Antoine (ch. 9).

@@ -46,7 +46,7 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 15 | **Semé.** Trois entrées de journal (16, 19, 23 janvier) qu'Antoine ne se souvient pas d'avoir écrites. | ch. 17 | B | A : c'est ce qu'il a tapé ivre les soirs de janvier (il le soupçonne, et refuse de demander) |
 | 16 | **Semé (ch. 18).** Horloge de Maï arrêtée à 4 h 10 : jamais mentionnée dans aucun document numérique avant le SMS à Anne. | ch. 18 | **A** au ch. 24 | B : Antoine en parle dans un SMS à Anne depuis le Nokia (une phrase au ch. 18). Anne répond sur WhatsApp, à son numéro habituel (« l'horloge de Maï, toujours 4 h 10 ? »), donc sur le téléphone resté à Paris, que Palimpseste lit. |
 | 17 | **Semé (ch. 17).** Téléphone laissé branché à Paris, **Mode confiance réactivé** « pour Lucie ». | ch. 17-18 | ch. 21 | — |
-| 18 | Carnet n° 9 : « C. l'a trouvée. Moi pas là. » Antoine se trompait déjà en 2012. | ch. 19 | A : il accepte un souvenir faux mais le sien | — |
+| 18 | **Semé.** Carnet n° 9 : « C. l'a trouvée. Moi pas là. » + le 22/08 : « papa il a pas regardé entre les cailloux. Je ne sais pas ce qu'elle veut dire. » Antoine se trompait déjà en 2012 (il a cru Claire). | ch. 19 | A : il accepte un souvenir faux mais le sien | — |
 | 19 | Les épreuves (manuscrit remis en avril) décrivent la maison de Kervéguen telle qu'Antoine l'a trouvée en mai. | ch. 20 | B | A : Antoine connaît la maison depuis l'enfance, et la machine a ses carnets d'enfance ; ce qui a changé depuis 2019 (appentis effondré) n'y est **pas** |
 | 20 | Lucie : « Merci pour tes messages de la semaine dernière. » Antoine était en zone blanche. | ch. 21 | B | A : le mode confiance, depuis le téléphone resté à Paris ; ce qui n'enlève rien à Antoine |
 | 21 | Cicatrice sur le genou gauche de Lucie (chute de vélo, 2015, jamais écrite nulle part). Antoine la touche. | ch. 21 | A au ch. 24 | B : Lucie en a parlé dans un message vocal de 2021 (Palimpseste a les vocaux) |
@@ -174,6 +174,13 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 18d | SMS à Lucie : « Je ne lis pas WhatsApp. » Tout message WhatsApp reçu par Lucie pendant son séjour sera donc suspect à ses yeux. Prépare « Je m'en doutais » (ch. 21). | ch. 18 | ch. 21 | — |
 | 18e | Appentis effondré en janvier 2026, auréole « en forme de Finistère », table déplacée puis remise dans ses traces : détails **absents** du dernier chapitre de *La Laisse de mer* (écrit le 27/04). | ch. 18 | ch. 20 | — |
 | 18f | Trois cartons *ANTOINE* au grenier : le carnet n° 9 y est (ch. 19). | ch. 18 | ch. 19 | — |
+
+| 19a | Boîte à boutons réelle chez Maï. Antoine l'avait mentionnée en marge au ch. 3 ; la machine en a tiré le « bruit de pluie sur une tôle », qui se révèle exact. Preuve ou coïncidence : « je remets la boîte derrière les casseroles ». | ch. 19 | Les deux | — |
+| 19b | Horloge : Anne confirme par SMS, et dit l'avoir écrit sur WhatsApp d'abord (téléphone de Paris, Mode confiance actif). **4 h 10 est donc désormais dans les Sources.** Contrepoids B de l'indice 16 activé. | ch. 19 | ch. 24 | — |
+| 19c | Mme Floc'h a peut-être vu la petite revenir seule (« La petite, je l'ai vue qui »). Antoine refuse le témoin. Troisième refus de savoir (après la répartition et le document de 2019). | ch. 19 | ch. 22, lecture A | — |
+| 19d | Le carnet n° 9 n'a **jamais été numérisé** : c'est le seul texte du livre que la machine n'a pas lu. Il donne raison à Claire, pas à Lucie. La vérité (le prologue) n'est ni dans le carnet ni chez Claire. | ch. 19 | ch. 22 | — |
+| 19e | Dans le troisième creux : le granit chaud d'un côté, froid de l'autre, le mica qu'on ne peut pas gratter (= prologue, mot pour mot presque). Antoine le vit sans savoir qu'il le cite. | ch. 19 | ch. 22 | — |
+| 19f | Liste de courses d'août 2012 : « cahier pour L. (rentrée CP) ». Lien avec la dame aux cahiers Séyès (ch. 12). | ch. 19 | Motif | — |
 
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.

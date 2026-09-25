@@ -55,6 +55,13 @@
 
 ## Résumés
 
+### Ch. 19 — « Trois versions » (≈ 3 550 mots)
+25 mai-1er juin 2026. La boîte à boutons de Maï existe (Traou Mad, derrière les casseroles) : « bruit de pluie sur une tôle ». Anne par SMS : l'horloge s'est arrêtée la nuit où Maï est morte, 4 h 10, l'heure du certificat (« Je t'avais dit sur WhatsApp »).
+Couvreur : trente ardoises (27 + 3 restées sur le toit), 3 480 €, « la noue de Maï sera refaite, pour moitié, par Palimpseste ». Chez Mme Floc'h, les jumelles de marine : « La petite, je l'ai vue qui » — Antoine la coupe. « J'ai refusé un témoin. »
+31 mai, coeff. 102 : descente à Meneham. Les fucus par étages, les pieds-de-mer (bulles grises, bruit de Coca). Trois creux possibles ; dans le troisième, le granit chaud d'un côté, froid de l'autre, le mica qui ne vient pas. « On verrait quelqu'un passer tout près sans regarder. »
+Les trois versions, avec noms de fichiers : `version_A` (la sienne), `version_B` (Claire), `version_C` (la machine, pastichée). Aucune ne tient ; la C tient le mieux (« elle marche devant vous »).
+1er juin, grenier : le **carnet n° 9** dans un pochon, jamais numérisé. « L. perdue 40 min. C. l'a trouvée. Moi pas là. Fini le chap. 14. » Le lendemain : « papa il a pas regardé entre les cailloux. Je ne sais pas ce qu'elle veut dire. » Il garde cette version, « même si elle est fausse ».
+
 ### Ch. 18 — « Constat » (≈ 3 550 mots)
 Carnet n° 23. 12 mai 2026 : TGV, vent de Brest, une Clio de location (constat contradictoire sur la rayure). Les mains retrouvent la route (le calvaire au Christ sans bras, les « chardons pour géants »). Mme Floc'h, 81 ans, clé au bouchon de liège, far, « casser la soif » : « Maï disait perdue. Moi je dis cachée. » « Tu avais tes pantoufles. »
 Procès-verbal de constatations de la maison : buffet (vétusté 40 %), **horloge arrêtée sur 4 h 10**, téléphone fixe en bakélite (celui de 2012), quatorze marches, auréole « en forme de Finistère » dans la chambre du haut, table remise dans ses traces, appentis effondré, 23 ardoises.
@@ -191,6 +198,19 @@ Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de
 ---
 
 ## Passages lissés et réécrits
+
+### Ch. 19
+1. **Avant** : « Elle avait raison. Elle a toujours raison sur ce qui est vrai. »
+   *Défaut* : maxime.
+   **Après** : « Elle avait raison. »
+2. **Avant** : « Il y a des choses qu'on veut savoir de la bonne personne, ou pas du tout. »
+   *Défaut* : maxime de fin de paragraphe.
+   **Après** : supprimée ; le paragraphe finit sur « on l'aurait retiré du dossier ».
+3. **Avant** : « Même si elle est fausse. Surtout si elle est fausse. »
+   *Défaut* : écho symétrique du ch. 12 (« Même si elle est mauvaise. Surtout si elle est mauvaise. »), trop joli pour la voix du reflux.
+   **Après** : « Même si elle est fausse. »
+
+Autres : « croûte blanchâtre » → « croûte de sel » ; « Bigoudènes qui dansent » → « qui font la ronde » ; deux « au fond » au sens propre remplacés. La `version_C` garde volontairement son point-virgule (pastiche de la machine par Antoine).
 
 ### Ch. 18
 1. **Avant** : « un vernis qui a blanchi par plaques »
