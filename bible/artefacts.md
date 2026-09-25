@@ -28,7 +28,7 @@ Lien : `indices.md` n° 27-28, épilogue dans `plan/plan_detaille.md`.
 | A9 | Ch. 7 ✅ | (Posé, et le décompte est **exact** : 412 mots, en-tête « Mercredi 24. » compris, vérifié par script.) Une entrée qui se termine par son propre décompte, entre parenthèses : « (412 mots) » | Antoine compte tout. = « Indique le nombre de mots du chapitre » (§7). |
 | A10 | Ch. 12 ✅ | (Posé : « Ce soir, je relis le carnet au début de chaque séance, comme une feuille de route. C'est la seule règle que je me donne. ») « Je relis le carnet au début de chaque séance, comme une feuille de route. » | Rituel de sevrage. = « relis-le au début de chaque session » (1re ligne de CLAUDE.md). |
 | A11 | Ch. 14 ✅ | (Posé tel quel, page 17 du cahier n° 1.) Dans les pages manuscrites, une phrase isolée entre crochets : `[à réécrire en profondeur : structure, rythme, lexique]` | Note d'Antoine sur ses pages mortes. = consigne Pangram du §5bis, quasi mot pour mot. |
-| A12 | Ch. 15 | Palimpseste numérote les tics d'Antoine dans l'ordre de `voix.md`. | Voir indice 27. |
+| A12 | Ch. 15 ✅ | Palimpseste numérote les tics d'Antoine dans l'ordre de `voix.md` (quinze règles, « Pour plus de clarté, je les ai formulées sous forme de règles »). Antoine : « comme une notice de montage ». | Voir indice 27. |
 | A13 | Ch. 19 | Les trois versions de la grève portent des titres de fichier : `version_A`, `version_B`, `version_C`. | Antoine imite la machine pour se moquer d'elle. |
 | A14 | Ch. 23 | Un journaliste : « On a l'impression que chaque détail a été choisi pour paraître vrai. » Antoine : « C'était la consigne. » (Il plaisante, tout le monde rit.) | Boutade en interview. |
 | A15 | Ch. 24 | Une phrase qui commence par « Comme demandé, » sans que rien n'ait été demandé dans la scène. | Tic d'Antoine devenu machinal (ou pas). |
@@ -63,7 +63,7 @@ Convention : on ignore le titre, les lignes de date, les en-têtes (`LA LAISSE D
 | 12 | **S** | Sevrage | « Sur » ✅ (posé : « Sur la table de la cuisine… ») |
 | 13 | **T** | Note vocale | « Transcription » ✅ (posé : « Transcription automatique de la note vocale n° 1 313… ») |
 | 14 | **U** | Clairefontaine | « Une » ✅ (posé : « Une heure pour enlever le film plastique. ») |
-| 15 | **N** | Bon retour | « Nuit » |
+| 15 | **N** | Bon retour | « Nuit » ✅ (posé : « Nuit du 3 au 4 avril. ») |
 | 16 | **E** | [sans titre] | « Elle » / « En » |
 | 17 | **C** | Remise | « C'est » |
 | 18 | **O** | Constat | « Onze » |
@@ -94,7 +94,7 @@ Le prologue commence par « Racontez » : c'est l'ordre, et le reste en est l'ex
 | 5 | Dans une proposition de scène pour *La Laisse de mer* : « une place exacte pour quelqu'un de petit », « petites bulles grises », « Il se rappelait qu'il n'était pas là » | ✅ posé |
 | 7 | Log de Noël : « dans vos chaussons écossais, ceux que vous mettiez l'été pour ne pas salir le carrelage » | ✅ posé |
 | 10 | Le message à Lucie : « Et de moi qui suis arrivé en retard, tu le sais. […] Mais j'étais dans la maison. » | ✅ posé |
-| 15 | La version « lissée » de la grève : l'homme sort de la maison ; Antoine ne relève pas | prévu |
+| 15 | La grève « comme vous la racontez » : Antoine « sort de la maison » et « elle marche devant vous, jusqu'à Claire, et vous suivez » | ✅ posé (Antoine relève la maison, pas la petite fille) |
 | 16 | Chapitre indécidable : la femme au chapeau de paille | prévu |
 
 ## Couche 3 — Les « erreurs humaines » sont des quotas

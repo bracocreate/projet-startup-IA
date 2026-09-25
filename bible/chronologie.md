@@ -98,7 +98,7 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 26/03/2026 | Fin de l'abonnement. Sources conservées jusqu'au 25/04. 96 marches. | ch. 14 |
 | 31/03/2026 | Échéance initiale passée. Bilan : cahier n° 1 plein, n° 2 à la p. 23, ~11 000 mots écrits, ~4 500 gardés. | ch. 14 |
 | 02/04/2026, 3 h 10 | Le carton posé par terre. L'écran pas ouvert. | ch. 14 |
-| 03/04/2026 | Retour à Palimpseste. | ch. 15 |
+| 04/04/2026, 1 h 38 → 3 h 45 | Réactivation Auteur (49 €), Mémoire longue restaurée. Quinze règles. « incessamment » fautif conservé (1 h 53). La grève « comme vous la racontez ». « Je n'ai rien écrit que vous n'auriez pu écrire. » Document du 14/05/2019 évoqué, non affiché. 21 photos du cahier n° 1 envoyées ; chapitre 19 (Maëlle frappe à la vitre) généré 3 h 05 → 3 h 40. Flux et Mode confiance laissés éteints. | ch. 15 |
 | Avril 2026 | Chapitre indécidable. | ch. 16 |
 | 28/04/2026 | Remise du manuscrit. Hélène refuse d'entendre l'aveu. Antoine trouve trois entrées de son journal qu'il ne se souvient pas d'avoir écrites. | ch. 17 — **fin de l'acte II** |
 | 12/05/2026 | Départ pour Kerlouan. Téléphone laissé à Paris, branché (le mode confiance continue). Un vieux Nokia pour les urgences. | ch. 18 |

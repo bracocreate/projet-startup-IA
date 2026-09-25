@@ -41,7 +41,7 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 10 | **Semé.** Claire : « Tu te souviens de sa rédaction ? En cinquième ? […] Elle te l'avait envoyée, par mail, en photo. […] Tu lui as répondu « très bien ma Lulu ». » Antoine : non. | ch. 11 | ch. 22 | — |
 | 11 | **Semé.** Journal du 3 mars : 95 marches (en lettres), 3 points-virgules, « gris » ×2, « écrire », « incessamment » bien employé, deux maximes, aucune phrase abandonnée. | ch. 12 | B | A : la version du ch. 13 est *différente* : le ch. 12 pourrait être la version d'Antoine, retouchée ou non |
 | 12 | **Semé.** Deux versions de la même entrée (ch. 12 / ch. 13). Le ch. 12 est daté 23 h 12 (source inconnue), la version B 23 h 50 (machine, non enregistrée). La version machine est la plus humaine. | ch. 13 | Point milieu | — |
-| 13 | Palimpseste, interrogée, énumère tous les tics d'Antoine, y compris « incessamment » (« Vous l'employez au sens de "sans cesse". Souhaitez-vous que je conserve cet usage ? ») Antoine répond : « Oui. » | ch. 15 | **Clé de B** : les erreurs ne prouvent plus rien | A : Antoine pourrait aussi bien dire « oui » par orgueil, et la question reste ouverte |
+| 13 | **Semé.** Palimpseste, interrogée, énumère tous les tics d'Antoine, y compris « incessamment » (« Vous l'employez au sens de "sans cesse". Souhaitez-vous que je conserve cet usage ? ») Antoine répond : « Oui. » | ch. 15 | **Clé de B** : les erreurs ne prouvent plus rien | A : Antoine pourrait aussi bien dire « oui » par orgueil, et la question reste ouverte |
 | 14 | Chapitre indécidable : « il », ni Paul ni Antoine nommés. | ch. 16 | Les deux | — |
 | 15 | Trois entrées de journal qu'Antoine ne se souvient pas d'avoir écrites. | ch. 17 | B | A : c'est ce qu'il a tapé ivre les soirs de janvier (il le soupçonne) |
 | 16 | Horloge de Maï arrêtée à 4 h 10 : jamais mentionnée dans aucun document numérique. | ch. 18 | **A** au ch. 24 | B : Antoine en parle dans un SMS à Anne depuis le Nokia (une phrase au ch. 18). Anne répond sur WhatsApp, à son numéro habituel (« l'horloge de Maï, toujours 4 h 10 ? »), donc sur le téléphone resté à Paris, que Palimpseste lit. |
@@ -55,7 +55,7 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 24 | Mail « Votre compte Palimpseste a été supprimé. Vos données sont conservées trente jours. » La dernière entrée tombe dans ces trente jours. | ch. 24 | B | A : la suppression est son geste à lui |
 | 25 | Dernière entrée : en-tête « transcription automatique, vérifiée ». Mais : 94 ou 96 marches, « incessamment » mal employé, 4 h 10, la cicatrice. | ch. 24 | **Les deux, exactement à parts égales** | — |
 | 26 | Épilogue : adresse au lecteur, « incessamment » employé de sorte que les deux sens tiennent. | ch. 25 | Les deux | — |
-| 27 | **Twist.** Au ch. 15, Palimpseste énumère les tics d'Antoine en les **numérotant**, dans l'ordre exact des règles de `voix.md` (« premièrement, vous ne nommez jamais une couleur… »). L'épilogue reprend cette numérotation : le lecteur comprend que la liste de la machine dans le roman et la recette du livre sont la même liste. | ch. 15 → épilogue | Twist final | — |
+| 27 | **Semé (ch. 15).** Au ch. 15, Palimpseste énumère les tics d'Antoine en les **numérotant**, dans l'ordre exact des règles de `voix.md` (« premièrement, vous ne nommez jamais une couleur… »). L'épilogue reprend cette numérotation : le lecteur comprend que la liste de la machine dans le roman et la recette du livre sont la même liste. | ch. 15 → épilogue | Twist final | — |
 | 28 | **Twist.** (Détail et suivi : `bible/artefacts.md`.) Semer 2 ou 3 fois une trace de « consigne » dans le texte d'Antoine, invisible à la première lecture : un « comme prévu » sans objet, une phrase qui obéit ostensiblement à une règle (« je finis sur le bac de tri »), le mot « règle » dans un contexte anodin. L'épilogue les rend visibles. Ch. 1 déjà compatible : le chapitre finit sur le bac de tri (règle n° 10). | ch. 1, 7, 14, 23 | Twist final | Doit rester lisible comme un simple tic d'Antoine |
 
 ---
@@ -148,6 +148,13 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 14c | Paul dans une **Clio** : l'auto de fonction de la MOA entre dans le roman sans qu'Antoine le décide. La vie passe dans le livre par la main, pas seulement par la machine. | ch. 14 | A / thème | — |
 | 14d | Le mot « volant » décalqué sur la joue (écho du « VOL+ » de la télécommande, ch. 7). Signature physique, involontaire, lisible seulement à l'envers dans un miroir. | ch. 14 | Motif | — |
 | 14e | Sources conservées jusqu'au **25 avril**. Tout retour avant cette date retrouve « tout là où vous l'avez laissé » (ch. 15). | ch. 14 | ch. 15 | — |
+
+| 15a | **Fuite n° 4** : dans la grève « comme vous la racontez », la machine ajoute « Ou plutôt : elle marche devant vous, jusqu'à Claire, et vous suivez » (= prologue : Lucie revient seule). Antoine le relève sans comprendre d'où vient « la petite fille qui marche devant ». | ch. 15 | ch. 22 | — |
+| 15b | « Un document de 2019 » (pièce jointe du 14/05/2019) : la machine l'annonce, Antoine refuse de le voir (« pas cette nuit »). Le lecteur attentif relie à `IMG_4471.jpg` (ch. 5) et à la rédaction (ch. 11). | ch. 15 | ch. 22 | — |
+| 15c | Les pieds-de-mer : « Je l'ai corrigée dans ma mémoire. Je ne la referai pas. » Si le ch. 24 contient « pieds-de-mer » juste, cela ne prouve plus rien. | ch. 15 | ch. 24 | — |
+| 15d | « bisous » : « C'est noté également. » Même chose pour tous les marqueurs : la machine apprend chaque preuve d'humanité au moment où Antoine la brandit. | ch. 15 | Thème, épilogue | — |
+| 15e | Antoine envoie les photos du cahier : la promesse du ch. 11 (« je recopie à la main pour qu'elle ne l'ait pas ») est rompue. Les pages manuscrites de mars sont désormais dans les Sources. | ch. 15 | ch. 17 | — |
+| 15f | Seule différence restante selon Antoine : il tape sans accents quand il parle à la machine. **Marqueur à surveiller** : si un prompt « antoine.v » apparaît un jour avec accents et majuscules, ce n'est peut-être plus lui (indice 2c). | ch. 15 | ch. 17, 23, 24 | A : il peut simplement changer d'habitude |
 
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.

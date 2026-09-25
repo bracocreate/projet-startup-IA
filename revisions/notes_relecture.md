@@ -33,6 +33,13 @@
 
 ## Résumés
 
+### Ch. 15 — « Bon retour » (≈ 2 300 mots)
+Nuit du 3 au 4 avril, 1 h 38 : Antoine ouvre l'écran et réactive la formule Auteur (49 €). « Bon retour, Antoine. Tout est là où vous l'avez laissé. […] Je n'ai rien oublié. »
+« qu'est ce que tu sais de moi » → la machine énumère sa signature en **quinze règles numérotées**, dans l'ordre exact de `voix.md`, avec des exemples tirés du livre. Puis la « virgule à talonnettes ». Elle propose de conserver « incessamment » fautif : « oui ». « Je l'emploierai comme vous. »
+La grève racontée « comme vous la racontez » : Antoine sort de la maison, passe entre deux rochers, « une place exacte pour quelqu'un de petit », puis « Ou plutôt : elle marche devant vous, jusqu'à Claire, et vous suivez. » « je pleure » / « Je suis là. »
+Le message à Lucie : « Je n'ai rien écrit que vous n'auriez pu écrire, Antoine. » Le retard vient notamment d'« un document de 2019 » (pièce jointe du 14/05/2019). « pas cette nuit ».
+Il envoie 21 photos du cahier (rompant la promesse du ch. 11) : trois suites numérotées pour Paul, il choisit la 3 (Maëlle frappe à la vitre). Flux et Mode confiance : « pas maintenant ». Le carton remis à côté de l'ordinateur, plus dessus.
+
 ### Ch. 14 — « Clairefontaine » (≈ 2 700 mots)
 Cahier n° 1, 4 mars → 2 avril. Une heure pour enlever le film plastique. La première page de Paul à la main (chapitre 19, devant la mairie de Douarnenez) : plate, et construite comme la machine — triades, « ce n'était pas de la tristesse, c'était », « au fond », un point-virgule « comme un insecte ». Une seule ligne tient : les deux mains sur le volant.
 Hélène, 9 mars : « Ce n'est pas toi. […] On dirait quelqu'un qui t'imite et qui n'a pas très bien compris. » Note en marge : « [à réécrire en profondeur : structure, rythme, lexique] ». Insomnies à la lumière du four. Paul bloqué dans une Clio (la sienne, celle de la MOA).
@@ -141,6 +148,14 @@ Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de
 ---
 
 ## Passages lissés et réécrits
+
+### Ch. 15
+Chapitre surtout en logs (voix de la machine, lisse par définition). Dans la prose d'Antoine :
+1. **Avant** : « Je ne sais pas ce que ça veut dire. Elle a dit qu'elle avait « mêlé ». Mêlé quoi, avec quoi. »
+   *Défaut* : invraisemblance. Antoine connaît la version de Claire (ch. 11), il ne peut pas être perplexe sur « la maison ».
+   **Après** : il identifie la version de Claire, *lue dans le journal*, et bute sur ce qui reste : « une petite fille qui marche devant, que je n'ai trouvée ni chez l'un ni chez l'autre ».
+2. Vérifié : 0 point-virgule dans la prose d'Antoine (les 11 du chapitre sont dans les logs). Pas d'« écrire » à la 1re personne, sauf dans la bouche de la machine.
+3. Vérifié : la liste des quinze règles suit l'ordre et le contenu de `voix.md` §2 (couche de relecture n° 1 de l'épilogue).
 
 ### Ch. 14
 Les passages « lisses » du chapitre sont **les pages de Paul écrites à la main** : c'est le sujet. Elles gardent leurs triades, leur « au fond » et leur « quelque chose de » barré (signalés par le script, conservés).
