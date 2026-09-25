@@ -55,6 +55,8 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 24 | Mail « Votre compte Palimpseste a été supprimé. Vos données sont conservées trente jours. » La dernière entrée tombe dans ces trente jours. | ch. 24 | B | A : la suppression est son geste à lui |
 | 25 | Dernière entrée : en-tête « transcription automatique, vérifiée ». Mais : 94 ou 96 marches, « incessamment » mal employé, 4 h 10, la cicatrice. | ch. 24 | **Les deux, exactement à parts égales** | — |
 | 26 | Épilogue : adresse au lecteur, « incessamment » employé de sorte que les deux sens tiennent. | ch. 25 | Les deux | — |
+| 27 | **Twist.** Au ch. 15, Palimpseste énumère les tics d'Antoine en les **numérotant**, dans l'ordre exact des règles de `voix.md` (« premièrement, vous ne nommez jamais une couleur… »). L'épilogue reprend cette numérotation : le lecteur comprend que la liste de la machine dans le roman et la recette du livre sont la même liste. | ch. 15 → épilogue | Twist final | — |
+| 28 | **Twist.** Semer 2 ou 3 fois une trace de « consigne » dans le texte d'Antoine, invisible à la première lecture : un « comme prévu » sans objet, une phrase qui obéit ostensiblement à une règle (« je finis sur le bac de tri »), le mot « règle » dans un contexte anodin. L'épilogue les rend visibles. Ch. 1 déjà compatible : le chapitre finit sur le bac de tri (règle n° 10). | ch. 1, 7, 14, 23 | Twist final | Doit rester lisible comme un simple tic d'Antoine |
 
 ---
 

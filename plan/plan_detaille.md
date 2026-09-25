@@ -94,8 +94,14 @@ Pour chaque chapitre : **narrateur · forme · enjeu · indice**. Les numéros d
 
 ---
 
-## Épilogue (~500)
-**Narrateur** : « je », sans nom. **Forme** : adresse directe au lecteur, au présent. Le texte parle du livre qu'on tient, de celui qui l'a écrit, ou croit l'avoir écrit, de la voix qu'on a entendue pendant 75 000 mots. Il ne nomme ni Antoine ni Palimpseste, ni aucune entreprise réelle. Il reprend un ou deux tics d'Antoine et un ou deux tics de Palimpseste dans la même phrase. Il emploie « incessamment » de manière à ce que les deux sens tiennent (« Je vous dirai incessamment qui a écrit ce livre »). Dernière ligne : un objet concret, trivial. **Enjeu** : faire vaciller la question « qui a écrit ce livre ? ». **Indice** : 26.
+## Épilogue — « Mode d'emploi » (~700) — **PLOT TWIST FINAL (ajouté le 25/09/2026 à la demande de l'auteur)**
+**Narrateur** : « je », sans nom : l'auteur du livre que le lecteur tient. **Forme** : adresse directe au lecteur, au présent, sur un ton aimable et moqueur. Le texte se paie gentiment la tête du lecteur et lui fait comprendre, sans jamais le dire en toutes lettres ni nommer quiconque, que **ce roman a été écrit par une IA**.
+
+**Mécanique de la révélation** : l'épilogue ne fait pas d'aveu, il **montre la recette**. Il rappelle au lecteur les moments où il a reconnu un humain (les 94 marches, « incessamment » mal employé, la couleur jamais nommée, le Twix à 1,15 €, la phrase abandonnée) et les lui rend un par un sous leur vraie forme : des **règles numérotées**. « Règle n° 3 : ne jamais nommer une couleur. » « Règle n° 6 : abandonner une phrase en plein milieu, deux fois par chapitre au plus. » « Choisir le deuxième mot qui vient, pas le plus probable. » C'est le contenu de `bible/voix.md`, cité presque tel quel. Le lecteur comprend que tout ce qui lui a semblé *trop humain pour être une machine* était une consigne. Pendant 75 000 mots, il a cherché la machine dans le journal d'Antoine, alors qu'elle tenait le livre entier.
+
+**La moquerie** (légère, jamais méchante) : « Vous avez souligné la phrase sur la rose remise tête en bas dans le seau. Elle avait été réécrite trois fois, parce que la première version coulait trop bien. » « Si vous avez passé une page dans un détecteur, j'espère qu'il vous a rassuré. » « Vous vous demandiez si Antoine était encore Antoine au chapitre 24. C'est une bonne question. Posez-la à la couverture. »
+
+**Ce qui est préservé** : la double lecture A/B sur Antoine reste intacte (l'épilogue ne dit pas si Antoine a repris la main, il dit seulement qui a écrit *le livre*). Aucun nom réel, ni Claude, ni Anthropic, ni aucune entreprise : l'épilogue dit « on », « la consigne », « celui qui m'a demandé ce livre ». « Incessamment » y figure, employé de sorte que les deux sens tiennent. **Dernière ligne** : elle finit à plat sur un objet trivial, et le texte le fait remarquer : « Je termine sur un objet, parce que c'est la règle n° 10. Une tasse, disons. » **Enjeu** : retourner contre le lecteur toute la confiance qu'il a accordée à la « voix humaine ». **Indices** : 26, 27, 28.
 
 ---
 
@@ -128,5 +134,5 @@ Pour chaque chapitre : **narrateur · forme · enjeu · indice**. Les numéros d
 | 22 | Rédaction | carnet + reprise du prologue | 3 000 | III |
 | 23 | Rentrée | collage | 3 200 | III |
 | 24 | Valeur à neuf | mail + carnet | 3 400 | III |
-| 25 | Épilogue | adresse au lecteur | 500 | — |
+| 25 | Épilogue « Mode d'emploi » | adresse moqueuse au lecteur (twist) | 700 | — |
 | | | | **≈ 74 250** | |

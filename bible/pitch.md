@@ -21,7 +21,9 @@ Ni procès ni pamphlet. Le livre montre ce que l'IA générative fait à quelqu'
 Le métier ancien d'Antoine donne sa grille au livre. Un expert en sinistres évalue ce qui est perdu, distingue la **valeur à neuf** de la **valeur réelle**, applique la **vétusté**. Palimpseste propose à Antoine une vie « valeur à neuf ». Le livre demande ce que vaut la version usée, tachée, fausse par endroits, mais habitée.
 
 ## Mise en abyme
-Trois niveaux : le livre (écrit par une IA, ce que le lecteur sait ou soupçonne), le journal d'Antoine (qui utilise une IA), le roman d'Antoine (Paul, écrivain, qui envisage de recourir à un « nègre »). L'ironie n'est jamais commentée. Elle se lit dans la **matière même de la prose** : le contraste entre la voix d'Antoine (voir `voix.md`) et celle de Palimpseste, puis leur rapprochement.
+Trois niveaux : le livre (écrit par une IA, ce que le lecteur sait ou soupçonne), le journal d'Antoine (qui utilise une IA), le roman d'Antoine (Paul, écrivain, qui envisage de recourir à un « nègre »). L'ironie n'est jamais commentée *pendant* le livre. Elle se lit dans la **matière même de la prose** : le contraste entre la voix d'Antoine (voir `voix.md`) et celle de Palimpseste, puis leur rapprochement.
+
+**Plot twist final (décision de l'auteur, 25/09/2026)** : l'épilogue sort du cadre et se moque du lecteur. En lui rendant sous forme de *règles numérotées* tous les détails qui lui avaient fait croire à une voix humaine, il lui fait comprendre que le livre entier a été écrit par une IA. Aucun nom réel n'est prononcé. La double lecture sur Antoine (repris / remplacé) reste ouverte : le twist porte sur l'auteur du livre, pas sur le personnage. Voir `plan/plan_detaille.md`, épilogue.
 
 ## Motifs directeurs
 - **L'eau qui s'infiltre** : auréoles, dégâts des eaux, marées, estran. Le palimpseste comme infiltration lente.
