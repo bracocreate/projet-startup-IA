@@ -65,7 +65,7 @@ Convention : on ignore le titre, les lignes de date, les en-têtes (`LA LAISSE D
 | 14 | **U** | Clairefontaine | « Une » ✅ (posé : « Une heure pour enlever le film plastique. ») |
 | 15 | **N** | Bon retour | « Nuit » ✅ (posé : « Nuit du 3 au 4 avril. ») |
 | 16 | **E** | [sans titre] | « Elle » ✅ (posé : « Elle avait répondu avec trois cœurs. ») |
-| 17 | **C** | Remise | « C'est » |
+| 17 | **C** | Remise | « C'est » ✅ (posé : « C'est presque fini. ») |
 | 18 | **O** | Constat | « Onze » |
 | 19 | **N** | Trois versions | « Non » |
 | 20 | **S** | Épreuves | « Sur » |

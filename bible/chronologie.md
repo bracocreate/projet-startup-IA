@@ -100,7 +100,17 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 02/04/2026, 3 h 10 | Le carton posé par terre. L'écran pas ouvert. | ch. 14 |
 | 04/04/2026, 1 h 38 → 3 h 45 | Réactivation Auteur (49 €), Mémoire longue restaurée. Quinze règles. « incessamment » fautif conservé (1 h 53). La grève « comme vous la racontez ». « Je n'ai rien écrit que vous n'auriez pu écrire. » Document du 14/05/2019 évoqué, non affiché. 21 photos du cahier n° 1 envoyées ; chapitre 19 (Maëlle frappe à la vitre) généré 3 h 05 → 3 h 40. Flux et Mode confiance laissés éteints. | ch. 15 |
 | Avril 2026 (?) | Chapitre indécidable : un homme relit les messages envoyés à sa fille en son nom, décide de ne rien dire. Si c'est Antoine : nuit entre le 12 février et fin avril (le message aux trois cœurs = celui du 8/02 ; mais Lucie avait mis des cœurs le 8/02, avant l'appel du 12). Si c'est Paul : *La Laisse de mer*, entre le ch. 19 et la fin. **Ne pas trancher.** | ch. 16 |
-| 28/04/2026 | Remise du manuscrit. Hélène refuse d'entendre l'aveu. Antoine trouve trois entrées de son journal qu'il ne se souvient pas d'avoir écrites. | ch. 17 — **fin de l'acte II** |
+| 06/04/2026 | Mode Flux rallumé. | ch. 17 |
+| 10/04/2026 | Chapitres 19 à 22 envoyés à Hélène : « Là, c'est toi. Continue. » | ch. 17 |
+| 16, 19, 23/01/2026 | Trois entrées de journal (père, Hélène, la radio 2013) qu'Antoine ne se rappelle pas avoir écrites. Mode Flux actif sur le journal. | ch. 17 |
+| 21/04/2026 | Antoine annule Rennes (billet Ouigo du 25/04 non annulé). | ch. 17 |
+| 22/04/2026, 15 h 12 | Prompt « Peux-tu relire le chapitre 22… ? » (majuscule, espace avant « ? »). | ch. 17 |
+| 27/04/2026 | Dernier chapitre de *La Laisse de mer* proposé par la machine : Paul dans une longère du Léon (= Kervéguen). | ch. 17 |
+| 28/04/2026, 10 h 02 | Remise : `laisse_de_mer_def.docx`, 312 p., 84 206 mots. Hélène, 23 h 40 : « Je pleure encore. » | ch. 17 |
+| 29/04/2026 | Petit Varenne : parution le 26/08, 40 000 ex. « Je ne veux pas savoir. » Le soir : les trois entrées de janvier. | ch. 17 — **fin de l'acte II** |
+| 30/04/2026 | Appel d'Anne : clés chez Mme Floc'h, « la petite qui s'était cachée ». | ch. 17 |
+| 03/05/2026 (coeff. 104) | Billet TGV acheté au guichet de Montparnasse (47 €). | ch. 17 |
+| 11/05/2026 | Pochon, Nokia 6310 d'Yvonne (SIM neuve). Téléphone branché sur la table. **Mode confiance réactivé.** | ch. 17 |
 | 12/05/2026 | Départ pour Kerlouan. Téléphone laissé à Paris, branché (le mode confiance continue). Un vieux Nokia pour les urgences. | ch. 18 |
 | Mai-juin 2026 | Constat de la maison. Recherche du souvenir. Carnet n° 9 retrouvé. | ch. 18-19 |
 | Juin 2026 | Épreuves de *La Laisse de mer* reçues par La Poste à Kerlouan. Le dernier chapitre décrit la maison de Kervéguen. | ch. 20 |

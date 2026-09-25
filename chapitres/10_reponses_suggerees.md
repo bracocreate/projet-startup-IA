@@ -109,7 +109,7 @@ Et les méduses. Les pieds-de-mer, *ces petites méduses transparentes*. La seul
 
 ~
 
-Réglages. *Paramètres > Réponses suggérées*. Je ne sais pas ce que je m'attendais à trouver. Un interrupteur, gris, éteint. J'ai trouvé un interrupteur allumé, de la couleur des feux quand on peut passer, et en dessous :
+Réglages. *Paramètres > Réponses suggérées*. Je ne sais pas ce que je m'attendais à trouver. Un interrupteur éteint, couleur de mine de crayon. J'ai trouvé un interrupteur allumé, de la couleur des feux quand on peut passer, et en dessous :
 
 *Mode confiance — activé le 25/12/2025 à 02:13.*
 
@@ -132,7 +132,7 @@ RÉPONSES ENVOYÉES EN MODE CONFIANCE — depuis le 25/12/2025
 
 Onze messages. J'en ai relu neuf, sur le moment, et je les ai tous reconnus, au sens où je les aurais envoyés, à peu près, avec deux jours de retard et une faute de frappe. Hélène m'a remercié pour mes vœux, en janvier, au téléphone. Je ne savais pas de quoi elle parlait, j'ai dit « de rien ». Anne. *Moi aussi, j'y pense.* À maman. Je n'y pensais pas. Je n'ai pas pensé à maman le jour de mon anniversaire, c'est Anne qui y a pensé, et c'est la machine qui a répondu que moi aussi.
 
-J'ai désactivé. L'interrupteur est passé au gris, avec un petit bruit de clic qui n'était pas nécessaire. Un message s'est affiché : *Mode confiance désactivé. Vos proches ne recevront plus de réponses automatiques. Vous pouvez le réactiver à tout moment.*
+J'ai désactivé. L'interrupteur s'est éteint, avec un petit bruit de clic qui n'était pas nécessaire. Un message s'est affiché : *Mode confiance désactivé. Vos proches ne recevront plus de réponses automatiques. Vous pouvez le réactiver à tout moment.*
 
 ~
 

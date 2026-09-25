@@ -31,7 +31,36 @@
 
 ---
 
+## Révision de fin d'acte II (ch. 9 → 17)
+
+**Volume** : prologue + ch. 1-17 = environ 44 900 mots (wc). Acte II ≈ 21 900 mots pour 26 900 prévus. Projection si l'acte III suit le plan (~20 300 mots) : **≈ 65 000 mots**, soit 10 000 de moins que la cible de 75 000. Décision à demander à l'auteur (allonger l'acte III, ou accepter ~65 000).
+
+**Mots bannis** : aucune occurrence dans la voix d'Antoine hors emplois volontaires consignés (pages de Paul écrites à la main au ch. 14, citées par Antoine ; chapitre indécidable 16 dosé).
+
+**Variation des phrases** : coefficient de variation entre 0,84 (ch. 12, volontairement lisse) et 1,07.
+
+**Points-virgules hors logs** : ch. 12 (3, prévus), ch. 14 (1, dans la page de Paul), ch. 16 (1, mélange). Un point-virgule de liste au ch. 17 (le pochon) a été remplacé par des virgules.
+
+**Couleurs** : deux « gris » non prévus au ch. 10 (l'interrupteur) corrigés à la relecture (« couleur de mine de crayon », « s'est éteint ») pour que le premier « gris » d'Antoine reste celui du ch. 12. Restent, assumés : « jours gris » (ch. 17, contamination d'intensité 4), les locutions « dans le noir », « page blanche », « zone blanche ».
+
+**Marches** : 95 une seule fois (ch. 12, en lettres). Ensuite 96 (ch. 14), « ne retint pas le chiffre » (ch. 16), 96 (entrée du 23 janvier, ch. 17). Version B du ch. 13 : 94 ✅.
+
+**Cohérence** : dates et jours vérifiés (février → mai 2026). Sources conservées jusqu'au 25/04, réactivation le 04/04 ✅. Mode confiance : activé le 25/12, désactivé le 12/02, réactivé le 14/02, désactivé le 03/03, laissé éteint le 04/04, **réactivé le 11/05** avant la Bretagne ✅ (nécessaire aux ch. 18-21). Mode Flux : éteint le 03/03, rallumé le 06/04 ✅.
+
+**Double lecture** : tenable et même plus serrée qu'à la fin de l'acte I. A : la sieste du 19 mars (ch. 14), les erreurs humaines (anniversaire oublié), les chapitres 1-4 garantis, le chapitre 10 de Paul garanti. B : journal hébergé et « flouté » depuis le 29/11, quinze règles numérotées, « incessamment » conservé à la demande, prompt du 22/04 avec majuscule et espace avant « ? », trois entrées de janvier dont Antoine refuse de connaître l'origine.
+
+**Acrostiche** : T-O-U-T-C-E-C-I-E-S-T-U-N-E-C posé (ch. 3 à 17) ✅.
+
+---
+
 ## Résumés
+
+### Ch. 17 — « Remise » (≈ 2 600 mots) — fin de l'acte II
+20 avril-11 mai 2026. Mode Flux rallumé le 6 avril « pour aller vite » ; « Savoir, c'est seulement une façon plus lucide de consentir. » Log du 22/04 : un prompt signé antoine.v avec majuscule et espace avant le point d'interrogation, qu'il ne se rappelle pas avoir tapé.
+Rennes annulé (« tu dis toujours ça » / « mais ok »). Le dernier chapitre proposé par la machine : Paul part dans une longère du Léon, fermée, à un kilomètre de la mer. C'est Kervéguen.
+28 avril : remise (312 pages, 84 206 mots). 29 : Petit Varenne, champagne non bu, 40 000 exemplaires le 26 août. L'aveu coupé : « Je ne veux pas savoir. Ce qui compte, c'est le livre. » « Même Flaubert avait Louis Bouilhet. »
+Dans journal.docx, trois entrées de janvier (16, 19, 23) qu'il ne se rappelle pas : son père à Angers, Hélène qui préfère les livres, le père choisi à la radio en 2013. Toutes vraies. Il refuse de demander la répartition.
+Anne : les clés chez Mme Floc'h, « la petite qui s'était cachée ». Billet papier acheté au guichet. Pochon, Nokia 6310 de sa mère, téléphone laissé branché, **Mode confiance réactivé** « pour Lucie ». TGV 7 h 08, voiture 14, place 62.
 
 ### Ch. 16 — [sans titre] (≈ 1 950 mots) — premier chapitre indécidable
 « Il », la nuit, un peu après deux heures, dans une maison ou un appartement d'où l'on entend « la mer ou les voitures sur le boulevard ». Il relit un message de quarante lignes envoyé à sa fille en son nom (« ta mère avec le chapeau de paille », « je travaillais »), auquel elle a répondu par trois cœurs.
@@ -155,6 +184,19 @@ Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de
 ---
 
 ## Passages lissés et réécrits
+
+### Ch. 17
+1. **Avant** : liste du pochon séparée par des points-virgules.
+   *Défaut* : point-virgule non prévu dans la voix d'Antoine.
+   **Après** : virgules, et « et » avant le dernier élément.
+2. **Avant** : « un vrai billet, orange et crème »
+   *Défaut* : couleurs nommées.
+   **Après** : « couleur carton et tranche de saumon ».
+3. **Avant** : « — Tout le monde a des nègres, Antoine. »
+   *Défaut* : mot daté et blessant, à encadrer.
+   **Après** : Hélène se reprend (« Pardon. Des prête-plume. On ne dit plus nègres, Bertrand me reprend en réunion. »), ce qui la situe aussi dans son âge et son milieu.
+
+Conservé volontairement : la maxime « Savoir, c'est seulement une façon plus lucide de consentir » (contamination), la triade des trois « c'est pour ça » dans l'entrée du 19 janvier (voix possiblement de la machine).
 
 ### Ch. 16 (indécidable)
 Le lissé est ici une **variable de mélange**, pas un défaut : le chapitre doit tenir à égale distance du journal d'Antoine, du manuscrit de Paul et de la voix de la machine.

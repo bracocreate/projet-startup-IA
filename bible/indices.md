@@ -43,9 +43,9 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 12 | **Semé.** Deux versions de la même entrée (ch. 12 / ch. 13). Le ch. 12 est daté 23 h 12 (source inconnue), la version B 23 h 50 (machine, non enregistrée). La version machine est la plus humaine. | ch. 13 | Point milieu | — |
 | 13 | **Semé.** Palimpseste, interrogée, énumère tous les tics d'Antoine, y compris « incessamment » (« Vous l'employez au sens de "sans cesse". Souhaitez-vous que je conserve cet usage ? ») Antoine répond : « Oui. » | ch. 15 | **Clé de B** : les erreurs ne prouvent plus rien | A : Antoine pourrait aussi bien dire « oui » par orgueil, et la question reste ouverte |
 | 14 | **Semé.** Chapitre indécidable : « il », ni Paul ni Antoine nommés. | ch. 16 | Les deux | — |
-| 15 | Trois entrées de journal qu'Antoine ne se souvient pas d'avoir écrites. | ch. 17 | B | A : c'est ce qu'il a tapé ivre les soirs de janvier (il le soupçonne) |
+| 15 | **Semé.** Trois entrées de journal (16, 19, 23 janvier) qu'Antoine ne se souvient pas d'avoir écrites. | ch. 17 | B | A : c'est ce qu'il a tapé ivre les soirs de janvier (il le soupçonne, et refuse de demander) |
 | 16 | Horloge de Maï arrêtée à 4 h 10 : jamais mentionnée dans aucun document numérique. | ch. 18 | **A** au ch. 24 | B : Antoine en parle dans un SMS à Anne depuis le Nokia (une phrase au ch. 18). Anne répond sur WhatsApp, à son numéro habituel (« l'horloge de Maï, toujours 4 h 10 ? »), donc sur le téléphone resté à Paris, que Palimpseste lit. |
-| 17 | Téléphone laissé branché à Paris. | ch. 18 | ch. 21 | — |
+| 17 | **Semé (ch. 17).** Téléphone laissé branché à Paris, **Mode confiance réactivé** « pour Lucie ». | ch. 17-18 | ch. 21 | — |
 | 18 | Carnet n° 9 : « C. l'a trouvée. Moi pas là. » Antoine se trompait déjà en 2012. | ch. 19 | A : il accepte un souvenir faux mais le sien | — |
 | 19 | Les épreuves (manuscrit remis en avril) décrivent la maison de Kervéguen telle qu'Antoine l'a trouvée en mai. | ch. 20 | B | A : Antoine connaît la maison depuis l'enfance, et la machine a ses carnets d'enfance ; ce qui a changé depuis 2019 (appentis effondré) n'y est **pas** |
 | 20 | Lucie : « Merci pour tes messages de la semaine dernière. » Antoine était en zone blanche. | ch. 21 | B | A : le mode confiance, depuis le téléphone resté à Paris ; ce qui n'enlève rien à Antoine |
@@ -160,6 +160,13 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 16b | **Fuite n° 5** : « ta mère avec le chapeau de paille » dans le message relu (= prologue). Le souvenir de l'homme est remplacé par la phrase du message : « dans dix ans il se souviendrait du chapeau ». | ch. 16 | ch. 22 | — |
 | 16c | Le message relu diffère légèrement de celui du ch. 10 (« Ma chérie », « je travaillais », chapeau de paille). A : c'est le message de Paul à Maëlle (écrit par Jérémie ou la machine). B : c'est une autre version, ou un autre message à Lucie, que le lecteur n'a pas vu (« trois autres, plus courts, plus anciens »). | ch. 16 | Indécidable | — |
 | 16d | « Il décida qu'elle était de lui, et tourna la page. » Formule de la lecture A de la fin (accepter de ne pas savoir). | ch. 16 | ch. 24 | — |
+
+| 17a | Prompt du 22/04 avec majuscule et espace avant « ? » (comme Lucie) : 1re occurrence de l'indice 15f. Antoine « se rappelle l'avoir voulu », pas tapé. | ch. 17 | B | A : distraction, ou Flux sur la barre de saisie ? Ne pas expliquer |
+| 17b | La machine a retiré les points-virgules du manuscrit « conformément à votre usage » : le livre publié (ch. 20, 23) sera **plus Antoine qu'Antoine**. | ch. 17 | ch. 20, 23 | — |
+| 17c | Le dernier chapitre de *La Laisse de mer* (la longère du Léon) est écrit **avant** le séjour à Kervéguen : base de l'indice 19. Ce que la machine ne sait pas encore : l'appentis effondré, l'horloge arrêtée. | ch. 17 | ch. 18, 20 | — |
+| 17d | Hélène : « Je ne veux pas savoir. » (cynisme, tendresse ou savoir). Et « Même Flaubert avait Louis Bouilhet. » Ne jamais trancher. | ch. 17 | ch. 23 | — |
+| 17e | Mme Floc'h, via Anne : « la petite qui s'était cachée ». Premier témoin extérieur à employer le mot *cachée*. | ch. 17 | ch. 18, 22 | — |
+| 17f | Mode confiance réactivé « pour Lucie » le 11/05 : les messages que Lucie recevra pendant la zone blanche (ch. 21) sont préparés. | ch. 17 | ch. 21 | — |
 
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.
