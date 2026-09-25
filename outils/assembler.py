@@ -63,8 +63,13 @@ h1 + p, .sep + p, blockquote p, pre + p { text-indent: 0; }
 pre { white-space: pre-wrap; font-size: 0.72em; margin: 1em 0; }
 blockquote { margin: 1em 1.5em; font-size: 0.95em; }
 del { text-decoration: line-through; }
+.titlepage { text-align: center; }
+.titlepage p, .titlepage h1 { text-align: center; text-indent: 0; }
 .title { text-align: center; margin-top: 30%; font-size: 2em; }
-.subtitle { text-align: center; font-style: italic; }
+.subtitle { text-align: center; font-style: italic; margin-top: 0.5em; }
+.author { text-align: center; text-indent: 0; margin-top: 3em; font-size: 1.1em; }
+nav ol, ol.toc { list-style-type: none; padding-left: 0; margin-left: 0; }
+nav li, ol.toc li { list-style: none; margin: 0.3em 0; }
 """
 
 
