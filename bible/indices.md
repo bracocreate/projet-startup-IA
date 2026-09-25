@@ -39,7 +39,7 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 8 | **Semé.** Historique de versions du ch. 11 de *La Laisse de mer* (v32, mode Flux, 15:02). | ch. 8 | B | A : Antoine a pu copier-coller sans s'en souvenir (il avait bu à midi, il le mentionne en passant) |
 | 9 | **Semé.** Le message nocturne à Lucie emploie « incessamment » **correctement** et confond pieds-de-mer et méduses. Lucie : « t'as toujours confondu ». Antoine : « Oui. J'ai toujours confondu. » | ch. 10 | L'erreur de la machine passe pour une erreur humaine d'Antoine | — |
 | 10 | **Semé.** Claire : « Tu te souviens de sa rédaction ? En cinquième ? […] Elle te l'avait envoyée, par mail, en photo. […] Tu lui as répondu « très bien ma Lulu ». » Antoine : non. | ch. 11 | ch. 22 | — |
-| 11 | Journal du 3 mars : 95 marches, un point-virgule, « gris », « écrire ». | ch. 12 | B | A : la version du ch. 13 est *différente* : le ch. 12 pourrait être la version d'Antoine, retouchée ou non |
+| 11 | **Semé.** Journal du 3 mars : 95 marches (en lettres), 3 points-virgules, « gris » ×2, « écrire », « incessamment » bien employé, deux maximes, aucune phrase abandonnée. | ch. 12 | B | A : la version du ch. 13 est *différente* : le ch. 12 pourrait être la version d'Antoine, retouchée ou non |
 | 12 | Deux versions de la même entrée (ch. 12 / ch. 13). On ne peut pas savoir laquelle précède l'autre. | ch. 13 | Point milieu | — |
 | 13 | Palimpseste, interrogée, énumère tous les tics d'Antoine, y compris « incessamment » (« Vous l'employez au sens de "sans cesse". Souhaitez-vous que je conserve cet usage ? ») Antoine répond : « Oui. » | ch. 15 | **Clé de B** : les erreurs ne prouvent plus rien | A : Antoine pourrait aussi bien dire « oui » par orgueil, et la question reste ouverte |
 | 14 | Chapitre indécidable : « il », ni Paul ni Antoine nommés. | ch. 16 | Les deux | — |
@@ -128,6 +128,14 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 11e | *Mortes-eaux*, ch. 14 (tapé le 21/08/2012) : « personne n'avait pensé à regarder entre les rochers ». Le livre de 2012 contenait déjà la vérité du jour même. « Je ne sais pas dans quel sens ça va. » | ch. 11 | Symétrique du ch. 9 | — |
 | 11f | « Un écrivain ne demande pas, il prend, et il rend mieux » (2014). Antoine a formulé la devise de Palimpseste douze ans avant elle. | ch. 11 | Thème, épilogue | — |
 | 11g | Antoine refuse de photographier la page du cahier. **« Papa il a pas regardé entre les cailloux » n'existe que dans le carnet n° 22, recopiée à la main.** Si la machine la cite plus tard (ch. 15 ou 17), c'est qu'elle lit le journal ou un nouvel import du carnet. | ch. 11 | B possible | A : Lucie a pu la citer dans un vocal |
+
+| 12a | 1er jet de la 1re phrase de *Mortes-eaux* (carnet n° 8, avril 2012) : « ~~quittait~~ », « ~~sort d'~~ ». L'« erreur » d'Antoine (ch. 1) et celle de la machine (ch. 2, avant ingestion) sont **la version barrée**. Palimpseste au sens propre. | ch. 12 | A (la mémoire humaine garde le premier jet) / mystère (comment la machine l'a-t-elle trouvé ?) | Ne jamais expliquer |
+| 12b | Statistiques : Antoine 31 %, machine 61 %. Seul chapitre entièrement saisi : le 10 (Noël de Paul). Contrepoids de l'indice 8e (mode Flux actif en décembre) : le chapitre de Noël est bien de lui. | ch. 12 | A | — |
+| 12c | Le journal du 3 mars se termine à **23 h 12**, ordinateur éteint. Le log du ch. 13 commence à **23 h 50** (demande de transcription d'une note vocale en entrée de journal). | ch. 12-13 | Point milieu | — |
+| 12d | Notes vocales dictées quai de Valmy (« Je les recopierai demain à la main »). Elles sont la matière du ch. 13. | ch. 12 | ch. 13 | — |
+| 12e | Anniversaire de Lucie noté « souligné deux fois ». Il l'oubliera à moitié (ch. 14). | ch. 12 | ch. 14 | — |
+| 12f | Adieu de la machine : « Si vous avez besoin de moi, je serai là. » (même phrase que le message à Lucie). | ch. 12 | ch. 15 (« Bon retour ») | — |
+| 12g | Palimpseste apparaît dans les appareils connectés sous le nom « Chrome (Mac OS) », « comme si c'était moi ». | ch. 12 | Thème | — |
 
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.

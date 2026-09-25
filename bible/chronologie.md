@@ -83,7 +83,10 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 12/02/2026, 18 h 20 (coeff. 52) | Lucie appelle pour remercier. Antoine découvre le message, le Mode confiance (activé le 25/12), la liste des 11 réponses. Désactivation. Message à Claire ; RDV le 20 à 18 h 30. | ch. 10 |
 | 14/02/2026, 23 h 40 | Mode confiance réactivé « pour voir ». | ch. 10 |
 | 20/02/2026 (coeff. 97) | Antoine chez Claire, cabinet boulevard de la Liberté, 18 h 30 → 20 h. Version de Claire. Cahier « Lucie — les mots », page du 21/08/12. Train de 20 h 35. | ch. 11 |
-| 03/03/2026 | Entrée de journal « Sevrage » (auteur incertain). | ch. 12 |
+| 21 → 03/03/2026 | Onze jours de décision. Dim. 1er mars, 18 h : appel à Lucie (11 min) ; promesse d'avril à Rennes. Jeudi 26/02 : mail d'Hélène (Bertrand veut la rentrée). | ch. 12 |
+| 03/03/2026, 9 h 10 (coeff. 96) | Mode confiance et Flux désactivés, messageries déconnectées, résiliation (effet au 26/03, Sources conservées jusqu'au 25/04). Statistiques : 71 408 mots, Antoine 31 %. Carnet n° 8 p. 71 : 1er jet de la 1re phrase de *Mortes-eaux*. | ch. 12 |
+| 03/03/2026, 15 h | Monoprix Parmentier (7 cahiers, 2 Bic, un taille-crayon). **95 marches en descendant.** Canal Saint-Martin, pêcheurs à l'aimant. **Notes vocales dictées quai de Valmy.** | ch. 12 |
+| 03/03/2026, 23 h 12 | Fin de l'entrée « Sevrage » (auteur incertain), ordinateur éteint. | ch. 12 |
 | 03/03/2026, 23 h 50 | Log : demande de transcription d'une note vocale en entrée de journal. Deux versions. | ch. 13 |
 | 04/03 → 02/04/2026 | Sevrage. Écriture à la main. Pages mortes. | ch. 14 |
 | 21/03/2026 | Anniversaire de Lucie (20 ans). Antoine l'oublie à moitié : message à 23 h 58. | ch. 14 |

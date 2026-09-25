@@ -33,6 +33,13 @@
 
 ## Résumés
 
+### Ch. 12 — « Sevrage » (≈ 2 400 mots) — point milieu
+3 mars 2026. Sept cahiers Clairefontaine sur la table (31,50 €). Antoine désactive le Mode confiance et le mode Flux, déconnecte messagerie et WhatsApp, résilie (« je voudrais savoir ce que j'écris ») : actif jusqu'au 26 mars, Sources conservées trente jours. Adieu de la machine : « Si vous avez besoin de moi, je serai là. »
+Statistiques du manuscrit : Antoine 31 %, machine 61 %, 8 % retouchés ; seul chapitre entièrement de lui, le 10 (le Noël de Paul). Dans le carnet n° 8, la 1re phrase de *Mortes-eaux* avec ses ratures : « ~~quittait~~ », « ~~sort d'~~ » : le premier jet, remonté chez lui et chez la machine.
+Ce qui l'a décidé : « Papa il a pas regardé entre les cailloux. » « Il est temps de regarder entre les rochers. » Il écrira à la main jusqu'au bout. Mail d'Hélène (la rentrée, trois points d'exclamation). Appel à Lucie (15/20, « pieds-de-mer » « très productif »), promesse d'avril ; son anniversaire noté, souligné deux fois.
+Il faisait gris. En descendant : **quatre-vingt-quinze marches**. Pêcheurs à l'aimant sur le canal. Notes dictées dans le téléphone quai de Valmy. La dame aux cahiers Séyès.
+« Je relis le carnet au début de chaque séance, comme une feuille de route. » « On ne se sèvre pas d'une voix… » Ordinateur éteint à 23 h 12.
+
 ### Ch. 11 — « Boulevard de la Liberté » (≈ 2 900 mots)
 20 février 2026. Salle d'attente de Claire (labyrinthe à billes, phonèmes, pull au dinosaure). Elle fait répéter *crocodile* à un enfant : « Voilà. » Antoine récite sa phrase préparée (triade) : « Tu parles comme un communiqué, Antoine. Tu parlais pas comme ça. »
 Récit de Claire : 21 août 2012, trois pages de lecture, Lucie disparue, appel sur le fixe de Maï, Antoine arrivé « tard », **en chaussons écossais**, sans lunettes, qui pleure plus fort que tout le monde. « C'est moi qui l'ai trouvée », derrière le corps de garde.
@@ -120,6 +127,14 @@ Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de
 ---
 
 ## Passages lissés et réécrits
+
+### Ch. 12 (chapitre volontairement trop lisse)
+Ici, la règle s'inverse : le chapitre doit « couler un peu trop bien ». Les réécritures ont servi à **doser** le lissé, pas à le supprimer.
+1. **Points-virgules** : 7 au premier jet, ramenés à 3, le chiffre prévu (Flux, porte entrouverte, « incessamment », descente). Au-delà de 3, le lecteur attentif n'aurait plus eu le doute, il aurait eu la certitude.
+2. **Avant** : « bien rangé au fond » — *Défaut* : « au fond » (banni, même au sens propre, par prudence). **Après** : « bien rangé dans la vase ».
+3. **Cohérence** : le seul chapitre de *La Laisse de mer* tapé entièrement par Antoine est le **10** (le Noël de Paul, 24/12), pas le 18 (numérotation du roman compatible avec la chronologie d'écriture : 10 en décembre, 11 le 8 janvier, 14 le 21 janvier).
+
+Conservé **volontairement** : triades (« si c'est plat, si c'est mort, si c'est bon », « lentes, gauches, pleines de phrases qui boitent »), « Ce qui m'a décidé, ce n'est pas […]. C'est une phrase », « Ce n'étaient pas des erreurs. C'était le premier jet », les deux maximes, le coefficient de variation plus bas que d'habitude (0,84 contre ~1,05).
 
 ### Ch. 11
 1. **Avant** : « ils ont blanchi par mèches »

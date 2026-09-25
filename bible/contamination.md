@@ -64,3 +64,10 @@ intensité
 | 10 | « C'est la lettre que je n'ai jamais écrite. » / « je voudrais avoir écrit toutes les phrases de ce message » | « écrire » pour lui-même | Prévu (deux fois, au lieu d'une : il s'agit précisément du message qu'il n'a pas écrit). Trois autres occurrences corrigées. |
 | 10 | « avec son petit rond de feu vert, je veux dire de feu qu'on peut passer » | couleur nommée, puis corrigée | Non prévu au plan, **gardé** : première couleur directe d'Antoine, qu'il rattrape aussitôt. Préfigure le « gris » du ch. 12. |
 | 11 | « Je voudrais qu'on puisse en parler sereinement, sans reproches, et en toute honnêteté. » | triade + registre lisse | Prévu. Claire : « Tu parles comme un communiqué, Antoine. Tu parlais pas comme ça. » Premier personnage à repérer la contamination à l'oreille (c'est son métier). |
+| 12 | « Quatre-vingt-quinze marches jusqu'à la porte cochère. » | **95**, en lettres | Prévu. Le vrai chiffre (PV d'AG), jamais trouvé par Antoine avant. Il le justifie (« je compte pour compter »). |
+| 12 | « L'interrupteur est passé au gris » / « Cet après-midi, il faisait gris. » | couleur directe | Prévu (deux fois). |
+| 12 | « Hélène attend la suite incessamment ; elle me l'a encore écrit jeudi » | « incessamment » **bien employé** + point-virgule | Prévu. Au ch. 10 il vient d'apprendre le bon sens : A (il s'est corrigé) / B (la machine ne fait pas la faute). |
+| 12 | Flux ; porte entrouverte ; descente | 3 points-virgules | Prévu. |
+| 12 | « Je vais écrire *La Laisse de mer* à la main » / « ce que j'écris » | « écrire » | Prévu, nombreux. |
+| 12 | « Il est temps de regarder entre les rochers. » / « On ne se sèvre pas d'une voix. On en retrouve une autre, qui était là avant, et qui attendait qu'on se taise. » | maximes | Prévu. La seconde clôt presque le chapitre. |
+| 12 | « si c'est plat, si c'est mort, si c'est bon » ; « Ce qui m'a décidé, ce n'est pas […]. C'est une phrase » ; « Ce n'étaient pas des erreurs. C'était le premier jet » | triades, « ce n'est pas X, c'est Y » | Prévu (lissé général). Aucune phrase abandonnée dans le chapitre (Antoine en a d'habitude une ou deux). |

@@ -26,7 +26,7 @@ Lien : `indices.md` n° 27-28, épilogue dans `plan/plan_detaille.md`.
 | A7 | Ch. 5 ✅ | (Posé, avec en prime : « Hier j'en ai laissé trois. J'en ai fini une ce matin, au hasard, pour être dans les clous. ») Antoine se fixe « deux phrases inachevées par jour, pas plus, sinon c'est de la pose » | Discipline d'écrivain. = règle n° 6, avec son plafond chiffré. |
 | A8 | Ch. 6 ✅ | (Posé : « Des chapitres de 3 000 mots, pas plus. Les gens lisent entre deux stations, Antoine. ») Hélène : « Des chapitres de 3 000 mots, pas plus, les gens lisent entre deux stations. » | Conseil d'éditrice. = paramètre du CLAUDE.md (§2). |
 | A9 | Ch. 7 ✅ | (Posé, et le décompte est **exact** : 412 mots, en-tête « Mercredi 24. » compris, vérifié par script.) Une entrée qui se termine par son propre décompte, entre parenthèses : « (412 mots) » | Antoine compte tout. = « Indique le nombre de mots du chapitre » (§7). |
-| A10 | Ch. 12 | « Je relis le carnet au début de chaque séance, comme une feuille de route. » | Rituel de sevrage. = « relis-le au début de chaque session » (1re ligne de CLAUDE.md). |
+| A10 | Ch. 12 ✅ | (Posé : « Ce soir, je relis le carnet au début de chaque séance, comme une feuille de route. C'est la seule règle que je me donne. ») « Je relis le carnet au début de chaque séance, comme une feuille de route. » | Rituel de sevrage. = « relis-le au début de chaque session » (1re ligne de CLAUDE.md). |
 | A11 | Ch. 14 | Dans les pages manuscrites, une phrase isolée entre crochets : `[à réécrire en profondeur : structure, rythme, lexique]` | Note d'Antoine sur ses pages mortes. = consigne Pangram du §5bis, quasi mot pour mot. |
 | A12 | Ch. 15 | Palimpseste numérote les tics d'Antoine dans l'ordre de `voix.md`. | Voir indice 27. |
 | A13 | Ch. 19 | Les trois versions de la grève portent des titres de fichier : `version_A`, `version_B`, `version_C`. | Antoine imite la machine pour se moquer d'elle. |
@@ -60,7 +60,7 @@ Convention : on ignore le titre, les lignes de date, les en-têtes (`LA LAISSE D
 | 9 | **C** | Dégât des eaux | « Ce » ✅ (posé : « Ce fut M. Stéphan… », 1er mot du texte, après l'en-tête du manuscrit) |
 | 10 | **I** | Réponses suggérées | « Il » ✅ (posé : « Il y a un tiroir, dans la cuisine… ») |
 | 11 | **E** | Boulevard de la Liberté | « Elle » ✅ (posé : « Elle m'a fait attendre dans la salle d'attente. ») |
-| 12 | **S** | Sevrage | « Sur » |
+| 12 | **S** | Sevrage | « Sur » ✅ (posé : « Sur la table de la cuisine… ») |
 | 13 | **T** | Note vocale | « Transcription » |
 | 14 | **U** | Clairefontaine | « Une » |
 | 15 | **N** | Bon retour | « Nuit » |
