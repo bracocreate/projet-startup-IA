@@ -59,8 +59,8 @@ def premiere(largeur, hauteur):
     if os.path.exists(chemin):
         img = Image.open(chemin).convert("RGB")
         # On retire le filet du cadre Canva (trop près du massicot une fois imprimé)
-        m = int(img.width * 0.055)
-        img = img.crop((m, m, img.width - m, img.height - m))
+        mx, my = int(img.width * 0.031), int(img.height * 0.0175)   # filet à ~2,9 % et ~1,6 %
+        img = img.crop((mx, my, img.width - mx, img.height - my))
         echelle = max(largeur / img.width, hauteur / img.height)
         img = img.resize((round(img.width * echelle), round(img.height * echelle)), Image.LANCZOS)
         x, y = (img.width - largeur) // 2, (img.height - hauteur) // 2
@@ -79,7 +79,7 @@ def fond_sable(image_face, largeur, hauteur):
     """Quatrième et dos : le ton du sable de la première (bande basse), avec un grain léger."""
     bande = image_face.crop((0, int(image_face.height * 0.88), image_face.width, image_face.height))
     teinte = bande.resize((1, 1), Image.LANCZOS).getpixel((0, 0))
-    teinte = tuple(round(0.6 * c + 0.4 * s) for c, s in zip(teinte, SABLE))
+    teinte = tuple(round(0.5 * c + 0.5 * s) for c, s in zip(teinte, SABLE))
     fond = Image.new("RGB", (largeur, hauteur), teinte)
     grain = Image.effect_noise((largeur // 2, hauteur // 2), 18).resize((largeur, hauteur))
     grain = Image.merge("RGB", [grain] * 3)
