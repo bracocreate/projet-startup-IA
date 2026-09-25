@@ -44,7 +44,7 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 13 | **Semé.** Palimpseste, interrogée, énumère tous les tics d'Antoine, y compris « incessamment » (« Vous l'employez au sens de "sans cesse". Souhaitez-vous que je conserve cet usage ? ») Antoine répond : « Oui. » | ch. 15 | **Clé de B** : les erreurs ne prouvent plus rien | A : Antoine pourrait aussi bien dire « oui » par orgueil, et la question reste ouverte |
 | 14 | **Semé.** Chapitre indécidable : « il », ni Paul ni Antoine nommés. | ch. 16 | Les deux | — |
 | 15 | **Semé.** Trois entrées de journal (16, 19, 23 janvier) qu'Antoine ne se souvient pas d'avoir écrites. | ch. 17 | B | A : c'est ce qu'il a tapé ivre les soirs de janvier (il le soupçonne, et refuse de demander) |
-| 16 | Horloge de Maï arrêtée à 4 h 10 : jamais mentionnée dans aucun document numérique. | ch. 18 | **A** au ch. 24 | B : Antoine en parle dans un SMS à Anne depuis le Nokia (une phrase au ch. 18). Anne répond sur WhatsApp, à son numéro habituel (« l'horloge de Maï, toujours 4 h 10 ? »), donc sur le téléphone resté à Paris, que Palimpseste lit. |
+| 16 | **Semé (ch. 18).** Horloge de Maï arrêtée à 4 h 10 : jamais mentionnée dans aucun document numérique avant le SMS à Anne. | ch. 18 | **A** au ch. 24 | B : Antoine en parle dans un SMS à Anne depuis le Nokia (une phrase au ch. 18). Anne répond sur WhatsApp, à son numéro habituel (« l'horloge de Maï, toujours 4 h 10 ? »), donc sur le téléphone resté à Paris, que Palimpseste lit. |
 | 17 | **Semé (ch. 17).** Téléphone laissé branché à Paris, **Mode confiance réactivé** « pour Lucie ». | ch. 17-18 | ch. 21 | — |
 | 18 | Carnet n° 9 : « C. l'a trouvée. Moi pas là. » Antoine se trompait déjà en 2012. | ch. 19 | A : il accepte un souvenir faux mais le sien | — |
 | 19 | Les épreuves (manuscrit remis en avril) décrivent la maison de Kervéguen telle qu'Antoine l'a trouvée en mai. | ch. 20 | B | A : Antoine connaît la maison depuis l'enfance, et la machine a ses carnets d'enfance ; ce qui a changé depuis 2019 (appentis effondré) n'y est **pas** |
@@ -167,6 +167,13 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 17d | Hélène : « Je ne veux pas savoir. » (cynisme, tendresse ou savoir). Et « Même Flaubert avait Louis Bouilhet. » Ne jamais trancher. | ch. 17 | ch. 23 | — |
 | 17e | Mme Floc'h, via Anne : « la petite qui s'était cachée ». Premier témoin extérieur à employer le mot *cachée*. | ch. 17 | ch. 18, 22 | — |
 | 17f | Mode confiance réactivé « pour Lucie » le 11/05 : les messages que Lucie recevra pendant la zone blanche (ch. 21) sont préparés. | ch. 17 | ch. 21 | — |
+
+| 18a | Mme Floc'h : « Maï disait perdue. Moi je dis cachée. » « J'étais à ma fenêtre. Je vois la grève d'ici, avec les lunettes. » Témoin possible de ce qui s'est vraiment passé. Antoine ne lui demande pas si elle a vu la petite. | ch. 18 | ch. 22 (ou ch. 24) | — |
+| 18b | Réparation de la fuite à la main, sans aide : signe fort de la lecture A (le corps et le métier reviennent). | ch. 18 | A | — |
+| 18c | Quatorze marches, comptées juste en 1985 et en 2026 : dans la maison de l'enfance, Antoine compte bien. Contraste avec les 94/96 de Paris. | ch. 18 | A | B : la machine aussi aurait compté juste |
+| 18d | SMS à Lucie : « Je ne lis pas WhatsApp. » Tout message WhatsApp reçu par Lucie pendant son séjour sera donc suspect à ses yeux. Prépare « Je m'en doutais » (ch. 21). | ch. 18 | ch. 21 | — |
+| 18e | Appentis effondré en janvier 2026, auréole « en forme de Finistère », table déplacée puis remise dans ses traces : détails **absents** du dernier chapitre de *La Laisse de mer* (écrit le 27/04). | ch. 18 | ch. 20 | — |
+| 18f | Trois cartons *ANTOINE* au grenier : le carnet n° 9 y est (ch. 19). | ch. 18 | ch. 19 | — |
 
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.

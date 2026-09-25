@@ -55,6 +55,13 @@
 
 ## Résumés
 
+### Ch. 18 — « Constat » (≈ 3 550 mots)
+Carnet n° 23. 12 mai 2026 : TGV, vent de Brest, une Clio de location (constat contradictoire sur la rayure). Les mains retrouvent la route (le calvaire au Christ sans bras, les « chardons pour géants »). Mme Floc'h, 81 ans, clé au bouchon de liège, far, « casser la soif » : « Maï disait perdue. Moi je dis cachée. » « Tu avais tes pantoufles. »
+Procès-verbal de constatations de la maison : buffet (vétusté 40 %), **horloge arrêtée sur 4 h 10**, téléphone fixe en bakélite (celui de 2012), quatorze marches, auréole « en forme de Finistère » dans la chambre du haut, table remise dans ses traces, appentis effondré, 23 ardoises.
+13 mai : recherche de fuite à plat ventre sous les tôles, canalisation de cuivre fendue, collier de réparation à 12,90 € : « J'ai fait ça. Moi. » Deux œufs durs sur le seuil.
+Zone blanche : le talus, le Nokia de sa mère et sa sonnerie de piano. SMS à Anne (l'horloge) : elle répond… sur WhatsApp, donc au téléphone resté à Paris. Hélène : épreuves papier mi-juin, par La Poste. SMS à Lucie : nouveau numéro, « Je ne lis pas WhatsApp ».
+Nuits : la mer ou les camions, 4 h 10 à l'horloge, 27 ardoises au lieu de 23, quatorze marches justes. Super U, *kenavo*. Grande marée regardée d'en haut. Au grenier, trois cartons *ANTOINE*, pas ouverts.
+
 ### Ch. 17 — « Remise » (≈ 2 600 mots) — fin de l'acte II
 20 avril-11 mai 2026. Mode Flux rallumé le 6 avril « pour aller vite » ; « Savoir, c'est seulement une façon plus lucide de consentir. » Log du 22/04 : un prompt signé antoine.v avec majuscule et espace avant le point d'interrogation, qu'il ne se rappelle pas avoir tapé.
 Rennes annulé (« tu dis toujours ça » / « mais ok »). Le dernier chapitre proposé par la machine : Paul part dans une longère du Léon, fermée, à un kilomètre de la mer. C'est Kervéguen.
@@ -184,6 +191,17 @@ Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de
 ---
 
 ## Passages lissés et réécrits
+
+### Ch. 18
+1. **Avant** : « un vernis qui a blanchi par plaques »
+   *Défaut* : couleur par verbe (règle n° 3).
+   **Après** : « un vernis qui a tourné par plaques, laiteux, comme un œil de vieux chien ».
+2. **Avant** : « des champs de choses grises et piquantes »
+   *Défaut* : couleur nommée.
+   **Après** : « des champs de choses couleur de zinc, piquantes ».
+3. **Avant** : « un regard au fond du jardin » (banni par prudence) → « tout en bas du jardin ». Et l'heure de l'appel d'Hélène (18 h 40 → 21 h 15) pour ne pas contredire la scène de la grande marée.
+
+Reflux de contamination vérifié : 0 point-virgule, 0 couleur directe, bretonnismes (*ma Doue*, *casser la soif*, *pochon*, *ribine*, *kenavo*), comptes faux (23/27 ardoises), une rature ouverte (« Il y avait dans le paysage »).
 
 ### Ch. 17
 1. **Avant** : liste du pochon séparée par des points-virgules.

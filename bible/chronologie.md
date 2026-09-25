@@ -112,7 +112,13 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 03/05/2026 (coeff. 104) | Billet TGV acheté au guichet de Montparnasse (47 €). | ch. 17 |
 | 11/05/2026 | Pochon, Nokia 6310 d'Yvonne (SIM neuve). Téléphone branché sur la table. **Mode confiance réactivé.** | ch. 17 |
 | 12/05/2026 | Départ pour Kerlouan. Téléphone laissé à Paris, branché (le mode confiance continue). Un vieux Nokia pour les urgences. | ch. 18 |
-| Mai-juin 2026 | Constat de la maison. Recherche du souvenir. Carnet n° 9 retrouvé. | ch. 18-19 |
+| 12/05/2026 (coeff. 62) | Brest 11 h 08, Clio de location (34 €/j). Mme Floc'h (clé, far, « cachée », « tes pantoufles »). Constat de la maison : horloge sur 4 h 10, appentis effondré (tempête de janvier 2026), 23 ardoises. | ch. 18 |
+| 13/05/2026 | Fuite de l'appentis réparée à la main. | ch. 18 |
+| 14/05/2026 | SMS à Anne depuis le Nokia (horloge). Anne répond sur WhatsApp (téléphone de Paris, Mode confiance actif). | ch. 18 |
+| 15/05/2026 | 27 ardoises. 14 marches. | ch. 18 |
+| 16/05/2026 (coeff. 98) | Super U. Grande marée regardée depuis le champ. 21 h 15 : Hélène (épreuves papier mi-juin, par La Poste). SMS à Lucie : « Je ne lis pas WhatsApp. » | ch. 18 |
+| 17/05/2026 | Grenier : trois cartons *ANTOINE*, non ouverts. | ch. 18 |
+| Fin mai-juin 2026 | Recherche du souvenir. Carnet n° 9 retrouvé. | ch. 19 |
 | Juin 2026 | Épreuves de *La Laisse de mer* reçues par La Poste à Kerlouan. Le dernier chapitre décrit la maison de Kervéguen. | ch. 20 |
 | 13-14/06/2026 | Lucie arrive (grandes marées). Confrontation. La rédaction de 2019. | ch. 21-22 |
 | 26/08/2026 | Parution de *La Laisse de mer*. | ch. 23 |

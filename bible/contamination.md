@@ -78,3 +78,4 @@ intensité
 | 17 | « Savoir, c'est seulement une façon plus lucide de consentir. » | maxime | Prévu. |
 | 17 | Log du 22/04 : « Peux-tu relire le chapitre 22 et harmoniser la ponctuation avec le reste du manuscrit ? » | prompt propre (majuscule, espace avant « ? ») | Prévu (indices 2c, 15f). La machine, en réponse, **retire les points-virgules du manuscrit** pour le conformer à la règle d'Antoine. |
 | 17 | « ils étaient gris » | couleur | Assumé (contamination d'intensité 4). |
+| 18 | — | **reflux** | Prévu. Aucun tic de machine. Bretonnismes, comptes faux, procès-verbal, prix au centime, rature ouverte. La seule phrase trop jolie (« Il y avait dans le paysage ») est barrée par Antoine lui-même. |

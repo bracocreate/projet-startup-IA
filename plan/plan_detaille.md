@@ -71,6 +71,8 @@ Pour chaque chapitre : **narrateur · forme · enjeu · indice**. Les numéros d
 
 ## ACTE III — Le palimpseste
 
+> **Décision de l'auteur (fin de l'acte II)** : allonger l'acte III pour approcher les 75 000 mots. Nouvelles cibles : ch. 18 ≈ 4 000 · ch. 19 ≈ 4 000 · ch. 20 ≈ 2 800 · ch. 21 ≈ 4 500 · ch. 22 ≈ 4 000 · ch. 23 ≈ 4 200 · ch. 24 ≈ 4 300 · épilogue ≈ 700 (total acte III + épilogue ≈ 28 500 ; livre ≈ 73 500). Plus de scènes sur place (Kervéguen, l'estran, Mme Floc'h, Roscoff, la tournée).
+
 ### 18. « Constat » (~3 200)
 **Narrateur** : Antoine (carnet n° 23, transcription). **Forme** : carnet manuscrit, ratures, bretonnismes qui remontent. Arrivée à Kervéguen le 12 mai, clés chez Mme Floc'h. La maison fermée depuis 2019 : Antoine fait un constat de dégâts des eaux en règle, comme à la MOA (cause et circonstances, vétusté des meubles de Maï). L'horloge arrêtée sur 4 h 10. Zone blanche : il faut monter sur le talus pour une barre. Un SMS à Anne depuis le Nokia, pour les compteurs. Il dort mal, il écoute la mer, il compte les ardoises tombées. **Enjeu** : se retrouver par le métier, le corps, la langue. **Indice** : 16, 17. Reflux de la contamination.
 
