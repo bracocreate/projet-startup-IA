@@ -6,6 +6,13 @@
 
 ## Résumés
 
+### Ch. 7 — « Nuit-matin » (≈ 2 450 mots)
+20-26 décembre 2025, grandes marées d'hiver. Affectation des 20 000 € (fisc, loyer, syndic, 49 € de Palimpseste). 183 pages, il ne réécrit plus que les débuts de paragraphes. La phrase du riz bio est de la machine.
+SMS avec Lucie reproduits tels quels. Il ment (« une relecture » le 26). M. Réchou et son seau de 12 litres sous l'auréole : le syndic vient le 29 janvier avec un expert.
+Dans la baignoire, carnet n° 7, avril 2011, p. 38 : une page qui n'est pas de son écriture, avec les mots de Lucie et la même spirale que dans le carnet n° 22. « Deux personnes au monde… dont une est moi. »
+24 décembre : réveillon seul, lambig pour Maï, un point-virgule, une maxime, la scène de Paul tapée « moi-même ». L'entrée se termine par « (412 mots) » (et en fait exactement 412).
+Log du 25/12, 1 h 48 → 2 h 13 : souvenir « heureux » inventé ou non (les **chaussons écossais**), puis **Mode confiance activé** (« reponds lui mieux que moi »). 26 décembre : aucun souvenir de la nuit. Le livre des algues déjà offert en 2019. 94 marches.
+
 ### Ch. 6 — « La sole » (≈ 2 700 mots)
 Jeudi 11 décembre 2025, coefficient 44, mortes-eaux. Le matin, Antoine demande à Palimpseste ce qu'Hélène va dire : la machine prédit, d'après 1 214 courriels, l'entrée en matière, la mère, « enfin quelqu'un », les chapitres trop longs.
 Au Petit Varenne, tout arrive dans l'ordre. Malentendu : « Ta mère est magnifique » (Paul / Yvonne, morte en 2016). Hélène lit la phrase des bigorneaux : « Ça, c'est toi. Personne d'autre ne peut écrire ça. » Antoine rit trop fort, deuxième Saint-Joseph.
@@ -58,6 +65,19 @@ Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de
 ---
 
 ## Passages lissés et réécrits
+
+### Ch. 7
+1. **Avant** : « comme on regarde une photo de soi à un âge où on était beau. »
+   *Défaut* : comparaison attendue, nostalgique.
+   **Après** : « comme on regarde des résultats de prise de sang quand, pour une fois, tous les chiffres sont dans la colonne de gauche. »
+2. **Avant** : « un trou propre, net, comme une dent qu'on vous a arrachée pendant que vous dormiez. »
+   *Défaut* : image générique.
+   **Après** : « un trou propre, net, aux bords francs, comme ceux qu'on fait à la carotteuse dans une dalle de béton pour passer une évacuation. »
+3. **Avant** : « …entre remarquer une chose et savoir qu'on la remarquerait. » (fin de paragraphe)
+   *Défaut* : paragraphe qui conclut sur une idée.
+   **Après** : ajout de « Le riz bio coûte 3,20 € le kilo chez Naturalia, rue de la Roquette. J'ai vérifié. »
+
+Autres : « J'ai mis une minute à écrire "Non" » → « taper » (règle n° 7). **Laissés volontairement** (contamination prévue) : le point-virgule du camembert et la maxime « On n'est jamais aussi seul que le soir où tout le monde a quelqu'un », déplacée en fin de paragraphe.
 
 ### Ch. 6
 1. **Avant** : « comme ces chiens qui aboient avant l'orage. »

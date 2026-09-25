@@ -25,7 +25,7 @@ Lien : `indices.md` n° 27-28, épilogue dans `plan/plan_detaille.md`.
 | A6 | Ch. 3 ✅ | Posé : « ici un détail concret, un prix » (et la machine s'exécute : *Le Télégramme*, 1,50 €) · « couper la triade. Toujours couper la triade. » · « pas de couleurs. Jamais. On se l'était dit. » · « Règle de la maison » · « Une phrase. Pas deux. » · le décompte « 1 406 mots » en fin de chapitre (anticipe A9). **Exception de dosage assumée** : le ch. 3 est le chapitre des marges. | Ses annotations de travail. À la fin : des instructions de génération, et le « on » de « On se l'était dit » ne désigne plus Antoine et Palimpseste mais le livre et sa consigne. |
 | A7 | Ch. 5 ✅ | (Posé, avec en prime : « Hier j'en ai laissé trois. J'en ai fini une ce matin, au hasard, pour être dans les clous. ») Antoine se fixe « deux phrases inachevées par jour, pas plus, sinon c'est de la pose » | Discipline d'écrivain. = règle n° 6, avec son plafond chiffré. |
 | A8 | Ch. 6 ✅ | (Posé : « Des chapitres de 3 000 mots, pas plus. Les gens lisent entre deux stations, Antoine. ») Hélène : « Des chapitres de 3 000 mots, pas plus, les gens lisent entre deux stations. » | Conseil d'éditrice. = paramètre du CLAUDE.md (§2). |
-| A9 | Ch. 7 | Une entrée qui se termine par son propre décompte, entre parenthèses : « (412 mots) » | Antoine compte tout. = « Indique le nombre de mots du chapitre » (§7). |
+| A9 | Ch. 7 ✅ | (Posé, et le décompte est **exact** : 412 mots, en-tête « Mercredi 24. » compris, vérifié par script.) Une entrée qui se termine par son propre décompte, entre parenthèses : « (412 mots) » | Antoine compte tout. = « Indique le nombre de mots du chapitre » (§7). |
 | A10 | Ch. 12 | « Je relis le carnet au début de chaque séance, comme une feuille de route. » | Rituel de sevrage. = « relis-le au début de chaque session » (1re ligne de CLAUDE.md). |
 | A11 | Ch. 14 | Dans les pages manuscrites, une phrase isolée entre crochets : `[à réécrire en profondeur : structure, rythme, lexique]` | Note d'Antoine sur ses pages mortes. = consigne Pangram du §5bis, quasi mot pour mot. |
 | A12 | Ch. 15 | Palimpseste numérote les tics d'Antoine dans l'ordre de `voix.md`. | Voir indice 27. |
@@ -55,7 +55,7 @@ Convention : on ignore le titre, les lignes de date, les en-têtes (`LA LAISSE D
 | 4 | **O** | Ty Gwenn | « On » ✅ (posé : « On ne devrait pas avoir le droit… ») |
 | 5 | **U** | Mémoire longue | « Un » ✅ (posé : « Un homme de quarante-sept ans… ») |
 | 6 | **T** | La sole | « Toujours » ✅ (posé : « Toujours la sole. ») |
-| 7 | **C** | Nuit-matin | « Coefficient » |
+| 7 | **C** | Nuit-matin | « Coefficient » ✅ (posé : « Coefficient 96 à Brest… ») |
 | 8 | **E** | Historique | « En » |
 | 9 | **C** | Dégât des eaux | « Ce » / « Chez » |
 | 10 | **I** | Réponses suggérées | « Il » |
@@ -92,7 +92,7 @@ Le prologue commence par « Racontez » : c'est l'ordre, et le reste en est l'ex
 | Ch. | Fuite | Statut |
 |-----|-------|--------|
 | 5 | Dans une proposition de scène pour *La Laisse de mer* : « une place exacte pour quelqu'un de petit », « petites bulles grises », « Il se rappelait qu'il n'était pas là » | ✅ posé |
-| 7 | Log de Noël : une réponse mentionne des « chaussons écossais » | prévu |
+| 7 | Log de Noël : « dans vos chaussons écossais, ceux que vous mettiez l'été pour ne pas salir le carrelage » | ✅ posé |
 | 10 | Le message à Lucie : « je suis arrivé en retard, tu le sais » (Lucie croit à un aveu du père) | prévu |
 | 15 | La version « lissée » de la grève : l'homme sort de la maison ; Antoine ne relève pas | prévu |
 | 16 | Chapitre indécidable : la femme au chapeau de paille | prévu |

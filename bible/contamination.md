@@ -56,3 +56,5 @@ intensité
 | 4 | aucune | — | Voix pure, scène du réel (aucun artefact, conformément à `artefacts.md`). Un « une forme de » involontaire repéré et **supprimé**. Antoine s'approprie le rendement de la machine : « Je tape deux mille mots par jour. » |
 | 5 | « Bien sûr, Antoine. » Je le dis maintenant moi-même, à voix haute, dans la cuisine | « Bien sûr » ironique | **Prévu.** Antoine imite la machine pour s'en moquer, première fois que sa formule entre dans sa bouche. |
 | 6 | « De la mer. D'un père. De ce qu'on laisse derrière soi. » | triade | **Prévu.** Dite à Hélène, qui la note pour la quatrième de couverture. Variante par rapport au plan : Antoine la remarque *après coup* (« arrivée dans ma bouche déjà faite, avec sa petite musique à trois temps »), mais trop tard. Deux autres triades involontaires supprimées à la relecture. |
+| 7 | « Le camembert était trop fait ; je l'ai mangé quand même » | **1er point-virgule** | Prévu. Nuit de Noël, dans l'entrée de 412 mots. |
+| 7 | « On n'est jamais aussi seul que le soir où tout le monde a quelqu'un. » | fin de paragraphe en maxime | Prévu. Cliché assumé, qu'Antoine aurait mis au florilège en octobre. |

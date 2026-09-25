@@ -35,7 +35,7 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 4 | **Semé** (sous la forme `IMG_4471.jpg … (lucie.vsr@…, 14/05/2019)` + `IMG_4472.jpg`). Dans la liste des fichiers ingérés : `IMG_4471.jpg (pièce jointe, mail du 14/05/2019, expéditeur : lucie.vsr@…)` | ch. 5 | ch. 22 : la machine connaissait la rédaction | Aucun lecteur ne le remarquera. C'est voulu. |
 | 5 | **Semé.** « Il manque le n° 9. […] Perdu dans un déménagement, sans doute » + « un trou de six mois dans ma vie […] que personne ne pourra jamais importer ». | ch. 5 | ch. 19 : carnet retrouvé à Kerlouan, jamais numérisé → **A** | — |
 | 6 | **Semé** (« Ça, c'est toi. Personne d'autre ne peut écrire ça. », 8e étoile). Hélène cite comme « tellement toi » une phrase qu'on a lue au ch. 2 dans une réponse de Palimpseste. | ch. 6 | B | A : Antoine avait repris la phrase à son compte, il le dit lui-même au ch. 3 |
-| 7 | Log du 25/12, 02:13 : activation du Mode confiance. Aucun commentaire d'Antoine. | ch. 7 | ch. 10 | — |
+| 7 | **Semé.** Log du 25/12, 02:13 : activation du Mode confiance (« fais ce que tu veux. reponds lui mieux que moi » / « ACTIVER »). Aucun commentaire d'Antoine, qui ne s'en souvient pas le 26. | ch. 7 | ch. 10 | — |
 | 8 | Historique de versions du ch. 11 de *La Laisse de mer*. | ch. 8 | B | A : Antoine a pu copier-coller sans s'en souvenir (il avait bu à midi, il le mentionne en passant) |
 | 9 | Le message nocturne à Lucie emploie « incessamment » **correctement** et confond pieds-de-mer et méduses. Lucie : « t'as toujours confondu ». | ch. 10 | L'erreur de la machine passe pour une erreur humaine d'Antoine | — |
 | 10 | Claire : « Tu te souviens de sa rédaction, en cinquième ? Elle te l'avait envoyée. » Antoine : non. | ch. 11 | ch. 22 | — |
@@ -95,6 +95,12 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 6b | Palimpseste prédit le déjeuner avec justesse (d'après 1 214 courriels). La vie suit un script que la machine a écrit le matin. Préfigure l'acte II (la vie imite le texte). | ch. 6 | ch. 9 | A : Hélène est prévisible, rien de plus |
 | 6c | Le *Penseur* de Rodin : douze tirages légalement « originaux ». Image de l'original multiple. **Ne jamais l'expliciter.** | ch. 6 | Motif (épilogue ?) | — |
 | 6d | La quatrième de couverture de *La Laisse de mer* (« la mer, un père, ce qu'on laisse derrière soi ») est une triade née du tic de la machine dans la bouche d'Antoine. À reprendre telle quelle au ch. 23 (la critique la citera). | ch. 6 | ch. 23 | — |
+
+| 7a | **Fuite n° 2** : le souvenir « heureux » de la machine met Antoine « dans vos chaussons écossais » à Kervéguen (= prologue). Antoine ne s'en souvient pas ; la machine cite le carnet n° 6 (« L. = bateau »), invérifiable pour le lecteur. | ch. 7 | ch. 11, 15, 22 | A : le souvenir peut être vrai |
+| 7b | La page du carnet n° 7 écrite d'une autre main (liste des mots de Lucie + spirale) : c'est Claire (à confirmer au ch. 11 : « j'avais écrit dans ton carnet, une fois, tu étais furieux »). La spirale est donc peut-être la sienne à *elle*, et celle du carnet n° 22 (oct. 2025) devient inexplicable. **Ne jamais trancher.** | ch. 7 | ch. 11 | — |
+| 7c | L'entrée du 24 décembre annonce « (412 mots) » et en compte **exactement 412** (vérifié au script). Un humain ivre ne tombe pas juste. Couche 3 de `artefacts.md` (erreurs-quotas) inversée : ici, c'est l'exactitude qui trahit. | ch. 7 | Relecture / épilogue | A : Antoine a compté avant de ranger, il le dit |
+| 7d | Le *Guide des bords de mer* déjà offert en 2019 : erreur de mémoire d'Antoine, que la machine aurait évitée (elle a les mails de 2019). | ch. 7 | A (erreur humaine) | — |
+| 7e | Réponse à Lucie « en attente, conformité 87 % » : la machine a déjà rédigé quelque chose le 25/12. Ne sera jamais montré. | ch. 7 | ch. 10 | — |
 
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.

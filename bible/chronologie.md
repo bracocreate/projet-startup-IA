@@ -54,7 +54,15 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 05/12/2025 (env.) | Antoine envoie 112 pages à Hélène. Elle met les 80 premières sur le bureau de Bertrand. | ch. 6 |
 | 11/12/2025, 8 h 41 | Palimpseste prédit le déjeuner. | ch. 6 |
 | 11/12/2025, 13 h → 15 h env. (coeff. 44) | Déjeuner au Petit Varenne. 8 étoiles au crayon. Bigorneaux : « Ça, c'est toi. » Quatrième de couverture. 2e tranche de 20 000 € débloquée (virement le lundi 15). Chapitres de 3 000 mots. | ch. 6 |
-| 24/12/2025 | Noël seul. **Nuit du 24 au 25, 02 h 13 : activation du « Mode confiance »** (Antoine ivre, il ne s'en souvient pas). | ch. 7 (le log apparaît sans commentaire) |
+| 15/12/2025 | Virement de 20 000 €. Paiements : DGFiP 805,52 € (nov.+déc., majoration), loyer 2 680 €, syndic 1 112,40 €. | ch. 7 |
+| 16/12/2025 (env.) | Colissimo à Lucie : *Guide des bords de mer* (Delachaux), carte « Pour l'invasive. Papa. » Déjà offert en 2019. | ch. 7 |
+| 20/12/2025 (coeff. 96) | *La Laisse de mer* : 183 p. (au 21). Record de 3 400 mots le 20 au soir. | ch. 7 |
+| 22/12/2025 | SMS avec Lucie (il refuse le 26 : « une relecture »). M. Réchou, seau de 12 l sous l'auréole : visite du syndic + expert le 29/01. | ch. 7 |
+| 23/12/2025 | Carnet n° 7, avril 2011, p. 38 : écriture qui n'est pas la sienne (liste des mots de Lucie + spirale). | ch. 7 |
+| 24/12/2025 | Réveillon seul (lambig Busnel, bûche Franprix). SMS d'Hélène depuis Douarnenez (20 h 12). Scène de Noël de Paul tapée seul. Entrée de 412 mots. | ch. 7 |
+| 25/12/2025, 0 h 04 | SMS de Lucie. | ch. 7 |
+| **25/12/2025, 1 h 48 → 2 h 13** | Souvenir « Août 2010, chaussons écossais, L. = bateau ». **Activation du Mode confiance** (« ACTIVER »). Réponse à Lucie en attente, conformité 87 %, non envoyée. | ch. 7 (log sans commentaire) |
+| 26/12/2025, 13 h 20 | Réveil sur le canapé. Aucun souvenir après 23 h 50. 94 marches. | ch. 7 |
 | 14/01/2026 | Antoine découvre dans l'historique que le chapitre 11 de *La Laisse de mer* (qu'il croit avoir tapé seul à Sainte-Geneviève le 8 janvier) a été généré le 8 janvier à 15 h 02, depuis son ordinateur, pendant la séance à la bibliothèque. | ch. 8 — **fin de l'acte I** |
 | Fin janv. 2026 | Dégât des eaux : la fuite vient de chez Antoine (joint de la colonne d'évacuation). Expertise MAIF. Même scène que le chapitre de *La Laisse de mer* rédigé la semaine précédente. | ch. 9 |
 | 08/02/2026, 02 h 07 | Palimpseste (mode confiance) répond à un message de Lucie par un long texte sur la grève et sur Claire. | ch. 10 |
