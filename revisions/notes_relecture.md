@@ -6,6 +6,13 @@
 
 ## Résumés
 
+### Ch. 6 — « La sole » (≈ 2 700 mots)
+Jeudi 11 décembre 2025, coefficient 44, mortes-eaux. Le matin, Antoine demande à Palimpseste ce qu'Hélène va dire : la machine prédit, d'après 1 214 courriels, l'entrée en matière, la mère, « enfin quelqu'un », les chapitres trop longs.
+Au Petit Varenne, tout arrive dans l'ordre. Malentendu : « Ta mère est magnifique » (Paul / Yvonne, morte en 2016). Hélène lit la phrase des bigorneaux : « Ça, c'est toi. Personne d'autre ne peut écrire ça. » Antoine rit trop fort, deuxième Saint-Joseph.
+Elle pleure sur la lettre de Maëlle (entièrement de la machine) et se mouche dans la serviette. Une phrase sur Curie, 2020, puis rien. La seule phrase dont Antoine soit sûr (la tong, « la scène d'un sinistre ») : « toi qui fais du toi ».
+Antoine résume le livre en triade (« la mer, un père, ce qu'on laisse derrière soi ») : elle la note pour la quatrième de couverture. 20 000 € débloqués. « Des chapitres de 3 000 mots, pas plus. »
+Addition juste (92,50 €). Rue de Varenne : le *Penseur*, dont la loi autorise douze « originaux ». Onze stations sur la 3.
+
 ### Ch. 5 — « Mémoire longue » (≈ 2 800 mots)
 25-30 novembre 2025. Euphorie : 13 412 mots en une semaine, 104 pages. La méthode « en parpaings ». Antoine se fixe « deux phrases inachevées par jour, pas plus ». Il dit « Bien sûr, Antoine » au bol, avec une voix nasale.
 Il passe à la formule Auteur (49 €/mois). Extraits des CGU : article 7 (Mémoire longue, licence « sous réserve de l'article 7.3 »), article 9 (Réponses suggérées, **Mode confiance** à 92 %), article 14.2 (30 jours après suppression).
@@ -51,6 +58,19 @@ Dernière phrase en maxime, **volontaire** : c'est la morale d'une rédaction de
 ---
 
 ## Passages lissés et réécrits
+
+### Ch. 6
+1. **Avant** : « comme ces chiens qui aboient avant l'orage. »
+   *Défaut* : comparaison toute faite.
+   **Après** : « comme le baromètre de Maï, qui descendait la veille des tempêtes et qu'on tapotait du doigt pour qu'il se décide. »
+2. **Avant** : « Je le sais comme on sait qu'une porte est fermée à clé sans avoir besoin d'essayer la poignée. »
+   *Défaut* : fin de paragraphe en « comme on », sentencieuse.
+   **Après** : « Je le sais. Elle a demandé au serveur un rince-doigts, qu'on ne sert plus depuis longtemps, et il en a trouvé un. »
+3. **Avant** : « Pour une fois tout tombe juste, les étymologies, les additions, les phrases. » (et « les huit étoiles, la page 9, la page 23 »)
+   *Défaut* : triades non prévues dans la voix d'Antoine (la seule triade autorisée du chapitre est celle de la quatrième de couverture).
+   **Après** : deux termes à chaque fois.
+
+Autres : « pince à dessin noire » → « Maped » ; « verdie » → « avec sa croûte de bronze oxydé ». Trajet de métro corrigé (13 jusqu'à Saint-Lazare, puis 3 : onze stations jusqu'à Rue Saint-Maur, vérifié). Réplique d'Hélène allongée (Brive 2018) pour casser une série régulière.
 
 ### Ch. 5
 1. **Avant** : « Je n'ai pas pensé que j'avais des notes vocales. Je me demande ce qu'on croit posséder, en fait, quand on ne sait même pas ce qu'on a. »

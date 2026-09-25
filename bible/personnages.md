@@ -29,6 +29,7 @@ Les fondamentaux du CLAUDE.md sont respectés. Les ajouts sont signalés par ◆
 
 ## Hélène Morvan — son éditrice
 - 58 ans, éditrice aux Éditions Marcelin (maison moyenne, rue de l'Université). ◆ Née à Douarnenez : elle et Antoine ont un fond de complicité bretonne, des blagues sur le kouign-amann et la pluie.
+- ◆ (ch. 6) Imprime tout, annote au Staedtler, une petite étoile au crayon = « on ne touche pas » (31 sur *Mortes-eaux*, 2 sur *Les Riverains*, 8 sur les 112 premières pages de *La Laisse de mer*). Carnet Rhodia. Ne boit plus depuis 2020. « Les cachets. » Choisit toujours la chaise contre le mur. Lève la sole elle-même.
 - Pragmatique, affectueuse, sceptique. Vapote (liquide à la menthe), a eu un cancer du sein en 2020 dont elle ne parle jamais. Elle a des mains larges et sèches.
 - ◆ Son patron, **Bertrand Aubanel**, directeur général, réclame le remboursement de l'à-valoir.
 - Elle adore le nouveau manuscrit, et c'est justement ce qui inquiète Antoine : elle cite comme « tellement toi » des phrases de la machine.

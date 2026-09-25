@@ -51,7 +51,9 @@ Deux colonnes : ce qui s'est **vraiment** passé (vérité d'auteur, que le lect
 | 28/11/2025 | Accès messagerie (lire/rédiger/envoyer) et WhatsApp (notes vocales incluses). | ch. 5 |
 | 29/11/2025, 8 h 02 → 19 h 47 | Ingestion : 18 344 mails, 61 880 messages WhatsApp, 1 312 vocaux, `IMG_4471.jpg`, PV d'AG. | ch. 5 |
 | 30/11/2025, 10 h 06 | Première fuite : souvenir de Maëlle entre deux rochers (= prologue). 2 300 mots avant midi. | ch. 5 |
-| 11/12/2025 | Déjeuner avec Hélène : elle a lu 80 pages. | ch. 6 |
+| 05/12/2025 (env.) | Antoine envoie 112 pages à Hélène. Elle met les 80 premières sur le bureau de Bertrand. | ch. 6 |
+| 11/12/2025, 8 h 41 | Palimpseste prédit le déjeuner. | ch. 6 |
+| 11/12/2025, 13 h → 15 h env. (coeff. 44) | Déjeuner au Petit Varenne. 8 étoiles au crayon. Bigorneaux : « Ça, c'est toi. » Quatrième de couverture. 2e tranche de 20 000 € débloquée (virement le lundi 15). Chapitres de 3 000 mots. | ch. 6 |
 | 24/12/2025 | Noël seul. **Nuit du 24 au 25, 02 h 13 : activation du « Mode confiance »** (Antoine ivre, il ne s'en souvient pas). | ch. 7 (le log apparaît sans commentaire) |
 | 14/01/2026 | Antoine découvre dans l'historique que le chapitre 11 de *La Laisse de mer* (qu'il croit avoir tapé seul à Sainte-Geneviève le 8 janvier) a été généré le 8 janvier à 15 h 02, depuis son ordinateur, pendant la séance à la bibliothèque. | ch. 8 — **fin de l'acte I** |
 | Fin janv. 2026 | Dégât des eaux : la fuite vient de chez Antoine (joint de la colonne d'évacuation). Expertise MAIF. Même scène que le chapitre de *La Laisse de mer* rédigé la semaine précédente. | ch. 9 |

@@ -34,7 +34,7 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 3 | **Semé.** Antoine raconte à Lucie « le jour où je t'ai retrouvée » (Sebago, rochers, sur les épaules). Elle dit « Hm », puis parle du fucus hybride (« une espèce ou une erreur »). | ch. 4 | A et B : Lucie sait autre chose | — |
 | 4 | **Semé** (sous la forme `IMG_4471.jpg … (lucie.vsr@…, 14/05/2019)` + `IMG_4472.jpg`). Dans la liste des fichiers ingérés : `IMG_4471.jpg (pièce jointe, mail du 14/05/2019, expéditeur : lucie.vsr@…)` | ch. 5 | ch. 22 : la machine connaissait la rédaction | Aucun lecteur ne le remarquera. C'est voulu. |
 | 5 | **Semé.** « Il manque le n° 9. […] Perdu dans un déménagement, sans doute » + « un trou de six mois dans ma vie […] que personne ne pourra jamais importer ». | ch. 5 | ch. 19 : carnet retrouvé à Kerlouan, jamais numérisé → **A** | — |
-| 6 | Hélène cite comme « tellement toi » une phrase qu'on a lue au ch. 2 dans une réponse de Palimpseste. | ch. 6 | B | A : Antoine avait repris la phrase à son compte, il le dit lui-même au ch. 3 |
+| 6 | **Semé** (« Ça, c'est toi. Personne d'autre ne peut écrire ça. », 8e étoile). Hélène cite comme « tellement toi » une phrase qu'on a lue au ch. 2 dans une réponse de Palimpseste. | ch. 6 | B | A : Antoine avait repris la phrase à son compte, il le dit lui-même au ch. 3 |
 | 7 | Log du 25/12, 02:13 : activation du Mode confiance. Aucun commentaire d'Antoine. | ch. 7 | ch. 10 | — |
 | 8 | Historique de versions du ch. 11 de *La Laisse de mer*. | ch. 8 | B | A : Antoine a pu copier-coller sans s'en souvenir (il avait bu à midi, il le mentionne en passant) |
 | 9 | Le message nocturne à Lucie emploie « incessamment » **correctement** et confond pieds-de-mer et méduses. Lucie : « t'as toujours confondu ». | ch. 10 | L'erreur de la machine passe pour une erreur humaine d'Antoine | — |
@@ -90,6 +90,11 @@ Ce sont les tics qu'on apprend au lecteur à reconnaître comme des signatures. 
 | 5c | Les CGU plantent : Mode confiance (art. 9.4, seuil 92 %), conservation 30 jours « sous réserve de l'article 7.3 » (art. 14.2 : les données ne s'effacent jamais vraiment). | ch. 5 | ch. 7, 10, 24 | — |
 | 5d | PV d'AG du syndic (95 marches) et 208 notes vocales de Lucie ingérés. | ch. 5 | ch. 12 (95), ch. 21 (cicatrice : contrepoids B de l'indice 21) | — |
 | 5e | Le carnet n° 6 donne raison à Antoine : « papa t'as des brillouches sur les yeux ». Un souvenir juste, prouvé par l'écrit. | ch. 5 | A (sa mémoire n'est pas toujours fausse) | — |
+
+| 6a | Symétrie inverse : la seule phrase dont Antoine soit sûr (la tong, « la scène d'un sinistre », revendiquée en marge au ch. 3) est jugée par Hélène « toi qui fais du toi ». Sa vraie voix sonne comme une imitation, la machine sonne comme lui. | ch. 6 | Thème, et la lecture B (la copie est plus crédible que l'original) | — |
+| 6b | Palimpseste prédit le déjeuner avec justesse (d'après 1 214 courriels). La vie suit un script que la machine a écrit le matin. Préfigure l'acte II (la vie imite le texte). | ch. 6 | ch. 9 | A : Hélène est prévisible, rien de plus |
+| 6c | Le *Penseur* de Rodin : douze tirages légalement « originaux ». Image de l'original multiple. **Ne jamais l'expliciter.** | ch. 6 | Motif (épilogue ?) | — |
+| 6d | La quatrième de couverture de *La Laisse de mer* (« la mer, un père, ce qu'on laisse derrière soi ») est une triade née du tic de la machine dans la bouche d'Antoine. À reprendre telle quelle au ch. 23 (la critique la citera). | ch. 6 | ch. 23 | — |
 
 ## 3. Vérification de tenabilité (à refaire après chaque acte)
 - [ ] Chaque indice B a son contrepoids A.
