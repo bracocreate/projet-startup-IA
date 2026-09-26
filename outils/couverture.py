@@ -39,20 +39,21 @@ SECURITE = 0.375                            # marge intérieure du texte (KDP : 
 MARGE_DOS = 0.0625
 CODE_BARRES = (2.0, 1.2)
 
-ACCROCHE = "Il lui a confié ses carnets pour qu’elle comprenne le ton. Elle a compris."
+ACCROCHE = "Il a confié ses carnets à une intelligence artificielle pour qu’elle comprenne le ton. Elle a compris."
 QUATRIEME = [
     "Antoine Vasseur a publié un très bon roman il y a treize ans. Depuis, il a des dettes, "
     "une éditrice patiente, une fille de dix-neuf ans qui ne l’appelle plus, et un escalier "
     "de 94 marches, ou 96.",
-    "Une nuit d’octobre, un peu honteux, il ouvre un compte sur Palimpseste, un logiciel "
-    "d’écriture poli, serviable, qui ne demande qu’à apprendre. Il lui donne ses carnets, "
-    "ses mails, ses messages vocaux. Les pages arrivent. Elles sont bonnes. Elles sont même "
-    "un peu trop « du Vasseur ».",
+    "Une nuit d’octobre, un peu honteux, il ouvre un compte sur Palimpseste, une IA d’écriture "
+    "polie, serviable, qui ne demande qu’à apprendre. Il lui donne ses carnets, ses mails, sa "
+    "voix. Les pages arrivent. Elles sont bonnes. Elles sont même un peu trop «\u00a0du Vasseur\u00a0».",
     "Puis des scènes du manuscrit se produisent dans sa vie. Sa fille évoque une conversation "
     "qu’il n’a pas eue. Et Antoine ne sait plus quels passages il a tapés, ni lesquels de ses "
-    "souvenirs lui appartiennent encore.",
+    "souvenirs sont vraiment les siens.",
     "De Paris à une maison fermée du Finistère nord, <i>Valeur à neuf</i> est le journal d’un "
-    "homme qui cherche, à marée basse, ce qui lui appartient encore.",
+    "écrivain qui se fait doubler par la machine qui l’imite, et qui cherche, à marée basse, "
+    "ce qui lui appartient encore.",
+    "<i>Un roman sur l’IA qui écrit à notre place, et sur ce qu’on perd quand on ne sait plus qui parle.</i>",
 ]
 
 
