@@ -43,6 +43,9 @@ services:
       args:
         BACKEND_URL: http://backend:8000
     restart: unless-stopped
+    environment:
+      # Lu par le serveur Next.js pour le rendu initial des pages.
+      BACKEND_URL: http://backend:8000
     depends_on:
       backend:
         condition: service_healthy

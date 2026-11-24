@@ -4,7 +4,7 @@ import { Sidebar } from "@/components/Sidebar";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "HUNTER AI",
+  title: { default: "HUNTER AI", template: "%s · HUNTER AI" },
   description: "Veille commerciale, sourcing mondial et intelligence de marché",
 };
 

@@ -77,6 +77,14 @@ describe("Tableau de bord", () => {
   });
 });
 
+describe("Erreurs serveur", () => {
+  it("explique quoi faire quand le relais renvoie une erreur 500 sans détail (backend arrêté)", async () => {
+    vi.stubGlobal("fetch", vi.fn().mockResolvedValueOnce(new Response("Internal Server Error", { status: 500 })));
+    render(<DashboardView />);
+    expect(await screen.findByRole("alert")).toHaveTextContent(/ne répond pas correctement.*make ps/);
+  });
+});
+
 describe("Santé du système", () => {
   it("liste les composants avec leur état", async () => {
     mockFetch({

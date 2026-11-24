@@ -1,8 +1,16 @@
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { Banner, PageHeader } from "@/components/ui";
 import { findNavItemBySlug } from "@/lib/nav";
 
-export default async function ComingSoonPage({ params }: { params: Promise<{ slug: string }> }) {
+type Props = { params: Promise<{ slug: string }> };
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { slug } = await params;
+  return { title: findNavItemBySlug(slug)?.label ?? "Section inconnue" };
+}
+
+export default async function ComingSoonPage({ params }: Props) {
   const { slug } = await params;
   const item = findNavItemBySlug(slug);
   if (!item) notFound();

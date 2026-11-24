@@ -5,10 +5,10 @@ import { Banner, Card, Loading, PageHeader } from "@/components/ui";
 import { api, ApiError, type DashboardSummary } from "@/lib/api";
 import { formatDateTime } from "@/lib/format";
 
-export function DashboardView() {
-  const [data, setData] = useState<DashboardSummary | null>(null);
+export function DashboardView({ initialData = null }: { initialData?: DashboardSummary | null }) {
+  const [data, setData] = useState<DashboardSummary | null>(initialData);
   const [error, setError] = useState<string | null>(null);
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(initialData === null);
 
   const load = useCallback(async () => {
     setLoading(true);
@@ -22,9 +22,10 @@ export function DashboardView() {
     }
   }, []);
 
+  // Données déjà rendues par le serveur : pas de second chargement. Sinon, chargement dans le navigateur.
   useEffect(() => {
-    void load();
-  }, [load]);
+    if (initialData === null) void load();
+  }, [initialData, load]);
 
   return (
     <div className="space-y-6">

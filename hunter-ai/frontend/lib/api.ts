@@ -19,7 +19,11 @@ async function request<T>(path: string, init?: RequestInit): Promise<T> {
     throw new ApiError("Le serveur HUNTER AI est injoignable. Vérifiez que le backend est démarré.", 0);
   }
   if (!res.ok) {
-    let detail = `Erreur ${res.status}`;
+    // Erreur serveur sans message JSON : typiquement le relais Next.js quand le backend est arrêté.
+    let detail =
+      res.status >= 500
+        ? `Le serveur HUNTER AI ne répond pas correctement (erreur ${res.status}). Vérifiez qu'il est démarré : make ps, puis make logs.`
+        : `Erreur ${res.status}`;
     try {
       const body = (await res.json()) as { detail?: unknown };
       if (typeof body.detail === "string") detail = body.detail;

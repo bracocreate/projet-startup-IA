@@ -28,14 +28,15 @@ const splitList = (v: string) =>
     .map((x) => x.trim())
     .filter(Boolean);
 
-export function SettingsView() {
-  const [settings, setSettings] = useState<UserSettings | null>(null);
-  const [form, setForm] = useState<Form | null>(null);
+export function SettingsView({ initialData = null }: { initialData?: UserSettings | null }) {
+  const [settings, setSettings] = useState<UserSettings | null>(initialData);
+  const [form, setForm] = useState<Form | null>(initialData ? toForm(initialData) : null);
   const [error, setError] = useState<string | null>(null);
   const [saved, setSaved] = useState(false);
   const [saving, setSaving] = useState(false);
 
   useEffect(() => {
+    if (initialData !== null) return;
     api
       .get<UserSettings>("/settings")
       .then((s) => {
@@ -43,7 +44,7 @@ export function SettingsView() {
         setForm(toForm(s));
       })
       .catch((e: unknown) => setError(e instanceof ApiError ? e.message : "Erreur inattendue."));
-  }, []);
+  }, [initialData]);
 
   async function onSubmit(e: FormEvent) {
     e.preventDefault();

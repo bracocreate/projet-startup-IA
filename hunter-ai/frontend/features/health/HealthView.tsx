@@ -13,16 +13,17 @@ const LABELS: Record<ComponentStatus["status"], { text: string; cls: string }> =
   not_implemented: { text: "Pas encore disponible", cls: "bg-slate-100 text-slate-700" },
 };
 
-export function HealthView() {
-  const [data, setData] = useState<SystemStatus | null>(null);
+export function HealthView({ initialData = null }: { initialData?: SystemStatus | null }) {
+  const [data, setData] = useState<SystemStatus | null>(initialData);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
+    if (initialData !== null) return;
     api
       .get<SystemStatus>("/system/status")
       .then(setData)
       .catch((e: unknown) => setError(e instanceof ApiError ? e.message : "Erreur inattendue."));
-  }, []);
+  }, [initialData]);
 
   return (
     <div className="space-y-6">
