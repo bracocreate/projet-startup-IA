@@ -20,7 +20,7 @@ export const NAV_ITEMS: NavItem[] = [
   soon("Market Intelligence", "market-intelligence", 6),
   soon("Tendances", "tendances", 6),
   soon("Découvertes IA", "decouvertes", 7),
-  soon("Sites et fournisseurs", "sources", 3),
+  { label: "Sites et fournisseurs", href: "/sources", phase: 3, available: true },
   soon("Comparateur de prix", "comparateur", 4),
   soon("Listes de surveillance", "surveillance", 3),
   soon("Lots et achats", "lots", 5),

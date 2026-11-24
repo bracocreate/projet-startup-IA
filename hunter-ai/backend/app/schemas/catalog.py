@@ -2,7 +2,7 @@ from datetime import datetime
 from decimal import Decimal
 from typing import Literal
 
-from pydantic import BaseModel
+from pydantic import BaseModel, ConfigDict, Field
 
 
 class SourceRef(BaseModel):
@@ -97,6 +97,7 @@ class ConnectorRunRead(BaseModel):
     offers_created: int
     offers_updated: int
     observations_created: int
+    api_calls: int
     errors: list[str]
     is_demo: bool
 
@@ -106,3 +107,31 @@ class DemoPurgeRead(BaseModel):
     products_deleted: int
     merchants_deleted: int
     sources_deleted: int
+
+
+class ConnectorInfoRead(BaseModel):
+    slug: str
+    name: str
+    description: str
+    configured: bool
+    status: str | None
+    daily_call_budget: int | None
+    calls_used_today: int
+
+
+class SourceTestRead(BaseModel):
+    ok: bool
+    status: str
+    detail: str
+    sample_count: int
+    api_calls: int
+
+
+class CollectRequest(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+
+    keywords: str = Field(default="", max_length=100)
+    brand: str | None = Field(default=None, max_length=80)
+    gtin: str | None = Field(default=None, pattern=r"^[0-9]{8,14}$")
+    max_price: Decimal | None = Field(default=None, gt=0, le=100_000)
+    limit: int = Field(default=50, ge=1, le=200)

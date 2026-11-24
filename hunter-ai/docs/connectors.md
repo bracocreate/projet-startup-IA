@@ -63,8 +63,39 @@ collecter que si son statut est `active` (ou `degraded` / `error` pour une nouve
 - Chargement / suppression : boutons de la vue d'ensemble, ou `POST /api/v1/demo/load` et
   `DELETE /api/v1/demo` (journalisés). La suppression retire tout ce qui est marqué `is_demo`.
 
-### Prochain connecteur : eBay Browse API (en attente de votre accord)
+### Connecteur eBay Browse API (implémenté, à activer avec vos clés)
 
-Avant activation : création d'un compte développeur eBay (gratuit), clés dans `.env`, relecture
-des conditions d'utilisation (stockage et affichage des données), quotas, puis un test réel
-documenté ici. Statut tant que ce n'est pas fait : `needs_credentials`.
+Vérifié le 24/11/2026 dans la documentation officielle eBay :
+
+| Point | Ce que dit eBay | Ce que fait HUNTER AI |
+|---|---|---|
+| Jeton | `POST /identity/v1/oauth2/token`, *client credentials*, portée `https://api.ebay.com/oauth/api_scope`, valable 7 200 s | Jeton mis en cache (marge de 2 min) |
+| Recherche | `GET /buy/browse/v1/item_summary/search`, `sort=newlyListed`, `limit` ≤ 200, 10 000 résultats max | Annonces les plus récentes d'abord, prix fixe uniquement, livrables en France, place de marché `EBAY_FR` |
+| Quota | 5 000 appels/jour par défaut (Browse) | Plafond configurable `EBAY_DAILY_CALL_BUDGET` (4 500), compté en base, refus au-delà |
+| Accès production | « Buy APIs require an additional license » ; usage production « intended for eBay partners », candidature via eBay Partner Network, sans garantie | **Incertain tant que le test réel n'est pas fait.** Un refus 401/403 met la source en `needs_approval`, sans contournement |
+
+Choix prudents : enchères exclues (prix non final) ; frais de livraison retenus seulement s'ils
+sont fixes et dans la devise du prix, sinon « inconnus » ; disponibilité « à confirmer » (la
+recherche ne donne pas le stock) ; **pseudonyme et notes du vendeur non enregistrés** ; lien public
+de l'annonce, pas le lien d'affiliation.
+
+**À relire avant usage intensif :** l'*eBay API License Agreement* (durée de conservation et
+affichage des données eBay). HUNTER AI ne stocke que les champs nécessaires et revérifie les offres.
+
+#### Mise en route (vous)
+1. Créez un compte sur <https://developer.ebay.com> (gratuit), puis **Application Keys** →
+   créez un *keyset* **Production**.
+2. Ouvrez le fichier `.env` de HUNTER AI et renseignez `EBAY_CLIENT_ID` (App ID) et
+   `EBAY_CLIENT_SECRET` (Cert ID). **Ne les collez jamais dans un chat.**
+3. Redémarrez : `make restart`.
+4. Dans **Sites et fournisseurs**, cliquez **Tester la connexion** :
+   - « Test réel réussi » → la source passe `active`, le formulaire de collecte apparaît ;
+   - « Accès … refusé par eBay » → statut `needs_approval` : il faut demander l'accès
+     production aux Buy APIs via l'eBay Partner Network (gratuit, réponse sous ~10 jours ouvrés).
+     En attendant, `EBAY_ENVIRONMENT=sandbox` permet de tester avec les données factices d'eBay.
+
+#### Collecte automatique (n8n de votre homelab)
+`POST /api/v1/sources/ebay/collect` avec l'en-tête `Authorization: Bearer <API_ACCESS_TOKEN>` et
+un corps JSON `{"keywords": "polo ralph lauren", "max_price": 30, "limit": 50}`. Exemple de cadence :
+10 recherches toutes les 5 minutes ≈ 2 900 appels/jour (sous le plafond de 4 500). Les alertes
+ntfy sur les bonnes affaires arriveront avec le Price Radar (Phase 4).

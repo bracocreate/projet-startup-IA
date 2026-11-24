@@ -5,7 +5,7 @@
 | 0 | Audit, architecture, `CLAUDE.md`, conventions | ✅ Fait |
 | 1 | Socle : FastAPI, Next.js, PostgreSQL, Docker Compose, migrations, health checks, configuration, logs, tests | ✅ Fait et vérifié (natif + Docker) |
 | 2 | Dashboard complet : listes, fiches, filtres persistants, données DEMO identifiées | ⏳ Partiel (navigation, accueil état vide, paramètres, santé) |
-| 3 | Modèle produit/offre, contrat de connecteur, connecteur DEMO, premier connecteur réel (eBay Browse API recommandé), normalisation, déduplication, historique | ⏳ Partiel : tout sauf le connecteur réel (attend votre accord) |
+| 3 | Modèle produit/offre, contrat de connecteur, connecteur DEMO, premier connecteur réel (eBay Browse API recommandé), normalisation, déduplication, historique | ⏳ Connecteur eBay implémenté et testé (simulé) ; activation réelle avec vos clés |
 | 4 | Price Radar | À faire |
 | 5 | Profit Engine (coût rendu, lots, ROI/marge, scénarios) | À faire |
 | 6 | Market Intelligence (première source de tendances autorisée) | À faire |
@@ -41,8 +41,11 @@ Sur une machine personnelle, `make up` fonctionne sans cet ajustement.
   « Données de démonstration » sur la vue d'ensemble.
 - Vérifié : 59 tests backend, 26 tests frontend, parcours complet dans Docker et navigateur.
 
-**Reste pour clore la Phase 3 :** le premier connecteur réel (eBay Browse API), qui nécessite
-votre compte développeur eBay et votre accord.
+**Ajout (24/11/2026) : connecteur eBay Browse API**, migration `0003` (compteur d'appels pour les
+quotas), page « Sites et fournisseurs » (test de connexion, collecte), `POST /sources/{slug}/test`,
+`POST /sources/{slug}/collect`, `GET /connectors`. 85 tests backend, 31 frontend.
+
+**Reste pour clore la Phase 3 :** le test réel avec vos clés eBay (voir `docs/connectors.md`).
 
 ## Prochaine étape proposée
 Au choix : (a) connecteur eBay Browse API (après création de votre compte développeur et votre

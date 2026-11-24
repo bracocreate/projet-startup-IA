@@ -142,6 +142,7 @@ describe("Navigation", () => {
     expect(NAV_ITEMS.filter((i) => i.available).map((i) => i.label)).toEqual([
       "Vue d'ensemble",
       "Recherche mondiale",
+      "Sites et fournisseurs",
       "Paramètres",
       "Santé du système",
     ]);

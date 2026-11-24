@@ -136,6 +136,8 @@ class ConnectorRun(UUIDPkMixin, Base):
     offers_created: Mapped[int] = mapped_column(Integer, default=0, nullable=False)
     offers_updated: Mapped[int] = mapped_column(Integer, default=0, nullable=False)
     observations_created: Mapped[int] = mapped_column(Integer, default=0, nullable=False)
+    # Appels réellement envoyés à l'API de la source (respect des quotas journaliers).
+    api_calls: Mapped[int] = mapped_column(Integer, default=0, server_default="0", nullable=False)
     errors: Mapped[list[str]] = mapped_column(JSONB, default=list, nullable=False)
     is_demo: Mapped[bool] = mapped_column(Boolean, default=False, nullable=False)
 

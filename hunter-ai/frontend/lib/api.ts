@@ -162,6 +162,26 @@ export type ConnectorRun = {
   offers_created: number;
   offers_updated: number;
   observations_created: number;
+  api_calls: number;
   errors: string[];
   is_demo: boolean;
+};
+
+export type ConnectorInfo = {
+  slug: string;
+  name: string;
+  description: string;
+  configured: boolean;
+  /** null = jamais testé (aucune source enregistrée). */
+  status: string | null;
+  daily_call_budget: number | null;
+  calls_used_today: number;
+};
+
+export type SourceTestResult = {
+  ok: boolean;
+  status: string;
+  detail: string;
+  sample_count: number;
+  api_calls: number;
 };

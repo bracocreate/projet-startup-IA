@@ -40,6 +40,18 @@ class Settings(BaseSettings):
     # le prix EUR d'une offre en devise étrangère reste « non déterminé » (aucun taux inventé).
     fx_rates_to_eur: str = ""
 
+    # --- eBay Browse API (connecteur officiel) ---
+    ebay_client_id: str = ""
+    ebay_client_secret: SecretStr = SecretStr("")
+    ebay_environment: Literal["production", "sandbox"] = "production"
+    ebay_marketplace_id: str = "EBAY_FR"
+    # Plafond quotidien d'appels (eBay : 5 000/jour par défaut) ; marge de sécurité.
+    ebay_daily_call_budget: int = Field(default=4500, ge=1, le=5000)
+
+    @property
+    def ebay_configured(self) -> bool:
+        return bool(self.ebay_client_id and self.ebay_client_secret.get_secret_value())
+
     @field_validator("log_level")
     @classmethod
     def _upper(cls, v: str) -> str:

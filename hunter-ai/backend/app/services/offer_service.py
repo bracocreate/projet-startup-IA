@@ -211,6 +211,7 @@ def to_run_read(run: ConnectorRun) -> ConnectorRunRead:
         offers_created=run.offers_created,
         offers_updated=run.offers_updated,
         observations_created=run.observations_created,
+        api_calls=run.api_calls,
         errors=list(run.errors),
         is_demo=run.is_demo,
     )

@@ -354,6 +354,7 @@ def run_collection(
         run.errors = errors[:MAX_ERRORS_KEPT]
         source.status = SourceStatus.active if accepted or not errors else SourceStatus.degraded
 
+    run.api_calls = int(getattr(connector, "api_calls", 0))
     run.finished_at = datetime.now(UTC)
     record_audit(
         db,
@@ -369,6 +370,7 @@ def run_collection(
             "updated": run.offers_updated,
             "observations": run.observations_created,
             "errors": len(run.errors),
+            "api_calls": run.api_calls,
         },
     )
     db.commit()
