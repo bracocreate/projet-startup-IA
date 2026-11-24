@@ -18,8 +18,10 @@ function Field({ label, hint, children }: { label: string; hint?: string; childr
   );
 }
 
-export function ProfitCalculator() {
-  const [form, setForm] = useState<ProfitForm>(EMPTY_FORM);
+type Props = { initialForm?: ProfitForm; sourceTitle?: string };
+
+export function ProfitCalculator({ initialForm = EMPTY_FORM, sourceTitle = "" }: Props) {
+  const [form, setForm] = useState<ProfitForm>(initialForm);
   const [result, setResult] = useState<ProfitResult | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [busy, setBusy] = useState(false);
@@ -76,6 +78,12 @@ export function ProfitCalculator() {
         title="Lots et achats — calculateur de rentabilité"
         subtitle="Coût rendu complet (import compris), bénéfice, ROI et marge par scénario. Montants en euros ; un champ vide reste « inconnu »."
       />
+      {sourceTitle && (
+        <Banner tone="info">
+          Pré-rempli depuis l&apos;offre « {sourceTitle} » : prix en euros, frais de port s&apos;ils sont connus,
+          origine selon le pays d&apos;expédition. Vérifiez et complétez avant de calculer.
+        </Banner>
+      )}
       <form onSubmit={onSubmit} className="space-y-4">
         <Card title="1. Achat">
           <div className="grid gap-3 sm:grid-cols-3">

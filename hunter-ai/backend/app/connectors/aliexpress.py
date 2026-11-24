@@ -15,13 +15,19 @@ Choix prudents :
   est filtré localement, sur le prix renvoyé ;
 - lien public de la fiche produit (`product_detail_url`), jamais le lien d'affiliation : utiliser
   son propre lien d'affiliation pour ses achats est en général interdit par les programmes ;
-- frais de livraison non fournis par cette méthode → « inconnus » ; disponibilité « à confirmer » ;
+- frais de port : méthode officielle `aliexpress.affiliate.product.shipping.get` (product_id,
+  sku_id, ship_to_country, target_currency, target_sale_price, target_language, tax_rate →
+  shipping_fee, délais, ship_from_country), pour les N premiers produits seulement (1 appel
+  chacun) ; un échec laisse les frais « inconnus » sans bloquer la collecte ;
+- disponibilité « à confirmer » ;
 - quota officiel non documenté publiquement : plafond de sécurité configurable côté HUNTER AI.
 """
 
+import dataclasses
 import hashlib
 import hmac
 import time
+from dataclasses import dataclass
 from datetime import UTC, datetime
 from decimal import Decimal, InvalidOperation
 from typing import Any
@@ -41,6 +47,7 @@ from app.models.source import AccessMethod
 ALIEXPRESS_SLUG = "aliexpress"
 GATEWAY = "https://api-sg.aliexpress.com/sync"
 METHOD = "aliexpress.affiliate.product.query"
+SHIPPING_METHOD = "aliexpress.affiliate.product.shipping.get"
 MAX_PAGE_SIZE = 50
 TIMEOUT = httpx.Timeout(20.0)
 
@@ -63,8 +70,8 @@ def decimal_or_none(value: Any) -> Decimal | None:
         return None
 
 
-def products_from(body: dict[str, Any]) -> list[dict[str, Any]]:
-    """Extrait la liste de produits ; accepte les formats « simplifié » et « complet »."""
+def resp_result(body: dict[str, Any]) -> dict[str, Any]:
+    """Extrait `resp_result` (formats « simplifié » et « complet ») ou lève une erreur explicite."""
     if "error_response" in body:
         error = body["error_response"] or {}
         code = str(error.get("code") or "")
@@ -90,10 +97,32 @@ def products_from(body: dict[str, Any]) -> list[dict[str, Any]]:
     resp_code = str(resp.get("resp_code") or "")
     if resp_code and resp_code != "200":
         raise ConnectorError(f"AliExpress a répondu {resp_code} : {resp.get('resp_msg') or ''}")
-    products = (resp.get("result") or {}).get("products") or []
+    return resp if isinstance(resp, dict) else {}
+
+
+def products_from(body: dict[str, Any]) -> list[dict[str, Any]]:
+    products = (resp_result(body).get("result") or {}).get("products") or []
     if isinstance(products, dict):  # format complet : {"product": [...]}
         products = products.get("product") or []
     return [p for p in products if isinstance(p, dict)]
+
+
+@dataclass(frozen=True)
+class ShippingInfo:
+    fee: Decimal | None
+    ship_from_country: str | None
+    delivery_days: str | None
+
+
+def shipping_from(body: dict[str, Any]) -> ShippingInfo:
+    result = resp_result(body).get("result") or {}
+    country = str(result.get("ship_from_country") or "").strip().upper() or None
+    days = result.get("delivery_days") or result.get("max_delivery_days")
+    return ShippingInfo(
+        fee=decimal_or_none(result.get("shipping_fee")),
+        ship_from_country=country,
+        delivery_days=str(days) if days not in (None, "") else None,
+    )
 
 
 def to_raw_offer(item: dict[str, Any], observed_at: datetime) -> RawOffer | None:
@@ -107,7 +136,15 @@ def to_raw_offer(item: dict[str, Any], observed_at: datetime) -> RawOffer | None
         return None
     extra = {
         k: str(item[k])
-        for k in ("evaluate_rate", "lastest_volume", "shop_id", "ship_to_days", "discount")
+        for k in (
+            "evaluate_rate",
+            "lastest_volume",
+            "shop_id",
+            "ship_to_days",
+            "discount",
+            "sku_id",
+            "tax_rate",
+        )
         if item.get(k) not in (None, "")
     }
     return RawOffer(
@@ -134,10 +171,11 @@ class AliExpressConnector:
         self.settings = settings
         self.transport = transport
         self.api_calls = 0
+        self.warnings: list[str] = []
 
-    def signed_params(self, business: dict[str, str]) -> dict[str, str]:
+    def signed_params(self, business: dict[str, str], method: str = METHOD) -> dict[str, str]:
         params = {
-            "method": METHOD,
+            "method": method,
             "app_key": self.settings.aliexpress_app_key,
             "sign_method": "sha256",
             "timestamp": str(int(time.time() * 1000)),
@@ -176,12 +214,12 @@ class AliExpressConnector:
             max_results_per_query=MAX_PAGE_SIZE,
             min_interval_seconds=1,
             is_demo=False,
-            limits="50 produits par page ; frais de port non fournis ; quota officiel non "
-            "publié (plafond de sécurité HUNTER AI).",
+            limits="50 produits par page ; frais de port réels pour les N premiers produits "
+            "(1 appel chacun) ; quota officiel non publié (plafond de sécurité HUNTER AI).",
         )
 
-    async def search(self, query: SearchQuery) -> list[RawOffer]:
-        params = self.signed_params(self.business_params(query))
+    async def call(self, method: str, business: dict[str, str]) -> dict[str, Any]:
+        params = self.signed_params(business, method)
         async with httpx.AsyncClient(timeout=TIMEOUT, transport=self.transport) as client:
             self.api_calls += 1
             try:
@@ -194,12 +232,56 @@ class AliExpressConnector:
             body = response.json()
         except ValueError as exc:
             raise ConnectorError("Réponse AliExpress illisible (JSON invalide).") from exc
+        return body if isinstance(body, dict) else {}
+
+    async def shipping(self, offer: RawOffer) -> ShippingInfo | None:
+        """Frais de port réels vers la France (méthode officielle). None si non applicable."""
+        sku_id, tax_rate = offer.extra.get("sku_id"), offer.extra.get("tax_rate")
+        if not sku_id or tax_rate is None or offer.currency != "EUR":
+            return None
+        body = await self.call(
+            SHIPPING_METHOD,
+            {
+                "product_id": offer.external_id,
+                "sku_id": sku_id,
+                "ship_to_country": "FR",
+                "target_currency": "EUR",
+                "target_sale_price": str(offer.price),
+                "target_language": "FR",
+                "tax_rate": tax_rate,
+            },
+        )
+        return shipping_from(body)
+
+    async def with_shipping(self, offer: RawOffer) -> RawOffer:
+        try:
+            info = await self.shipping(offer)
+        except ConnectorError as exc:
+            self.warnings.append(f"{offer.external_id} : frais de port non obtenus ({exc})")
+            return offer
+        if info is None:
+            return offer
+        extra = dict(offer.extra)
+        if info.delivery_days:
+            extra["delivery_days"] = info.delivery_days
+        return dataclasses.replace(
+            offer,
+            # Montant demandé en EUR (target_currency) ; absent → reste « inconnu ».
+            shipping_cost=info.fee,
+            # Pays d'expédition : décisif pour les droits (entrepôt UE = pas de douane).
+            country=info.ship_from_country or offer.country,
+            extra=extra,
+        )
+
+    async def search(self, query: SearchQuery) -> list[RawOffer]:
+        body = await self.call(METHOD, self.business_params(query))
         observed_at = datetime.now(UTC)
-        offers = [to_raw_offer(p, observed_at) for p in products_from(body)]
-        result = [o for o in offers if o is not None]
+        offers = [o for o in (to_raw_offer(p, observed_at) for p in products_from(body)) if o]
         if query.max_price is not None:
-            result = [o for o in result if o.currency == "EUR" and o.price <= query.max_price]
-        return result
+            offers = [o for o in offers if o.currency == "EUR" and o.price <= query.max_price]
+        lookups = self.settings.aliexpress_shipping_lookups_per_run
+        enriched = [await self.with_shipping(o) for o in offers[:lookups]]
+        return enriched + offers[lookups:]
 
     async def fetch_offer(self, external_id: str) -> RawOffer | None:
         return None

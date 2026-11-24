@@ -351,7 +351,10 @@ def run_collection(
             run.status = RunStatus.partial
         else:
             run.status = RunStatus.success
-        run.errors = errors[:MAX_ERRORS_KEPT]
+        # Avertissements du connecteur (ex. frais de port non obtenus) : consignés, sans
+        # changer le statut de l'exécution.
+        warnings = [str(w) for w in getattr(connector, "warnings", [])]
+        run.errors = (errors + warnings)[:MAX_ERRORS_KEPT]
         source.status = SourceStatus.active if accepted or not errors else SourceStatus.degraded
 
     run.api_calls = int(getattr(connector, "api_calls", 0))

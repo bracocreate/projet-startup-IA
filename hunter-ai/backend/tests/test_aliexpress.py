@@ -204,3 +204,156 @@ def test_failed_tests_never_activate(db: Session, monkeypatch, fake, settings, s
     assert result.ok is False and result.status == status.value
     source = db.scalars(select(Source).where(Source.slug == "aliexpress")).one()
     assert source.status == status
+
+
+# --- Frais de port (aliexpress.affiliate.product.shipping.get) ------------------------------
+
+WITH_SKU = {**PRODUCT, "sku_id": "12000029786932962", "tax_rate": "0.2"}
+
+
+def shipping_body(fee="2.49", country="CN", days="12"):
+    return {
+        "aliexpress_affiliate_product_shipping_get_response": {
+            "resp_result": {
+                "resp_code": "200",
+                "result": {
+                    "shipping_fee": fee,
+                    "ship_from_country": country,
+                    "delivery_days": days,
+                },
+            }
+        }
+    }
+
+
+class FakeWithShipping:
+    """Route selon le paramètre « method » ; la livraison peut échouer pour certains produits."""
+
+    def __init__(self, products, shipping=None, failing_ids=()):
+        self.products = products
+        self.shipping = shipping or shipping_body()
+        self.failing_ids = set(failing_ids)
+        self.methods: list[str] = []
+        self.shipping_params: list[dict[str, list[str]]] = []
+
+    def __call__(self, request: httpx.Request) -> httpx.Response:
+        query = parse_qs(request.url.query.decode())
+        method = query["method"][0]
+        self.methods.append(method)
+        if method == METHOD:
+            return httpx.Response(200, json=envelope(self.products))
+        self.shipping_params.append(query)
+        if query["product_id"][0] in self.failing_ids:
+            return httpx.Response(200, json={"error_response": {"code": "isp.temp-error"}})
+        return httpx.Response(200, json=self.shipping)
+
+    def connector(self, settings: Settings = CONFIGURED) -> AliExpressConnector:
+        return AliExpressConnector(settings, transport=httpx.MockTransport(self))
+
+
+def test_shipping_lookup_uses_documented_parameters():
+    fake = FakeWithShipping([WITH_SKU], shipping=shipping_body(fee="2.49", country="ES"))
+    c = fake.connector()
+    [offer] = run_bounded(c.search(SearchQuery(keywords="coque")))
+    assert offer.shipping_cost == Decimal("2.49")
+    assert offer.country == "ES"  # entrepôt UE : décisif pour la douane
+    assert offer.extra["delivery_days"] == "12"
+    assert c.api_calls == 2 and fake.methods == [
+        METHOD,
+        "aliexpress.affiliate.product.shipping.get",
+    ]
+    params = fake.shipping_params[0]
+    assert {
+        k: params[k][0]
+        for k in (
+            "product_id",
+            "sku_id",
+            "ship_to_country",
+            "target_currency",
+            "target_sale_price",
+            "tax_rate",
+        )
+    } == {
+        "product_id": "1005001",
+        "sku_id": "12000029786932962",
+        "ship_to_country": "FR",
+        "target_currency": "EUR",
+        "target_sale_price": "1.89",
+        "tax_rate": "0.2",
+    }
+
+
+def test_free_shipping_is_zero_and_missing_fee_stays_unknown():
+    free = run_bounded(
+        FakeWithShipping([WITH_SKU], shipping_body(fee="0"))
+        .connector()
+        .search(SearchQuery(keywords="x"))
+    )
+    assert free[0].shipping_cost == Decimal("0")
+    missing = run_bounded(
+        FakeWithShipping([WITH_SKU], shipping_body(fee=""))
+        .connector()
+        .search(SearchQuery(keywords="x"))
+    )
+    assert missing[0].shipping_cost is None
+
+
+def test_shipping_lookups_are_capped_and_failures_do_not_block():
+    products = [{**WITH_SKU, "product_id": str(i)} for i in range(1, 6)]
+    settings = Settings(
+        aliexpress_app_key="k", aliexpress_app_secret="s", aliexpress_shipping_lookups_per_run=3
+    )
+    fake = FakeWithShipping(products, failing_ids={"2"})
+    c = fake.connector(settings)
+    offers = run_bounded(c.search(SearchQuery(keywords="x")))
+    assert len(offers) == 5 and c.api_calls == 1 + 3
+    fees = {o.external_id: o.shipping_cost for o in offers}
+    assert fees == {"1": Decimal("2.49"), "2": None, "3": Decimal("2.49"), "4": None, "5": None}
+    assert len(c.warnings) == 1 and "frais de port non obtenus" in c.warnings[0]
+
+
+def test_lookups_disabled_and_products_without_sku_are_skipped():
+    off = Settings(
+        aliexpress_app_key="k", aliexpress_app_secret="s", aliexpress_shipping_lookups_per_run=0
+    )
+    fake = FakeWithShipping([WITH_SKU])
+    c = fake.connector(off)
+    run_bounded(c.search(SearchQuery(keywords="x")))
+    assert c.api_calls == 1
+    fake2 = FakeWithShipping([PRODUCT])  # pas de sku_id / tax_rate dans la réponse
+    c2 = fake2.connector()
+    run_bounded(c2.search(SearchQuery(keywords="x")))
+    assert c2.api_calls == 1
+
+
+def test_collection_records_shipping_country_and_warnings(db: Session, monkeypatch):
+    products = [WITH_SKU, {**WITH_SKU, "product_id": "2"}]
+    fake = FakeWithShipping(products, shipping_body(fee="3.10", country="CN"), failing_ids={"2"})
+    use_fake(monkeypatch, fake)
+    connector_service.test_source(db, "aliexpress", "test", CONFIGURED)
+    run = connector_service.collect_from_source(
+        db, "aliexpress", SearchQuery(keywords="coque"), "test", CONFIGURED
+    )
+    assert run.status.value == "success"  # un avertissement ne rend pas la collecte « partielle »
+    assert any("frais de port non obtenus" in e for e in run.errors)
+    offer = db.scalars(select(Offer).where(Offer.external_id == "1005001")).one()
+    assert (offer.shipping_amount, offer.country) == (Decimal("3.10"), "CN")
+
+
+def test_budget_reserves_shipping_calls(db: Session, monkeypatch):
+    fake = FakeWithShipping([WITH_SKU])
+    use_fake(monkeypatch, fake)
+    tight = Settings(
+        aliexpress_app_key="k",
+        aliexpress_app_secret="s",
+        aliexpress_daily_call_budget=12,
+        aliexpress_shipping_lookups_per_run=10,
+    )
+    connector_service.test_source(db, "aliexpress", "test", tight)  # 2 appels
+    # Une collecte peut coûter 1 + 10 appels : 2 + 11 > 12 → refusée avant tout appel.
+    from app.services.collection_service import CollectionRefusedError
+
+    with pytest.raises(CollectionRefusedError, match="Quota journalier"):
+        connector_service.collect_from_source(
+            db, "aliexpress", SearchQuery(keywords="x"), "t", tight
+        )

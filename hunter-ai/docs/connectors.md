@@ -113,8 +113,8 @@ signature, reproduite sur les deux exemples officiels — secret `helloworld` �
 | Paramètres | `keywords`, `page_size` 1–50, `target_currency`, `target_language`, `ship_to_country`, `tracking_id`… | EUR, FR, livraison France ; 50 max |
 | Prix | `target_sale_price` (devise cible) ; « prix selon la politique fiscale du pays » | Prix EUR enregistré ; **TVA incluse probable mais à confirmer** dans le calculateur |
 | Prix max. | `max_sale_price` documenté « unit cent » (ambigu) | **Non envoyé** : filtrage local |
-| Livraison | Non fournie par cette méthode | « inconnue » |
-| Quota | Non publié | Plafond HUNTER AI `ALIEXPRESS_DAILY_CALL_BUDGET` (1 000/jour) |
+| Livraison | `aliexpress.affiliate.product.shipping.get` (product_id, sku_id, ship_to_country, target_currency, target_sale_price, target_language, tax_rate → shipping_fee, délais, ship_from_country) | Frais réels pour les N premiers produits (`ALIEXPRESS_SHIPPING_LOOKUPS_PER_RUN`, 10 par défaut, 1 appel chacun) ; pays d'expédition enregistré ; échec → frais « inconnus » + avertissement, sans bloquer |
+| Quota | Non publié | Plafond HUNTER AI `ALIEXPRESS_DAILY_CALL_BUDGET` (1 000/jour) ; chaque collecte réserve 1 + N appels avant de partir |
 
 Liens : la fiche produit publique (`product_detail_url`), **jamais votre lien d'affiliation**
 (acheter via son propre lien est en général interdit par les programmes d'affiliation).
@@ -134,3 +134,11 @@ lecture seule, faible volume, aucune republication.
 4. **Sites et fournisseurs** → AliExpress → **Tester la connexion** (recherche « phone case »,
    3 produits). Succès → `active` ; « identifiants » → vérifier les clés ; « refusé » →
    l'application n'a pas encore l'autorisation Affiliate API.
+
+**Hypothèse documentée :** `shipping_fee` n'indique pas sa devise ; il est demandé avec
+`target_currency=EUR` et enregistré comme montant en euros.
+
+**Écarté :** `sudheer-ranga/aliexpress-product-scraper` (navigateur automatisé avec module
+« stealth » de contournement anti-robots et appel à une API interne `mtop`) — contraire à la
+règle 4 du cahier des charges. Les mêmes informations (frais de port, détail, variantes) passent
+par les méthodes officielles ci-dessus.

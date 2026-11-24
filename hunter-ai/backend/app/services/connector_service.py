@@ -14,6 +14,7 @@ from app.connectors.registry import (
     daily_call_budget,
     get_connector,
     is_configured,
+    max_calls_per_run,
 )
 from app.core.config import Settings
 from app.models import AccessMethod, ConnectorRun, RunStatus, Source, SourceStatus
@@ -25,8 +26,6 @@ from app.services.collection_service import (
     run_collection,
 )
 
-# Appels maximum d'une collecte (jeton + recherche) : réservés avant de lancer.
-CALLS_PER_RUN = 2
 TEST_QUERIES = {"aliexpress": SearchQuery(keywords="phone case", limit=3)}
 DEFAULT_TEST_QUERY = SearchQuery(keywords="nike", limit=3)
 
@@ -65,7 +64,8 @@ def calls_used_today(db: Session, source: Source) -> int:
 
 def check_budget(db: Session, source: Source, settings: Settings) -> None:
     budget = daily_call_budget(source.slug, settings)
-    if budget is not None and calls_used_today(db, source) + CALLS_PER_RUN > budget:
+    planned = max_calls_per_run(source.slug, settings)
+    if budget is not None and calls_used_today(db, source) + planned > budget:
         raise CollectionRefusedError(
             f"Quota journalier atteint pour « {source.name} » ({budget} appels). "
             "Reprise automatique demain (minuit UTC)."

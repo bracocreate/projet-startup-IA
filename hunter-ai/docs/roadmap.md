@@ -45,7 +45,10 @@ Sur une machine personnelle, `make up` fonctionne sans cet ajustement.
 quotas), page « Sites et fournisseurs » (test de connexion, collecte), `POST /sources/{slug}/test`,
 `POST /sources/{slug}/collect`, `GET /connectors`. 85 tests backend, 31 frontend.
 
-**Ajout : connecteur AliExpress Affiliate API** (signature vérifiée sur les vecteurs officiels).
+**Ajout : connecteur AliExpress Affiliate API** (signature vérifiée sur les vecteurs officiels),
+avec frais de port réels et pays d'expédition (méthode officielle `product.shipping.get`), et lien
+« Calculer la rentabilité » depuis chaque offre (calculateur pré-rempli, origine UE/hors UE
+déduite du pays d'expédition).
 
 **Reste pour clore la Phase 3 :** les tests réels avec vos clés eBay et AliExpress
 (voir `docs/connectors.md`).

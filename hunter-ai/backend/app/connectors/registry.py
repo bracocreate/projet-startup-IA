@@ -73,3 +73,12 @@ def daily_call_budget(slug: str, settings: Settings) -> int | None:
     if slug == ALIEXPRESS_SLUG:
         return settings.aliexpress_daily_call_budget
     return None
+
+
+def max_calls_per_run(slug: str, settings: Settings) -> int:
+    """Appels API maximum d'une collecte, réservés sur le quota avant de la lancer."""
+    if slug == EBAY_SLUG:
+        return 2  # jeton + recherche
+    if slug == ALIEXPRESS_SLUG:
+        return 1 + settings.aliexpress_shipping_lookups_per_run
+    return 0

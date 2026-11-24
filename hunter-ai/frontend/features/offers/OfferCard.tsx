@@ -1,3 +1,5 @@
+import Link from "next/link";
+import { calculatorHref } from "@/features/profit/prefill";
 import type { Offer } from "@/lib/api";
 import { AVAILABILITY_LABELS, formatDateTime, formatMoney, formatShipping } from "@/lib/format";
 
@@ -55,9 +57,10 @@ export function OfferCard({ offer }: { offer: Offer }) {
           {offer.is_stale ? "Non revérifiée récemment — " : ""}vérifiée le {formatDateTime(offer.last_verified_at)}
         </span>
         <span className="text-slate-500">{MATCH_LABELS[offer.match_method]}</span>
+        {offer.country && <span className="text-slate-500">expédié depuis {offer.country}</span>}
       </div>
 
-      <div className="mt-3">
+      <div className="mt-3 flex flex-wrap gap-4">
         {/* Ouvre uniquement le site marchand : aucune commande n'est jamais passée par HUNTER AI. */}
         <a
           href={offer.url}
@@ -67,6 +70,11 @@ export function OfferCard({ offer }: { offer: Offer }) {
         >
           Ouvrir le site marchand ↗
         </a>
+        {calculatorHref(offer) && (
+          <Link href={calculatorHref(offer) ?? "/rentabilite"} className="text-sm font-medium text-indigo-700 underline">
+            Calculer la rentabilité
+          </Link>
+        )}
       </div>
     </article>
   );

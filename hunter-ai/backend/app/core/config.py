@@ -59,6 +59,8 @@ class Settings(BaseSettings):
     aliexpress_tracking_id: str = ""
     # Quota officiel non publié : plafond de sécurité propre à HUNTER AI.
     aliexpress_daily_call_budget: int = Field(default=1000, ge=1, le=100_000)
+    # Frais de port réels : 1 appel par produit, pour les N premiers résultats (0 = désactivé).
+    aliexpress_shipping_lookups_per_run: int = Field(default=10, ge=0, le=50)
 
     @property
     def aliexpress_configured(self) -> bool:
