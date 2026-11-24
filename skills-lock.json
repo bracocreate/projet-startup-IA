@@ -1,6 +1,14 @@
 {
   "version": 2,
   "skills": {
+    "docker": {
+      "source": "Mindrally/skills",
+      "commit": "7682ca77710e0971eab4e0ae5dddfa281aea0ba5",
+      "sourceType": "github",
+      "skillPath": "docker/SKILL.md",
+      "computedHash": "f9a56c9e4d06e5011b26a15a7b77673b5854dfdb8270b854da25a755aca39752",
+      "installMode": "copy"
+    },
     "fastapi-architect": {
       "source": "ghalex/skills",
       "commit": "e988e8101de0e0b99f98356705f85f8e2aec38f1",
@@ -23,6 +31,38 @@
       "sourceType": "github",
       "skillPath": "nextjs-architect/SKILL.md",
       "computedHash": "4d66fdb2c677e41456cc710f266684a516c0626cf33c3c7c0255e2b17900f1a4",
+      "installMode": "copy"
+    },
+    "nextjs-rules": {
+      "source": "ghalex/skills",
+      "commit": "e988e8101de0e0b99f98356705f85f8e2aec38f1",
+      "sourceType": "github",
+      "skillPath": "nextjs-rules/SKILL.md",
+      "computedHash": "847f27b96710bbb717a0afce888874b3bbdc471bf1ad3560820f554b642b6924",
+      "installMode": "copy"
+    },
+    "pandas-best-practices": {
+      "source": "Mindrally/skills",
+      "commit": "7682ca77710e0971eab4e0ae5dddfa281aea0ba5",
+      "sourceType": "github",
+      "skillPath": "pandas-best-practices/SKILL.md",
+      "computedHash": "3fe943fb5f382410ec506e0b69d1578a1078f197edd5a7c577b83dde40af449a",
+      "installMode": "copy"
+    },
+    "postgresql-best-practices": {
+      "source": "Mindrally/skills",
+      "commit": "7682ca77710e0971eab4e0ae5dddfa281aea0ba5",
+      "sourceType": "github",
+      "skillPath": "postgresql-best-practices/SKILL.md",
+      "computedHash": "d0a6b67c67d1d4ce53fb99b862c6fb56927491af66496fde58579b61dc1cf60e",
+      "installMode": "copy"
+    },
+    "python-testing": {
+      "source": "Mindrally/skills",
+      "commit": "7682ca77710e0971eab4e0ae5dddfa281aea0ba5",
+      "sourceType": "github",
+      "skillPath": "python-testing/SKILL.md",
+      "computedHash": "a0c82b3ddcbdfdf88af8c8495ae5d828f8a59003fb1430c39a8f092630917e9e",
       "installMode": "copy"
     }
   }
