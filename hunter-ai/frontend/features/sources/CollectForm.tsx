@@ -38,7 +38,7 @@ export function CollectForm({ slug, onDone }: Props) {
 
   return (
     <form onSubmit={onSubmit} className="mt-4 space-y-3 border-t border-slate-100 pt-4">
-      <p className="text-sm font-medium">Lancer une collecte (annonces les plus récentes d&apos;abord)</p>
+      <p className="text-sm font-medium">Lancer une collecte</p>
       <div className="grid gap-3 sm:grid-cols-3">
         <label className="text-sm sm:col-span-3">
           <span className="mb-1 block">Mots-clés (marque, modèle…)</span>

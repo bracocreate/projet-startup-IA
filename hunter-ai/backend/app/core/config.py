@@ -52,6 +52,18 @@ class Settings(BaseSettings):
     def ebay_configured(self) -> bool:
         return bool(self.ebay_client_id and self.ebay_client_secret.get_secret_value())
 
+    # --- AliExpress Affiliate API (connecteur officiel) ---
+    aliexpress_app_key: str = ""
+    aliexpress_app_secret: SecretStr = SecretStr("")
+    # Tracking ID du programme d'affiliation (Portals) : facultatif pour la recherche.
+    aliexpress_tracking_id: str = ""
+    # Quota officiel non publié : plafond de sécurité propre à HUNTER AI.
+    aliexpress_daily_call_budget: int = Field(default=1000, ge=1, le=100_000)
+
+    @property
+    def aliexpress_configured(self) -> bool:
+        return bool(self.aliexpress_app_key and self.aliexpress_app_secret.get_secret_value())
+
     @field_validator("log_level")
     @classmethod
     def _upper(cls, v: str) -> str:

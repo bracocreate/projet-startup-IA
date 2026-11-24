@@ -99,3 +99,38 @@ affichage des données eBay). HUNTER AI ne stocke que les champs nécessaires et
 un corps JSON `{"keywords": "polo ralph lauren", "max_price": 30, "limit": 50}`. Exemple de cadence :
 10 recherches toutes les 5 minutes ≈ 2 900 appels/jour (sous le plafond de 4 500). Les alertes
 ntfy sur les bonnes affaires arriveront avec le Price Radar (Phase 4).
+
+
+### Connecteur AliExpress Affiliate API (implémenté, à activer avec vos clés)
+
+Vérifié le 24/11/2026 (référence officielle de `aliexpress.affiliate.product.query` et règle de
+signature, reproduite sur les deux exemples officiels — secret `helloworld` — dans les tests) :
+
+| Point | Source officielle | HUNTER AI |
+|---|---|---|
+| Appel | `GET https://api-sg.aliexpress.com/sync?method=aliexpress.affiliate.product.query` | Idem |
+| Signature | HMAC-SHA256 (clé = App Secret) des paramètres triés nom+valeur, hex majuscule ; horodatage en ms ; `sign_method=sha256` | Idem ; le secret n'est jamais envoyé |
+| Paramètres | `keywords`, `page_size` 1–50, `target_currency`, `target_language`, `ship_to_country`, `tracking_id`… | EUR, FR, livraison France ; 50 max |
+| Prix | `target_sale_price` (devise cible) ; « prix selon la politique fiscale du pays » | Prix EUR enregistré ; **TVA incluse probable mais à confirmer** dans le calculateur |
+| Prix max. | `max_sale_price` documenté « unit cent » (ambigu) | **Non envoyé** : filtrage local |
+| Livraison | Non fournie par cette méthode | « inconnue » |
+| Quota | Non publié | Plafond HUNTER AI `ALIEXPRESS_DAILY_CALL_BUDGET` (1 000/jour) |
+
+Liens : la fiche produit publique (`product_detail_url`), **jamais votre lien d'affiliation**
+(acheter via son propre lien est en général interdit par les programmes d'affiliation).
+
+**À relire :** l'accord du programme d'affiliation AliExpress, notamment l'usage des données de
+l'API pour vos propres achats (l'API est conçue pour promouvoir des produits). Usage prévu ici :
+lecture seule, faible volume, aucune republication.
+
+#### Mise en route (vous)
+1. Sur <https://openservice.aliexpress.com>, connectez-vous avec votre compte affilié, puis
+   **App Management** → créez une application de type **Affiliate API** (validation par AliExpress
+   possible).
+2. Récupérez **App Key** et **App Secret**, et votre **Tracking ID** sur
+   <https://portals.aliexpress.com> (facultatif pour la recherche).
+3. Renseignez `ALIEXPRESS_APP_KEY`, `ALIEXPRESS_APP_SECRET` (et `ALIEXPRESS_TRACKING_ID`) dans
+   `.env`, puis `make restart`. **Jamais dans un chat.**
+4. **Sites et fournisseurs** → AliExpress → **Tester la connexion** (recherche « phone case »,
+   3 produits). Succès → `active` ; « identifiants » → vérifier les clés ; « refusé » →
+   l'application n'a pas encore l'autorisation Affiliate API.

@@ -45,7 +45,10 @@ Sur une machine personnelle, `make up` fonctionne sans cet ajustement.
 quotas), page « Sites et fournisseurs » (test de connexion, collecte), `POST /sources/{slug}/test`,
 `POST /sources/{slug}/collect`, `GET /connectors`. 85 tests backend, 31 frontend.
 
-**Reste pour clore la Phase 3 :** le test réel avec vos clés eBay (voir `docs/connectors.md`).
+**Ajout : connecteur AliExpress Affiliate API** (signature vérifiée sur les vecteurs officiels).
+
+**Reste pour clore la Phase 3 :** les tests réels avec vos clés eBay et AliExpress
+(voir `docs/connectors.md`).
 
 ## Phase 5 — premier livrable (24/11/2026)
 

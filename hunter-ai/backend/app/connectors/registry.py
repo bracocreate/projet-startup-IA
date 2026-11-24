@@ -2,6 +2,7 @@
 
 from dataclasses import dataclass
 
+from app.connectors.aliexpress import ALIEXPRESS_SLUG, AliExpressConnector
 from app.connectors.base import SourceConnector
 from app.connectors.demo import DEMO_SLUG, DemoConnector
 from app.connectors.ebay import EBAY_SLUG, EbayConnector
@@ -33,6 +34,14 @@ CONNECTORS: dict[str, ConnectorInfo] = {
         description="Annonces à prix fixe livrables en France, triées des plus récentes aux plus "
         "anciennes. Gratuit, 5 000 appels/jour par défaut. Nécessite un compte développeur eBay.",
     ),
+    ALIEXPRESS_SLUG: ConnectorInfo(
+        slug=ALIEXPRESS_SLUG,
+        name="AliExpress (API d'affiliation officielle)",
+        family="marketplace",
+        homepage_url="https://fr.aliexpress.com",
+        description="Produits livrables en France, prix en euros. Gratuit ; nécessite le "
+        "programme d'affiliation et une application Open Platform. Frais de port non fournis.",
+    ),
 }
 
 
@@ -41,6 +50,8 @@ def get_connector(slug: str, settings: Settings) -> SourceConnector | None:
         return DemoConnector()
     if slug == EBAY_SLUG:
         return EbayConnector(settings)
+    if slug == ALIEXPRESS_SLUG:
+        return AliExpressConnector(settings)
     return None
 
 
@@ -51,10 +62,14 @@ def implemented_slugs() -> list[str]:
 def is_configured(slug: str, settings: Settings) -> bool:
     if slug == EBAY_SLUG:
         return settings.ebay_configured
+    if slug == ALIEXPRESS_SLUG:
+        return settings.aliexpress_configured
     return True
 
 
 def daily_call_budget(slug: str, settings: Settings) -> int | None:
     if slug == EBAY_SLUG:
         return settings.ebay_daily_call_budget
+    if slug == ALIEXPRESS_SLUG:
+        return settings.aliexpress_daily_call_budget
     return None

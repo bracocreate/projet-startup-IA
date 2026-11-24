@@ -239,7 +239,7 @@ def test_daily_call_budget_is_enforced(db: Session, monkeypatch):
 
 def test_connectors_listing(client):
     rows = {c["slug"]: c for c in client.get("/api/v1/connectors").json()}
-    assert set(rows) == {"demo", "ebay"}
+    assert set(rows) == {"demo", "ebay", "aliexpress"}
     assert rows["ebay"]["configured"] is False and rows["ebay"]["status"] is None
     assert rows["ebay"]["daily_call_budget"] == 4500
 

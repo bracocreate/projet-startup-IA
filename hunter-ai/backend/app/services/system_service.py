@@ -78,8 +78,8 @@ def connectors_status(db: Session) -> ComponentStatus:
     return ComponentStatus(
         name="Connecteurs de données",
         status="not_configured",
-        detail="Aucune source réelle active : configurez eBay (.env) puis lancez le test de "
-        f"connexion dans « Sites et fournisseurs ».{demo}",
+        detail="Aucune source réelle active : configurez eBay ou AliExpress (.env) puis lancez "
+        f"le test de connexion dans « Sites et fournisseurs ».{demo}",
     )
 
 

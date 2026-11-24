@@ -27,7 +27,8 @@ from app.services.collection_service import (
 
 # Appels maximum d'une collecte (jeton + recherche) : réservés avant de lancer.
 CALLS_PER_RUN = 2
-TEST_QUERY = SearchQuery(keywords="nike", limit=3)
+TEST_QUERIES = {"aliexpress": SearchQuery(keywords="phone case", limit=3)}
+DEFAULT_TEST_QUERY = SearchQuery(keywords="nike", limit=3)
 
 
 def get_or_create_source(db: Session, slug: str, settings: Settings) -> Source:
@@ -104,7 +105,8 @@ def test_source(db: Session, slug: str, actor: str, settings: Settings) -> Sourc
     db.add(run)
     db.flush()
     try:
-        offers = fetch_raw_offers(connector, TEST_QUERY)
+        test_query = TEST_QUERIES.get(slug, DEFAULT_TEST_QUERY)
+        offers = fetch_raw_offers(connector, test_query)
     except Exception as exc:  # tout échec est consigné, jamais masqué
         detail = str(exc) if isinstance(exc, ConnectorError) else type(exc).__name__
         if not is_configured(slug, settings) or "identifiants" in detail.lower():
@@ -121,7 +123,7 @@ def test_source(db: Session, slug: str, actor: str, settings: Settings) -> Sourc
         source.status = SourceStatus.active
         run.status = RunStatus.success
         run.offers_received = count
-        detail = f"Test réel réussi : {count} annonce(s) reçue(s) pour « {TEST_QUERY.keywords} »."
+        detail = f"Test réel réussi : {count} annonce(s) reçue(s) pour « {test_query.keywords} »."
         source.terms_notes = (
             f"{CONNECTORS[slug].description}\nDernier test réussi : "
             f"{datetime.now(UTC):%Y-%m-%d %H:%M} UTC ({count} annonce(s))."
