@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "skills": {
+    "fastapi-architect": {
+      "source": "ghalex/skills",
+      "commit": "e988e8101de0e0b99f98356705f85f8e2aec38f1",
+      "sourceType": "github",
+      "skillPath": "fastapi-architect/SKILL.md",
+      "computedHash": "a51546afa0bbd1acf22723f69b918d28d13255f7f91c6e8a8ab5c5d2569d1f24",
+      "installMode": "copy"
+    },
+    "fastapi-rules": {
+      "source": "ghalex/skills",
+      "commit": "e988e8101de0e0b99f98356705f85f8e2aec38f1",
+      "sourceType": "github",
+      "skillPath": "fastapi-rules/SKILL.md",
+      "computedHash": "501f7e2c247799fdcf4d07ac7eb69e41aecc7a76cd49b612182ceecef2a22489",
+      "installMode": "copy"
+    },
+    "nextjs-architect": {
+      "source": "ghalex/skills",
+      "commit": "e988e8101de0e0b99f98356705f85f8e2aec38f1",
+      "sourceType": "github",
+      "skillPath": "nextjs-architect/SKILL.md",
+      "computedHash": "4d66fdb2c677e41456cc710f266684a516c0626cf33c3c7c0255e2b17900f1a4",
+      "installMode": "copy"
+    }
+  }
+}
