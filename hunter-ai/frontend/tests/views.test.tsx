@@ -143,6 +143,8 @@ describe("Navigation", () => {
       "Vue d'ensemble",
       "Recherche mondiale",
       "Sites et fournisseurs",
+      "Lots et achats",
+      "Résultats de revente",
       "Paramètres",
       "Santé du système",
     ]);

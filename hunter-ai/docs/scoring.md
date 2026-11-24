@@ -14,3 +14,21 @@ Principes retenus, issus du cahier des charges §10 :
 - Formules (Profit Engine) : coût rendu, bénéfice net, **ROI ≠ marge**, prix d'achat max,
   prix de revente min, seuil de rentabilité, scénarios pessimiste/central/optimiste ; aucune
   division par zéro, valeurs manquantes → « non déterminé ».
+
+
+## Profit Engine (implémenté, Phase 5)
+
+- Coût rendu = achat + transport + droits + frais de traitement + TVA import + frais de paiement
+  + frais fixes + préparation. Chaque ligne : connue, fourchette ou inconnue ; un inconnu rend le
+  total « à vérifier ».
+- Unités vendables = quantité × (1 − taux de défaut).
+- Bénéfice = unités vendables × prix de revente − frais de vente − coût rendu.
+- ROI = bénéfice ÷ coût rendu × 100 ; marge = bénéfice ÷ chiffre d'affaires × 100.
+- Scénarios : pessimiste (prix bas, coût haut), central (prix central, coût haut — prudent),
+  optimiste (prix haut, coût bas).
+- Seuil de rentabilité = (coût haut ÷ unités vendables + frais fixes de vente + port) ÷
+  (1 − commission %).
+- Prix d'achat maximum : recherche au centime, revérifiée (le seuil de 150 € rend le coût non
+  linéaire).
+- Référence de revente : quartiles de vos ventes réalisées, proposée seulement à partir de
+  3 ventes comparables.

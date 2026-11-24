@@ -28,3 +28,14 @@ export const AVAILABILITY_LABELS = {
   out_of_stock: "Rupture",
   unknown: "Disponibilité à confirmer",
 } as const;
+
+export function formatRange(r: { low: string; high: string } | null): string {
+  if (r === null) return "à vérifier";
+  if (r.low === r.high) return formatMoney(r.low, "EUR");
+  return `${formatMoney(r.low, "EUR")} à ${formatMoney(r.high, "EUR")}`;
+}
+
+export function formatPct(value: string | null): string {
+  if (value === null) return "non calculable";
+  return `${new Intl.NumberFormat("fr-FR", { maximumFractionDigits: 1 }).format(Number(value))} %`;
+}

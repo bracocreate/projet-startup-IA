@@ -33,6 +33,8 @@ async function request<T>(path: string, init?: RequestInit): Promise<T> {
     }
     throw new ApiError(detail, res.status);
   }
+  // 204 « Aucun contenu » (ex. suppression) : rien à lire.
+  if (res.status === 204) return undefined as T;
   return (await res.json()) as T;
 }
 
@@ -184,4 +186,57 @@ export type SourceTestResult = {
   detail: string;
   sample_count: number;
   api_calls: number;
+};
+
+export type AmountRange = { low: string; high: string };
+
+export type ProfitResult = {
+  lines: { key: string; label: string; status: "known" | "range" | "unknown"; amount: AmountRange | null; basis: string }[];
+  landed_cost: AmountRange | null;
+  landed_cost_per_unit: AmountRange | null;
+  sellable_units: string;
+  cost_per_sellable_unit: AmountRange | null;
+  scenarios: {
+    key: "pessimistic" | "central" | "optimistic";
+    resale_price: string;
+    cost_used: string;
+    revenue: string;
+    selling_costs: string;
+    profit: string;
+    roi_pct: string | null;
+    margin_pct: string | null;
+  }[];
+  break_even_price: string | null;
+  max_unit_price_for_target: string | null;
+  missing: string[];
+  warnings: string[];
+  rules_version: string;
+};
+
+export type ResaleRecord = {
+  id: string;
+  title: string;
+  brand: string | null;
+  category: string | null;
+  size: string | null;
+  condition: string | null;
+  channel: "vinted" | "ebay" | "leboncoin" | "other";
+  sale_price: string;
+  platform_fees: string | null;
+  shipping_paid: string | null;
+  purchase_cost: string | null;
+  real_profit: string | null;
+  sold_on: string;
+  notes: string | null;
+  created_at: string;
+};
+
+export type ResaleReference = {
+  count: number;
+  enough: boolean;
+  minimum: string | null;
+  low: string | null;
+  median: string | null;
+  high: string | null;
+  maximum: string | null;
 };

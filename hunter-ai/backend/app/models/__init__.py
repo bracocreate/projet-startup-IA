@@ -17,6 +17,7 @@ from app.models.catalog import (
     ProductVariant,
     RunStatus,
 )
+from app.models.resale import ResaleRecord, SaleChannel
 from app.models.source import AccessMethod, Source, SourceStatus
 from app.models.user import User, UserSettings
 
@@ -32,7 +33,9 @@ __all__ = [
     "OfferObservation",
     "Product",
     "ProductVariant",
+    "ResaleRecord",
     "RunStatus",
+    "SaleChannel",
     "Source",
     "SourceStatus",
     "User",

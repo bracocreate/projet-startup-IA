@@ -7,7 +7,7 @@
 | 2 | Dashboard complet : listes, fiches, filtres persistants, données DEMO identifiées | ⏳ Partiel (navigation, accueil état vide, paramètres, santé) |
 | 3 | Modèle produit/offre, contrat de connecteur, connecteur DEMO, premier connecteur réel (eBay Browse API recommandé), normalisation, déduplication, historique | ⏳ Connecteur eBay implémenté et testé (simulé) ; activation réelle avec vos clés |
 | 4 | Price Radar | À faire |
-| 5 | Profit Engine (coût rendu, lots, ROI/marge, scénarios) | À faire |
+| 5 | Profit Engine (coût rendu, lots, ROI/marge, scénarios) | ⏳ Calculateur + ventes réalisées livrés ; analyses enregistrées et lien aux offres à venir |
 | 6 | Market Intelligence (première source de tendances autorisée) | À faire |
 | 7 | Discovery AI (propositions validées par l'utilisateur) | À faire |
 | 8 | Planification 06:00–08:00, quotas, Telegram, rapport de session | À faire |
@@ -46,6 +46,22 @@ quotas), page « Sites et fournisseurs » (test de connexion, collecte), `POST /
 `POST /sources/{slug}/collect`, `GET /connectors`. 85 tests backend, 31 frontend.
 
 **Reste pour clore la Phase 3 :** le test réel avec vos clés eBay (voir `docs/connectors.md`).
+
+## Phase 5 — premier livrable (24/11/2026)
+
+- Moteur `app/engines/profit_engine/calculator.py` : coût rendu ligne par ligne (connu,
+  fourchette ou « à vérifier »), import hors UE 2026 (3 € de droits par catégorie d'article si
+  envoi ≤ 150 €, 2 € de frais de traitement par catégorie, TVA incluse/non/inconnue), défauts,
+  scénarios pessimiste / central / optimiste, ROI ≠ marge, seuil de rentabilité, prix d'achat
+  maximum pour un ROI visé. Aucune division invalide, aucune valeur inventée.
+- Ventes réalisées (`resale_records`, migration `0004`) : saisie, bénéfice réel seulement si tous
+  les coûts sont connus, référence de prix (quartiles) dès 3 ventes comparables.
+- Pages « Lots et achats » (calculateur) et « Résultats de revente ».
+- 104 tests backend, 39 tests frontend.
+
+**Limites :** les analyses ne sont pas encore enregistrées ni rattachées à une offre ; les taux de
+douane au-delà de 150 € sont à saisir (pas de base tarifaire intégrée) ; règles d'import datées du
+24/11/2026 (provisoires jusqu'au 1er juillet 2028 selon la douane).
 
 ## Prochaine étape proposée
 Au choix : (a) connecteur eBay Browse API (après création de votre compte développeur et votre
