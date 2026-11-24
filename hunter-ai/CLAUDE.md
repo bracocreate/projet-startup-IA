@@ -57,4 +57,4 @@ données commerciales **vérifiables** en opportunités d'achat‑revente docume
 Voir `README.md` (section « Commandes ») et `Makefile`.
 
 ## État d'avancement
-Voir `docs/roadmap.md`. Phase courante : **Phase 1 — socle fonctionnel**.
+Voir `docs/roadmap.md`. Phase courante : **Phase 3 — modèle produit/offre et collecte** (connecteur réel eBay en attente d'accord).

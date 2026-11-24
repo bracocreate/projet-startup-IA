@@ -1,7 +1,9 @@
 "use client";
 
 import { useCallback, useEffect, useState } from "react";
+import Link from "next/link";
 import { Banner, Card, Loading, PageHeader } from "@/components/ui";
+import { DemoDataCard } from "@/features/dashboard/DemoDataCard";
 import { api, ApiError, type DashboardSummary } from "@/lib/api";
 import { formatDateTime } from "@/lib/format";
 
@@ -98,6 +100,15 @@ export function DashboardView({ initialData = null }: { initialData?: DashboardS
                   ? "Aucune source enregistrée."
                   : `${data.sources_total} source(s) enregistrée(s).`}
               </p>
+              <p className="mt-1 text-sm">
+                {data.offers_total === 0 ? (
+                  "Aucune offre collectée."
+                ) : (
+                  <Link href="/recherche" className="text-indigo-700 underline">
+                    {data.offers_total} offre(s) collectée(s) — voir la liste
+                  </Link>
+                )}
+              </p>
               {data.sources_in_error.length > 0 && (
                 <ul className="mt-3 space-y-1 text-sm text-red-700" aria-label="Sources en erreur">
                   {data.sources_in_error.map((s) => (
@@ -116,6 +127,8 @@ export function DashboardView({ initialData = null }: { initialData?: DashboardS
               </p>
             </Card>
           </div>
+
+          <DemoDataCard hasDemo={data.data_mode === "demo"} onChanged={() => void load()} />
         </>
       )}
     </div>

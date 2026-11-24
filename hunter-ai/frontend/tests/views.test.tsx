@@ -13,6 +13,7 @@ const summary = (over: Partial<DashboardSummary> = {}): DashboardSummary => ({
   is_stale: true,
   stale_after_hours: 24,
   sources_total: 0,
+  offers_total: 0,
   sources_by_status: {},
   sources_in_error: [],
   pending_discoveries: 0,
@@ -140,6 +141,7 @@ describe("Navigation", () => {
     expect(NAV_ITEMS).toHaveLength(15);
     expect(NAV_ITEMS.filter((i) => i.available).map((i) => i.label)).toEqual([
       "Vue d'ensemble",
+      "Recherche mondiale",
       "Paramètres",
       "Santé du système",
     ]);

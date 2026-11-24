@@ -16,7 +16,7 @@ const soon = (label: string, slug: string, phase: number): NavItem => ({
 export const NAV_ITEMS: NavItem[] = [
   { label: "Vue d'ensemble", href: "/", phase: 1, available: true },
   soon("Meilleures affaires", "meilleures-affaires", 4),
-  soon("Recherche mondiale", "recherche-mondiale", 3),
+  { label: "Recherche mondiale", href: "/recherche", phase: 3, available: true },
   soon("Market Intelligence", "market-intelligence", 6),
   soon("Tendances", "tendances", 6),
   soon("Découvertes IA", "decouvertes", 7),

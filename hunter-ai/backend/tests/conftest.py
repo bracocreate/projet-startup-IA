@@ -55,7 +55,11 @@ def db(engine: Engine) -> Iterator[Session]:
     session.close()
     with engine.begin() as conn:
         conn.execute(
-            text("TRUNCATE audit_logs, user_settings, users, sources RESTART IDENTITY CASCADE")
+            text(
+                "TRUNCATE audit_logs, user_settings, users, sources, merchants, products, "
+                "product_variants, offers, offer_observations, connector_runs "
+                "RESTART IDENTITY CASCADE"
+            )
         )
 
 

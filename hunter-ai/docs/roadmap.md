@@ -5,7 +5,7 @@
 | 0 | Audit, architecture, `CLAUDE.md`, conventions | ✅ Fait |
 | 1 | Socle : FastAPI, Next.js, PostgreSQL, Docker Compose, migrations, health checks, configuration, logs, tests | ✅ Fait et vérifié (natif + Docker) |
 | 2 | Dashboard complet : listes, fiches, filtres persistants, données DEMO identifiées | ⏳ Partiel (navigation, accueil état vide, paramètres, santé) |
-| 3 | Modèle produit/offre, contrat de connecteur, connecteur DEMO, premier connecteur réel (eBay Browse API recommandé), normalisation, déduplication, historique | À faire |
+| 3 | Modèle produit/offre, contrat de connecteur, connecteur DEMO, premier connecteur réel (eBay Browse API recommandé), normalisation, déduplication, historique | ⏳ Partiel : tout sauf le connecteur réel (attend votre accord) |
 | 4 | Price Radar | À faire |
 | 5 | Profit Engine (coût rendu, lots, ROI/marge, scénarios) | À faire |
 | 6 | Market Intelligence (première source de tendances autorisée) | À faire |
@@ -28,7 +28,23 @@ Note : dans l'environnement cloud de développement, la construction des images 
 fichier d'override local (non versionné) pour faire confiance au certificat du proxy réseau.
 Sur une machine personnelle, `make up` fonctionne sans cet ajustement.
 
+## Phase 3 — livré le 24/11/2026
+
+- Migration `0002` (marchands, produits, variantes, offres, observations, exécutions de connecteurs),
+  testée en montée, descente et remontée ; appliquée automatiquement sur une base existante.
+- Contrat `SourceConnector`, registre, connecteur DEMO fictif.
+- Normalisation, conversion EUR sans taux inventé, rattachement GTIN / marque + référence,
+  déduplication, historique par changement, idempotence, gestion des pannes.
+- API : `/offers` (filtres, tri, pagination), `/offers/{id}`, `/products/{id}/price-history`,
+  `/connector-runs`, `/demo/load`, `DELETE /demo`.
+- Interface : page « Recherche mondiale » (offres collectées, filtres dans l'URL), bloc
+  « Données de démonstration » sur la vue d'ensemble.
+- Vérifié : 59 tests backend, 26 tests frontend, parcours complet dans Docker et navigateur.
+
+**Reste pour clore la Phase 3 :** le premier connecteur réel (eBay Browse API), qui nécessite
+votre compte développeur eBay et votre accord.
+
 ## Prochaine étape proposée
-Phase 3 : créer les tables `products`, `product_variants`, `merchants`, `offers`,
-`offer_observations`, le contrat `SourceConnector`, un connecteur DEMO, puis demander votre feu
-vert avant d'activer eBay Browse API (création d'un compte développeur eBay gratuit).
+Au choix : (a) connecteur eBay Browse API (après création de votre compte développeur et votre
+feu vert) ; (b) Phase 4 Price Radar sur les données collectées (statistiques d'historique,
+écarts entre marchands, « prix inhabituellement bas à vérifier »).

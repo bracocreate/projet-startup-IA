@@ -59,8 +59,34 @@ Rendu initial d'une page : Next.js (serveur) ──BACKEND_URL/api/v1/*──▶
 | `sources` | Registre des sources avec statuts `planned … blocked_by_terms`, méthode d'accès, `is_demo`. |
 | `audit_logs` | Journal des actions modifiant un état (acteur, action, entité, détails JSON masqués). |
 
-Les autres entités du §13 (produits, variantes, offres, observations, opportunités, lots…) seront
-ajoutées par migrations successives à partir de la Phase 3.
+### Ajouts de la Phase 3 (migration `0002`)
+
+| Table | Rôle |
+|---|---|
+| `merchants` | Vendeurs, identifiés par une clé normalisée nom + pays. |
+| `products` | Identité générique. GTIN unique ; couple (marque normalisée, référence fabricant) unique. |
+| `product_variants` | Taille / couleur d'un produit. |
+| `offers` | Offre d'un marchand via une source : prix affiché + devise d'origine, prix EUR (NULL si aucun taux), frais de livraison (NULL = inconnus), disponibilité, dates de 1re vue / dernière vérification, méthode d'accès, méthode et confiance du rattachement produit. Unique par (source, identifiant externe). |
+| `offer_observations` | Historique : une ligne à chaque **changement** de prix, livraison ou disponibilité (tient lieu de `price_history`). |
+| `connector_runs` | Chaque exécution de connecteur : statut (`success`, `partial`, `error`), compteurs, erreurs. |
+
+Les autres entités du §13 (opportunités, scores, tendances, lots…) arriveront avec leurs phases.
+
+## Chaîne de collecte (Phase 3)
+
+```
+Connecteur (lecture seule, async)      app/connectors/*  — contrat SourceConnector
+   └─▶ RawOffer[]
+collection_service.run_collection      app/services/collection_service.py
+   ├─ refus si la source n'est pas active/degraded/error
+   ├─ normalisation (normalization.py) : textes, GTIN (clé vérifiée), devise, pays, UTC, URL
+   ├─ conversion EUR uniquement avec un taux configuré (FX_RATES_TO_EUR), sinon NULL
+   ├─ rattachement produit : GTIN → marque + référence → nouvelle fiche (jamais par titre)
+   ├─ upsert de l'offre (source, external_id) + observation seulement si changement
+   ├─ offre invalide écartée et consignée (run « partial »), panne du connecteur consignée
+   │  (run « error », source en « error »), sans exception ni effet sur les autres sources
+   └─ journal d'audit « collection.run »
+```
 
 ## Endpoints disponibles
 

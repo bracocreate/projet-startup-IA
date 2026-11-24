@@ -4,9 +4,10 @@ Plateforme personnelle de **veille commerciale, sourcing mondial et intelligence
 Elle transforme des données commerciales vérifiables en opportunités d'achat‑revente documentées,
 classées et explicables. **Elle n'achète jamais rien à votre place.**
 
-> **État actuel : Phase 1 — socle technique.** L'application démarre, la base de données, l'API,
-> l'interface, les paramètres et la page « Santé du système » fonctionnent. **Aucune donnée
-> commerciale n'est encore collectée** : le tableau de bord affiche un état vide explicite.
+> **État actuel : Phase 3 en cours.** Le socle, le modèle produit/offre, la chaîne de collecte et
+> la page « Recherche mondiale » fonctionnent. **Aucune source réelle n'est encore connectée** :
+> pour essayer, cliquez sur « Charger les données DEMO » dans la vue d'ensemble (données fictives,
+> clairement marquées, supprimables en un clic).
 > Voir [`docs/roadmap.md`](docs/roadmap.md).
 
 ---

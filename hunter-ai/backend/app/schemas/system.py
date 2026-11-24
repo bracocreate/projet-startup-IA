@@ -53,6 +53,7 @@ class DashboardSummaryRead(BaseModel):
     is_stale: bool
     stale_after_hours: int
     sources_total: int
+    offers_total: int
     sources_by_status: dict[str, int]
     sources_in_error: list[SourceRead]
     pending_discoveries: int

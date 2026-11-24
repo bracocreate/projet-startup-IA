@@ -40,6 +40,9 @@ export const api = {
   get: <T>(path: string) => request<T>(path),
   patch: <T>(path: string, body: unknown) =>
     request<T>(path, { method: "PATCH", body: JSON.stringify(body) }),
+  post: <T>(path: string, body?: unknown) =>
+    request<T>(path, { method: "POST", body: body === undefined ? undefined : JSON.stringify(body) }),
+  delete: <T>(path: string) => request<T>(path, { method: "DELETE" }),
 };
 
 // --- Types alignés sur les schémas Pydantic du backend ---
@@ -70,6 +73,7 @@ export type DashboardSummary = {
   is_stale: boolean;
   stale_after_hours: number;
   sources_total: number;
+  offers_total: number;
   sources_by_status: Record<string, number>;
   sources_in_error: SourceSummary[];
   pending_discoveries: number;
@@ -109,4 +113,55 @@ export type UserSettings = {
   telegram_enabled: boolean;
   auto_purchase_allowed: boolean;
   updated_at: string;
+};
+
+export type SourceRef = { slug: string; name: string; is_demo: boolean };
+
+export type Offer = {
+  id: string;
+  title: string;
+  url: string;
+  source: SourceRef;
+  merchant: { name: string; country: string | null } | null;
+  product_id: string;
+  brand: string | null;
+  gtin: string | null;
+  mpn: string | null;
+  size: string | null;
+  color: string | null;
+  condition: string;
+  country: string | null;
+  price_amount: string;
+  currency: string;
+  /** null = conversion EUR impossible (aucun taux configuré). */
+  price_eur: string | null;
+  fx_rate_to_eur: string | null;
+  /** null = frais inconnus ; "0.00" = livraison gratuite. */
+  shipping_amount: string | null;
+  price_with_shipping_eur: string | null;
+  availability: "in_stock" | "out_of_stock" | "unknown";
+  first_seen_at: string;
+  last_verified_at: string;
+  is_stale: boolean;
+  access_method: string;
+  match_method: "gtin" | "brand_mpn" | "new_product";
+  match_confidence: string;
+  is_demo: boolean;
+};
+
+export type OfferPage = { items: Offer[]; total: number; limit: number; offset: number };
+
+export type ConnectorRun = {
+  id: string;
+  source: SourceRef;
+  status: "running" | "success" | "partial" | "error";
+  actor: string;
+  started_at: string;
+  finished_at: string | null;
+  offers_received: number;
+  offers_created: number;
+  offers_updated: number;
+  observations_created: number;
+  errors: string[];
+  is_demo: boolean;
 };

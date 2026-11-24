@@ -22,7 +22,9 @@ def test_system_status_reports_migrations_and_unimplemented_parts(client):
     assert names["Migrations"] == "ok"
     assert body["db_revision"] == body["db_revision_expected"]
     # On n'annonce jamais comme actif ce qui n'existe pas encore.
-    assert names["Connecteurs de données"] == "not_implemented"
+    assert (
+        names["Connecteurs de données"] == "not_configured"
+    )  # DEMO seulement, aucune source réelle
     assert names["Planificateur"] == "not_implemented"
 
 

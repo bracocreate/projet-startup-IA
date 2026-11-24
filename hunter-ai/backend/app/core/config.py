@@ -1,5 +1,6 @@
 """Configuration de l'application, lue depuis les variables d'environnement / `.env`."""
 
+from decimal import Decimal, InvalidOperation
 from functools import lru_cache
 from typing import Literal
 
@@ -35,6 +36,10 @@ class Settings(BaseSettings):
     # Seuil au-delà duquel les données sont signalées comme périmées (heures).
     stale_after_hours: int = 24
 
+    # Taux de conversion vers l'EUR, ex. "USD=0.9512,GBP=1.1890". Vide par défaut : sans taux,
+    # le prix EUR d'une offre en devise étrangère reste « non déterminé » (aucun taux inventé).
+    fx_rates_to_eur: str = ""
+
     @field_validator("log_level")
     @classmethod
     def _upper(cls, v: str) -> str:
@@ -43,6 +48,22 @@ class Settings(BaseSettings):
     @property
     def cors_origin_list(self) -> list[str]:
         return [o.strip() for o in self.cors_origins.split(",") if o.strip()]
+
+    @property
+    def fx_rate_map(self) -> dict[str, Decimal]:
+        rates: dict[str, Decimal] = {}
+        for pair in self.fx_rates_to_eur.split(","):
+            if not pair.strip():
+                continue
+            code, _, value = pair.partition("=")
+            try:
+                rate = Decimal(value.strip())
+            except InvalidOperation as exc:
+                raise ValueError(f"Taux de change invalide : {pair!r}") from exc
+            if len(code.strip()) != 3 or not rate.is_finite() or rate <= 0:
+                raise ValueError(f"Taux de change invalide : {pair!r}")
+            rates[code.strip().upper()] = rate
+        return rates
 
     @property
     def database_url(self) -> str:

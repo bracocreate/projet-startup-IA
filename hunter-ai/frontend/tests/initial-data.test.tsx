@@ -13,6 +13,7 @@ const summary: DashboardSummary = {
   is_stale: true,
   stale_after_hours: 24,
   sources_total: 0,
+  offers_total: 0,
   sources_by_status: {},
   sources_in_error: [],
   pending_discoveries: 0,

@@ -6,7 +6,7 @@ from collections.abc import Awaitable, Callable
 from fastapi import APIRouter, FastAPI, Request, Response
 from fastapi.middleware.cors import CORSMiddleware
 
-from app.api.v1 import dashboard, settings, sources, system
+from app.api.v1 import dashboard, demo, offers, settings, sources, system
 from app.core.config import APP_VERSION, get_settings
 from app.core.logging import configure_logging
 
@@ -57,6 +57,8 @@ def create_app() -> FastAPI:
     v1.include_router(dashboard.router)
     v1.include_router(settings.router)
     v1.include_router(sources.router)
+    v1.include_router(offers.router)
+    v1.include_router(demo.router)
     app.include_router(v1)
     return app
 

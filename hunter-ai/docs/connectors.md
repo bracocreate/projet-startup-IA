@@ -1,6 +1,6 @@
 # Connecteurs et sources de données
 
-**Aucun connecteur n'est actif.** Ce document recense les pistes vérifiées le 24/11/2026 dans la
+**Aucun connecteur réel n'est actif.** Seul le connecteur DEMO (données fictives) est disponible. Ce document recense les pistes vérifiées le 24/11/2026 dans la
 documentation officielle. Rien ici n'autorise une collecte : chaque source doit encore passer par
 la validation des conditions, des coûts et un test réel (statut `active` uniquement après ce test).
 
@@ -36,8 +36,35 @@ la validation des conditions, des coûts et un test réel (statut `active` uniqu
   tard pour la revente sur Amazon, pas pour le sourcing.
 - **Keepa MCP** : alternative à une intégration directe si vous prenez un abonnement Keepa.
 
-## Contrat de connecteur (Phase 3)
+## Contrat de connecteur (implémenté en Phase 3)
 
-Le contrat `SourceConnector` (`health_check`, `search`, `fetch_offer`, `get_capabilities`) sera
-implémenté dans `backend/app/connectors/` avec un connecteur de démonstration marqué `DEMO`, puis
-un premier connecteur réel (recommandation : **eBay Browse API**, gratuit et documenté).
+`backend/app/connectors/base.py` définit le contrat `SourceConnector` :
+
+| Méthode | Rôle |
+|---|---|
+| `health_check()` | La source répond-elle ? Une source en échec ne déclenche aucune recherche. |
+| `get_capabilities()` | Méthode d'accès, recherche GTIN, résultats max., délai minimal entre appels, limites. |
+| `search(SearchQuery)` | Renvoie des `RawOffer` (champs inconnus = `None`). |
+| `fetch_offer(external_id)` | Relit une offre précise (revérification). |
+
+Un connecteur **ne touche jamais à la base** : normalisation, déduplication et historique sont
+communs (`collection_service`). Il est enregistré dans `connectors/registry.py`. Une source ne peut
+collecter que si son statut est `active` (ou `degraded` / `error` pour une nouvelle tentative) :
+`planned`, `needs_credentials`, `needs_approval`, `disabled` et `blocked_by_terms` sont refusés.
+
+### Connecteur DEMO (`connectors/demo.py`)
+
+- 6 offres **inventées** : marques fictives (« Alpha DEMO »…), titres préfixés `[DEMO]`, liens
+  `example.com` (domaine réservé), GTIN de la plage GS1 « 2xx » (usage interne, jamais attribuée à
+  un produit du commerce). Aucun accès réseau.
+- Couvre volontairement les cas difficiles : même GTIN chez deux marchands, même référence avec
+  une casse différente, devises USD/GBP sans taux (prix EUR « non déterminé »), livraison
+  inconnue vs gratuite, rupture, disponibilité inconnue.
+- Chargement / suppression : boutons de la vue d'ensemble, ou `POST /api/v1/demo/load` et
+  `DELETE /api/v1/demo` (journalisés). La suppression retire tout ce qui est marqué `is_demo`.
+
+### Prochain connecteur : eBay Browse API (en attente de votre accord)
+
+Avant activation : création d'un compte développeur eBay (gratuit), clés dans `.env`, relecture
+des conditions d'utilisation (stockage et affichage des données), quotas, puis un test réel
+documenté ici. Statut tant que ce n'est pas fait : `needs_credentials`.

@@ -7,11 +7,13 @@ from pathlib import Path
 
 from alembic.config import Config
 from alembic.script import ScriptDirectory
-from sqlalchemy import text
+from sqlalchemy import select, text
 from sqlalchemy.exc import SQLAlchemyError
 from sqlalchemy.orm import Session
 
+from app.connectors.registry import implemented_slugs
 from app.core.config import APP_VERSION, Settings
+from app.models import Source, SourceStatus
 from app.schemas.system import ComponentStatus, HealthRead, SystemStatusRead
 
 logger = logging.getLogger("hunter.system")
@@ -19,11 +21,6 @@ logger = logging.getLogger("hunter.system")
 BACKEND_ROOT = Path(__file__).resolve().parents[2]
 
 UPCOMING_COMPONENTS = (
-    ComponentStatus(
-        name="Connecteurs de données",
-        status="not_implemented",
-        detail="Aucun connecteur actif (prévu en Phase 3).",
-    ),
     ComponentStatus(
         name="Planificateur",
         status="not_implemented",
@@ -60,6 +57,30 @@ def current_revision(db: Session) -> str | None:
     except SQLAlchemyError:
         db.rollback()
         return None
+
+
+def connectors_status(db: Session) -> ComponentStatus:
+    sources = db.scalars(select(Source)).all()
+    real_active = [s for s in sources if not s.is_demo and s.status == SourceStatus.active]
+    failing = [s for s in sources if s.status in (SourceStatus.error, SourceStatus.degraded)]
+    if failing:
+        names = ", ".join(s.name for s in failing)
+        return ComponentStatus(
+            name="Connecteurs de données", status="error", detail=f"En erreur : {names}."
+        )
+    if real_active:
+        return ComponentStatus(
+            name="Connecteurs de données",
+            status="ok",
+            detail=f"{len(real_active)} source(s) réelle(s) active(s).",
+        )
+    demo = " Connecteur DEMO disponible." if "demo" in implemented_slugs() else ""
+    return ComponentStatus(
+        name="Connecteurs de données",
+        status="not_configured",
+        detail="Aucune source réelle active : le premier connecteur réel (eBay) attend votre "
+        f"accord.{demo}",
+    )
 
 
 def build_health(db: Session) -> HealthRead:
@@ -100,6 +121,8 @@ def build_system_status(db: Session, settings: Settings) -> SystemStatusRead:
             ComponentStatus(name="Base de données", status="error", detail="PostgreSQL injoignable")
         )
 
+    if database_reachable(db):
+        components.append(connectors_status(db))
     components.extend(UPCOMING_COMPONENTS)
     return SystemStatusRead(
         version=APP_VERSION,
